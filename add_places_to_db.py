@@ -32,7 +32,7 @@ files=glob.glob('files/*txt')
 conn = pymysql.connect(host='localhost',user='root',passwd=PW, db='geo',charset='utf8')
 cur = conn.cursor()
 
-res=cur.execute('create table places (name varchar(100) character set utf8,clean_name varchar(100) character set utf8, lat float,lon float,country varchar(2),pop int, elevation mediumint)',)
+res=cur.execute('create table places (name varchar(100) character set utf8,clean_name varchar(100) character set utf8, lat float,lon float,country varchar(2),pop int, elevation mediumint, admin_name varchar(10), feature varchar(10))',)
 
 #################
 def clean(s):    
@@ -45,13 +45,20 @@ def putFileInDB(f='files/AE.txt'):
 
     data.columns=names
 
-    cmd="INSERT INTO places (name,clean_name,lat,lon,country,pop,elevation) VALUES (%s,%s,%s,%s,%s,%s,%s)"
+    cmd="INSERT INTO places (name,clean_name,lat,lon,country,pop,elevation,admin_name,feature) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 
     for row in data.iterrows():
 
         ############################
         ## Original name
-        temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem)
+        
+        tempAdmin=row[1].admin1
+        if pd.isnull(tempAdmin):
+            tempAdmin=''
+        # Check if admin level 1 is null
+        # Update this later to level 2
+        
+        temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
         print temp
         
         res=cur.execute(cmd,temp)
@@ -62,7 +69,7 @@ def putFileInDB(f='files/AE.txt'):
         ## All alternate names
         try:
             for name in row[1]['alternate_names'].split(','):
-                temp=(name,clean(name),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem)
+                temp=(name,clean(name),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
 
             res=cur.execute(cmd,temp)
             conn.commit()
