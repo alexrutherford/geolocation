@@ -14,7 +14,7 @@ There are two tables `places` and `admin1`
 
 1. `places` lists all place names and maps to coordinates and other info
 
-| name | clean\_name | lat | lon | country | population | elevation | admin_name | feature |
+| `name` | `clean_name` | `lat` | `lon` | `country` | `population` | `elevation` | `admin_name` | `feature` |
 | -----|-------------|------|----|---------|------------|-----------|------------|------------ |
 | Suhūl az̧ Z̧afrah | suhūl az̧ z̧afrah | 22.75 | 53.1667 | AE | 0 | 119 | 00 | 00 | PLN |
 
