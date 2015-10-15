@@ -21,7 +21,7 @@ There are two tables `places` and `admin1`
 2. `admin1` lists all first level administrative divisions e.g. in the US, these are states such as New York or Arizona
 
 | `code`| `name` | `ascii_name` | `pop` | `country` | `admin_code` |
-|---------------------------------------------------------------------------- |
+|-------|---------|-------------|-------|------------|-------------|--------- |
 | 0 | AD.06 | Sant Julià de Loria | Sant Julia de Loria | 3039162 | AD |
 
 # Gotchas
