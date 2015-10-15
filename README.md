@@ -32,15 +32,19 @@ Set up API with
 
 Which serves to http://127.0.0.1:5000/  
 
-Query DB for `location` with http://127.0.0.1:5000/loc=\<location\>  
+Query DB for `location` with http://127.0.0.1:5000/loc=`location`  
+
+e.g. http://127.0.0.1:5000/loc=Mount%20Kpa
+
+`[{"name":"Mount Kpa","clean_name":"mount kpa","lat":6.58333,"lon":-9.35,"country":"LR","pop":0,"elevation":322,"admin_name":"11","feature":"MT"}]`
 
 # Gotchas
 
-The following values sometimes appear in the admin level 1 column
+The following values sometimes appear in the admin level 1 column  
 
-00/0 = the entire country
-Values that do not appear in `admin1` table are not regular part of country
-e.g. the Tunb islands of UAE: feature code is ISL and admin code is 11
+00/0 = the entire country  
+Values that do not appear in `admin1` table are not regular part of country  
+e.g. the Tunb islands of UAE: feature code is ISL and admin code is 11  
 
 # Dependencies
 
