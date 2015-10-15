@@ -59,7 +59,7 @@ def putFileInDB(f='files/AE.txt'):
         # Update this later to level 2
         
         temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
-        print temp
+#        print temp
         
         res=cur.execute(cmd,temp)
         conn.commit()
@@ -74,11 +74,16 @@ def putFileInDB(f='files/AE.txt'):
             res=cur.execute(cmd,temp)
             conn.commit()
         except:
-            logging.warning('Error alternate names :%s' % row[1])
+#            logging.warning('Error alternate names')
+            pass
         
 ########################
 def main():
-    putFileInDB()
+    
+    for f in glob.glob('files/*txt'):
+        print f
+        if not f=='files/XXX':
+            putFileInDB(f=f)
 
 #########################
 if __name__=="__main__":

@@ -15,14 +15,24 @@ There are two tables `places` and `admin1`
 1. `places` lists all place names and maps to coordinates and other info
 
 | `name` | `clean_name` | `lat` | `lon` | `country` | `population` | `elevation` | `admin_name` | `feature` |
-| -----|-------------|------|----|---------|------------|-----------|------------|------------ |
+| ----------|-------------|-----|----|---|-------|--------|--------|-------- |
 | Suhūl az̧ Z̧afrah | suhūl az̧ z̧afrah | 22.75 | 53.1667 | AE | 0 | 119 | 00 | 00 | PLN |
 
 2. `admin1` lists all first level administrative divisions e.g. in the US, these are states such as New York or Arizona
 
 | `code`| `name` | `ascii_name` | `pop` | `country` | `admin_code` |
-|-------|---------|-------------|-------|------------|-------------|--------- |
+|------|------------|-------------|-------|---------|---------|------ |
 | 0 | AD.06 | Sant Julià de Loria | Sant Julia de Loria | 3039162 | AD |
+
+# API Call
+
+Set up API with 
+
+`python app.py`
+
+Which serves to http://127.0.0.1:5000/  
+
+Query DB for `location` with http://127.0.0.1:5000/loc=\<location\>  
 
 # Gotchas
 
