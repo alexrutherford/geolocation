@@ -28,6 +28,7 @@ There are four tables `iso`, `places`, `language` and `admin1`
 
 | `name` | `iso2` | `iso3` |
 |--|--|--|
+! Afghanistan | AF | AFG |
 
 4. `language` lists countries and their languages along with ISO code  
 
