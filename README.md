@@ -10,7 +10,7 @@ Tools to create a geolocation API similar to [that offered by Google](https://de
 
 # DB Schema
 
-There are two tables `places` and `admin1`
+There are four tables `iso`, `places`, `language` and `admin1`
 
 1. `places` lists all place names and maps to coordinates and other info
 
@@ -22,7 +22,18 @@ There are two tables `places` and `admin1`
 
 | `code`| `name` | `ascii_name` | `pop` | `country` | `admin_code` |
 |------|------------|-------------|-------|---------|---------|------ |
-| 0 | AD.06 | Sant Julià de Loria | Sant Julia de Loria | 3039162 | AD |
+| AD.06 | Sant Julià de Loria | Sant Julia de Loria | 3039162 | AD |
+
+3. `iso` lists all countries and their ISO codes  
+
+|`name`|`iso2`|`iso3`|
+|--|--|--|
+
+4. `language` lists countries and their languages along with ISO code  
+
+|`language`|`country_name`|`iso2`|`status`|
+|---------|-------------|---|-------------|
+|Brunei Malay|Brunei|BN|regional|
 
 # API Call
 
@@ -38,6 +49,8 @@ e.g. http://127.0.0.1:5000/loc=Mount%20Kpa
 
 `[{"name":"Mount Kpa","clean_name":"mount kpa","lat":6.58333,"lon":-9.35,"country":"LR","pop":0,"elevation":322,"admin_name":"11","feature":"MT"}]`
 
+Error codes follow [W3 guidelines](http://www.w3.org/Protocols/HTTP/HTRESP.html)
+
 # Gotchas
 
 The following values sometimes appear in the admin level 1 column  
@@ -48,13 +61,15 @@ e.g. the Tunb islands of UAE: feature code is ISL and admin code is 11
 
 # Dependencies
 
-#Dependencies
+Non-core Dependencies  
+
 1. [Flask](http://flask.pocoo.org/)  
 2. [MySQLdb](https://pypi.python.org/pypi/MySQL-python/1.2.4)
 3. [Requests](http://docs.python-requests.org/en/latest/)
 
 # Todo
 
+0. Add in country names explicitly!  
 1. Add in clues e.g. likely country, region, timezone or language  
 2. Add in fuzzy matching e.g. Al Raqqah/Al Raqah  
 3. Automatically query Google API and update DB  

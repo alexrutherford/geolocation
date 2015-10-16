@@ -47,6 +47,8 @@ def putFileInDB(f='files/AE.txt'):
 
     cmd="INSERT INTO places (name,clean_name,lat,lon,country,pop,elevation,admin_name,feature) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 
+    nError=0
+    
     for row in data.iterrows():
 
         ############################
@@ -60,10 +62,13 @@ def putFileInDB(f='files/AE.txt'):
         
         temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
 #        print temp
-        
-        res=cur.execute(cmd,temp)
-        conn.commit()
-        assert cur.rowcount==1
+
+        try:
+            res=cur.execute(cmd,temp)
+            conn.commit()
+            assert cur.rowcount==1
+        except:
+            nError+=1
         
         ############################
         ## All alternate names
@@ -77,6 +82,8 @@ def putFileInDB(f='files/AE.txt'):
 #            logging.warning('Error alternate names')
             pass
         
+    print 'Finised with %d errors' % nError
+    
 ########################
 def main():
     
