@@ -26,14 +26,14 @@ There are four tables `iso`, `places`, `language` and `admin1`
 
 3. `iso` lists all countries and their ISO codes  
 
-|`name`|`iso2`|`iso3`|
+| `name` | `iso2` | `iso3` |
 |--|--|--|
 
 4. `language` lists countries and their languages along with ISO code  
 
-|`language`|`country_name`|`iso2`|`status`|
-|---------|-------------|---|-------------|
-|Brunei Malay|Brunei|BN|regional|
+| `language` | `country_name` | `iso2` | `status` |
+|---------|-------------|---|------------- |
+| Brunei Malay | Brunei | BN | regional |
 
 # API Call
 
