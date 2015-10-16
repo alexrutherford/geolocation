@@ -41,6 +41,8 @@ def clean(s):
 #################
 def putFileInDB(f='files/AE.txt'):
 
+    nError=0
+    
     try:
         data=pd.read_csv(f,sep='\t',header=None)
 
@@ -61,25 +63,27 @@ def putFileInDB(f='files/AE.txt'):
             tempAdmin=''
         # Check if admin level 1 is null
         # Update this later to level 2
+        try:
+            temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
         
-        temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
-#        print temp
-        
-        res=cur.execute(cmd,temp)
-        conn.commit()
-        assert cur.rowcount==1
-        
+            res=cur.execute(cmd,temp)
+            conn.commit()
+            assert cur.rowcount==1
+        except:
+            nError+=1
         ############################
         ## All alternate names
         try:
             for name in row[1]['alternate_names'].split(','):
                 temp=(name,clean(name),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
 
-            res=cur.execute(cmd,temp)
-            conn.commit()
+                res=cur.execute(cmd,temp)
+                conn.commit()
         except:
 #            logging.warning('Error alternate names')
+            nError+=1
             pass
+    print '%d errors, %d total' % (nError,data.shape[0])
         
 ########################
 def main():
