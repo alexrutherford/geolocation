@@ -35,16 +35,16 @@ cur = conn.cursor()
 res=cur.execute('create table places (name varchar(100) character set utf8,clean_name varchar(100) character set utf8, lat float,lon float,country varchar(2),pop int, elevation mediumint, admin_name varchar(10), feature varchar(10))',)
 
 #################
-def clean(s):    
+def clean(s):
     return re.sub(r'\'|\.','',s.lower())
 
 #################
 def putFileInDB(f='files/AE.txt'):
 
     nError=0
-    
+
     try:
-        data=pd.read_csv(f,sep='\t',header=None)
+        data=pd.read_csv(f,sep='\t',header=None,low_memory=False)
 
         data.columns=names
     except:
@@ -57,7 +57,7 @@ def putFileInDB(f='files/AE.txt'):
 
         ############################
         ## Original name
-        
+
         tempAdmin=row[1].admin1
         if pd.isnull(tempAdmin):
             tempAdmin=''
@@ -65,7 +65,7 @@ def putFileInDB(f='files/AE.txt'):
         # Update this later to level 2
         try:
             temp=(row[1]['name'],clean(row[1]['name']),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
-        
+
             res=cur.execute(cmd,temp)
             conn.commit()
             assert cur.rowcount==1
@@ -73,22 +73,25 @@ def putFileInDB(f='files/AE.txt'):
             nError+=1
         ############################
         ## All alternate names
-        try:
-            for name in row[1]['alternate_names'].split(','):
-                temp=(name,clean(name),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
+        if not pd.isnull(row[1]['alternate_names']):
+            try:
+                for name in row[1]['alternate_names'].split(','):
+                    temp=(name,clean(name),row[1].lat,row[1]['long'],row[1].country,row[1].population,row[1].elevation_dem,tempAdmin,row[1]['feature code'])
 
-                res=cur.execute(cmd,temp)
-                conn.commit()
-        except:
-#            logging.warning('Error alternate names')
-            nError+=1
-            pass
+                    res=cur.execute(cmd,temp)
+                    conn.commit()
+            except:
+    #            logging.warning('Error alternate names')
+                nError+=1
+                pass
     print '%d errors, %d total' % (nError,data.shape[0])
-        
+
 ########################
 def main():
-    
-    for f in glob.glob('files/*txt'):
+    files=glob.glob('files/*txt')
+    files.sort()
+
+    for f in files:
         print f
         if not f=='files/US.txt':
             putFileInDB(f=f)

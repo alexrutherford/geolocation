@@ -32,13 +32,15 @@ There are four tables `iso`, `places`, `language` and `admin1`
 
 4. `language` lists countries and their languages along with ISO code  
 
-| `language` | `country_name` | `iso2` | `status` |
-|---------|-------------|---|------------- |
-| Brunei Malay | Brunei | BN | regional |
+| `language` | `country_name` | `iso2` | `status` | `lang_iso` | `level` |
+|---------|-------------|---|------------- |-----|-----|
+| Brunei Malay | brunei | BN | regional | NULL | 2
+
+`level` indicates importance of language in that country e.g. 'Significant minority' is level 2 while 'Official' is level 1
 
 # API Call
 
-Set up API with 
+Set up API with
 
 `python app.py`
 
@@ -50,10 +52,10 @@ e.g. http://127.0.0.1:5000/loc=Mount%20Kpa
 
 `[{"name":"Mount Kpa","clean_name":"mount kpa","lat":6.58333,"lon":-9.35,"country":"LR","pop":0,"elevation":322,"admin_name":"11","feature":"MT"}]`
 
-Query DB for `location` with country hint with http://127.0.0.1:5000/loc=`location`&country=`country` 
+Query DB for `location` with country hint with http://127.0.0.1:5000/loc=`location`&country=`country`
 * Uses ISO-2 code for [countries](https://en.wikipedia.org/wiki/ISO_3166-1)
 
-Query DB for `location` with language hint with http://127.0.0.1:5000/loc=`location`&langs=`lang1,lang2...` 
+Query DB for `location` with language hint with http://127.0.0.1:5000/loc=`location`&langs=`lang1,lang2...`
 * Uses ISO-2 code for [languages](http://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/)
 
 

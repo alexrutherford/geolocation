@@ -1,1424 +1,1424 @@
-name,Language,Status,iso,name,type
-Brunei,Brunei Malay,regional,BN,Brunei,Bornean
-Malaysia,Brunei Malay,minority,MY,Malaysia,Bornean
-Malaysia,Coastal Kadazan,minority,MY,Malaysia,Bornean
-Malaysia,Iban,regional,MY,Malaysia,Bornean
-Brunei,Iban,minority,BN,Brunei,Bornean
-Indonesia,Iban,minority,ID,Indonesia,Bornean
-Comoros,Malagasy,minority,KM,Comoros,Bornean
-Madagascar,Malagasy,official,MG,Madagascar,Bornean
-Mayotte,Malagasy,minority,YT,Mayotte,Bornean
-Angola,Min,minority,AO,Angola,Min
-Cape Verde,Min,minority,CV,Cape Verde,Min
-Mauritius,Min,minority,MU,Mauritius,Min
-South Africa,Min,minority,ZA,South Africa,Min
-Brunei,Min,minority,BN,Brunei,Min
-Cambodia,Min,minority,KH,Cambodia,Min
-China,Min,regional,CN,China,Min
-Hong Kong,Min,minority,HK,Hong Kong,Min
-Indonesia,Min,minority,ID,Indonesia,Min
-Japan,Min,minority,JP,Japan,Min
-Laos,Min,minority,LA,Laos,Min
-Macau,Min,minority,MO,Macau,Min
-Malaysia,Min,"minority, lingua franca in Penang",MY,Malaysia,Min
-Burma,Min,minority,MM,Burma,Min
-North Korea,Min,minority,KP,North Korea,Min
-Philippines,Min,minority,PH,Philippines,Min
-Singapore,Min,minority,SG,Singapore,Min
-South Korea,Min,minority,KR,South Korea,Min
-Taiwan,Min,"widely spoken, lingua franca alongside with Mandarin, see Taiwanese Minnan",TW,Taiwan,Min
-Thailand,Min,minority,TH,Thailand,Min
-Vietnam,Min,minority,VN,Vietnam,Min
-Bulgaria,Min,minority,BG,Bulgaria,Min
-France,Min,minority,FR,France,Min
-Germany,Min,minority,DE,Germany,Min
-Ireland,Min,minority,IE,Ireland,Min
-Italy,Min,minority,IT,Italy,Min
-Netherlands,Min,minority,NL,Netherlands,Min
-Romania,Min,minority,RO,Romania,Min
-Russia,Min,minority,RU,Russia,Min
-Serbia,Min,minority,RS,Serbia,Min
-Spain,Min,minority,ES,Spain,Min
-United Kingdom,Min,minority,GB,United Kingdom,Min
-Canada,Min,minority,CA,Canada,Min
-Cuba,Min,minority,CU,Cuba,Min
-Dominican Republic,Min,minority,DO,Dominican Republic,Min
-Jamaica,Min,minority,JM,Jamaica,Min
-Mexico,Min,minority,MX,Mexico,Min
-Nicaragua,Min,minority,NI,Nicaragua,Min
-Panama,Min,minority,PA,Panama,Min
-Trinidad and Tobago,Min,minority,TT,Trinidad and Tobago,Min
-United States,Min,minority,US,United States,Min
-Australia,Min,minority,AU,Australia,Min
-Fiji,Min,minority,FJ,Fiji,Min
-New Zealand,Min,minority,NZ,New Zealand,Min
-Samoa,Min,minority,WS,Samoa,Min
-Tonga,Min,minority,TO,Tonga,Min
-Argentina,Min,minority,AR,Argentina,Min
-Brazil,Min,minority,BR,Brazil,Min
-Chile,Min,regional,CL,Chile,Min
-Guyana,Min,minority,GY,Guyana,Min
-Peru,Min,minority,PE,Peru,Min
-Suriname,Min,minority,SR,Suriname,Min
-Vietnam,Bahnar[20],"minority, 227,716 p. in south Vietnam (2009)",VN,Vietnam,Cherokee
-Laos,Bru[21],"minority, 69,000 p. in south Laos.",LA,Laos,Cherokee
-Vietnam,Bru[21],"minority, 74,500 p. in central Vietnam (2009)",VN,Vietnam,Cherokee
-Thailand,Bru[21],minority,TH,Thailand,Cherokee
-India,Khasi,official language in Meghalaya,IN,India,Cherokee
-Cambodia,Khmer[22],official,KH,Cambodia,Cherokee
-Vietnam,Khmer[22],"minority, 1.26 mi. p. in south Vietnam",VN,Vietnam,Cherokee
-Thailand,Khmer[22],minority,TH,Thailand,Cherokee
-Laos,Khmu[21],"minority, 621,000 p.",LA,Laos,Cherokee
-Vietnam,Khmu[21],"minority, 73,000 p.",VN,Vietnam,Cherokee
-Thailand,Khmu[21],"minority, 10,000 p.",TH,Thailand,Cherokee
-China,Khmu[21],minority,CN,China,Cherokee
-Thailand,Kuy[23],minority,TH,Thailand,Cherokee
-Cambodia,Kuy[23],minority,KH,Cambodia,Cherokee
-Laos,Kuy[23],minority,LA,Laos,Cherokee
-Vietnam,Mnong[20],minority,VN,Vietnam,Cherokee
-Cambodia,Mnong[20],minority,KH,Cambodia,Cherokee
-Burma,Mon,Recognised regional language,MM,Burma,Cherokee
-Thailand,Mon,minority,TH,Thailand,Cherokee
-Vietnam,Muong[20],"minority, spoken by 1.6 mi. Muong peoples in north Vietnam",VN,Vietnam,Cherokee
-Vietnam,Vietnamese,official,VN,Vietnam,Cherokee
-Czech Republic,Vietnamese,minority[24],CZ,Czech Republic,Cherokee
-United States,Vietnamese,minority[3],US,United States,Cherokee
-Australia,Vietnamese,"minority, 0.21 mi.p.[25]",AU,Australia,Cherokee
-Cambodia,Vietnamese,"minority, 0.6 mi.p.[26]",KH,Cambodia,Cherokee
-Canada,Vietnamese,"minority, 0.22 mi.p.",CA,Canada,Cherokee
-France,Vietnamese,"minority, 0.3 mi.p.",FR,France,Cherokee
-Laos,Vietnamese,"minority, 0.1 mi.p.",LA,Laos,Cherokee
-Burma,Wa[27],"minority, 0.9 mi. peoples in Shan state",MM,Burma,Cherokee
-China,Wa[27],"minority, 0.4 mi. peoples in China's Yunnan Province.",CN,China,Cherokee
-France,Breton,"minority language in  Brittany, but unofficial",FR,France,Celtic
-United Kingdom,Cornish,"minority language in  Cornwall, but unofficial",GB,United Kingdom,Celtic
-Ireland,Irish,co-official with English,IE,Ireland,Celtic
-United Kingdom,Irish,minority and official in Northern Ireland,GB,United Kingdom,Celtic
-United States,Irish,minority,US,United States,Celtic
-Isle of Man,Manx,minority,IM,Isle of Man,Celtic
-Canada,Scottish Gaelic,minority in  Nova Scotia,CA,Canada,Celtic
-United Kingdom,Scottish Gaelic,significant minority in  Scotland,GB,United Kingdom,Celtic
-United States,Scottish Gaelic,minority,US,United States,Celtic
-Argentina,Welsh,significant minority in  Chubut,AR,Argentina,Celtic
-United Kingdom,Welsh,spoken by approximately 20% of the population in Wales[1] and co-official with English,GB,United Kingdom,Celtic
-United States,Welsh,minority,US,United States,Celtic
-Fiji,Fijian,official,FJ,Fiji,East Fijian
-Angola,Mandarin,minority,AO,Angola,Mandarin
-Cape Verde,Mandarin,minority,CV,Cape Verde,Mandarin
-Mauritius,Mandarin,minority,MU,Mauritius,Mandarin
-South Africa,Mandarin,minority,ZA,South Africa,Mandarin
-Brunei,Mandarin,minority,BN,Brunei,Mandarin
-Cambodia,Mandarin,minority,KH,Cambodia,Mandarin
-China,Mandarin,national,CN,China,Mandarin
-Hong Kong,Mandarin,co-official with English and Cantonese,HK,Hong Kong,Mandarin
-Indonesia,Mandarin,minority,ID,Indonesia,Mandarin
-Japan,Mandarin,minority,JP,Japan,Mandarin
-Laos,Mandarin,minority,LA,Laos,Mandarin
-Macau,Mandarin,co-official with Portuguese and Cantonese,MO,Macau,Mandarin
-Malaysia,Mandarin,minority,MY,Malaysia,Mandarin
-Burma,Mandarin,minority,MM,Burma,Mandarin
-North Korea,Mandarin,minority,KP,North Korea,Mandarin
-Philippines,Mandarin,minority,PH,Philippines,Mandarin
-Singapore,Mandarin,"co-official with Tamil, English, and Malay",SG,Singapore,Mandarin
-South Korea,Mandarin,minority,KR,South Korea,Mandarin
-Taiwan,Mandarin,official,TW,Taiwan,Mandarin
-Thailand,Mandarin,minority,TH,Thailand,Mandarin
-Vietnam,Mandarin,minority,VN,Vietnam,Mandarin
-Bulgaria,Mandarin,minority,BG,Bulgaria,Mandarin
-France,Mandarin,minority,FR,France,Mandarin
-Germany,Mandarin,minority,DE,Germany,Mandarin
-Ireland,Mandarin,minority,IE,Ireland,Mandarin
-Italy,Mandarin,minority,IT,Italy,Mandarin
-Netherlands,Mandarin,minority,NL,Netherlands,Mandarin
-Romania,Mandarin,minority,RO,Romania,Mandarin
-Russia,Mandarin,minority,RU,Russia,Mandarin
-Serbia,Mandarin,minority,RS,Serbia,Mandarin
-Spain,Mandarin,minority,ES,Spain,Mandarin
-United Kingdom,Mandarin,minority,GB,United Kingdom,Mandarin
-Canada,Mandarin,minority,CA,Canada,Mandarin
-Cuba,Mandarin,minority,CU,Cuba,Mandarin
-Dominican Republic,Mandarin,minority,DO,Dominican Republic,Mandarin
-Jamaica,Mandarin,minority,JM,Jamaica,Mandarin
-Mexico,Mandarin,minority,MX,Mexico,Mandarin
-Nicaragua,Mandarin,minority,NI,Nicaragua,Mandarin
-Panama,Mandarin,minority,PA,Panama,Mandarin
-Trinidad and Tobago,Mandarin,minority,TT,Trinidad and Tobago,Mandarin
-United States,Mandarin,minority[3],US,United States,Mandarin
-Australia,Mandarin,minority,AU,Australia,Mandarin
-Fiji,Mandarin,minority,FJ,Fiji,Mandarin
-New Zealand,Mandarin,minority,NZ,New Zealand,Mandarin
-Samoa,Mandarin,minority,WS,Samoa,Mandarin
-Tonga,Mandarin,minority,TO,Tonga,Mandarin
-Argentina,Mandarin,minority,AR,Argentina,Mandarin
-Brazil,Mandarin,minority,BR,Brazil,Mandarin
-Chile,Mandarin,regional,CL,Chile,Mandarin
-Guyana,Mandarin,minority,GY,Guyana,Mandarin
-Peru,Mandarin,minority,PE,Peru,Mandarin
-Suriname,Mandarin,minority,SR,Suriname,Mandarin
-Andorra,Italic,"spoken, not official",AD,Andorra,Italic
-Belgium,Italic,co-official with Dutch,BE,Belgium,Italic
-France,Italic,official,FR,France,Italic
-Italy,Italic,co-official in the  Aosta Valley,IT,Italy,Italic
-Luxembourg,Italic,co-official with Luxembourgish,LU,Luxembourg,Italic
-Monaco,Italic,official,MC,Monaco,Italic
-Switzerland,Italic,"co-official with German, Italian, and Romansh",CH,Switzerland,Italic
-Algeria,Italic,"unofficial, but widely used",DZ,Algeria,Italic
-Benin,Italic,official,BJ,Benin,Italic
-Burkina Faso,Italic,official,BF,Burkina Faso,Italic
-Burundi,Italic,co-official with Kirundi,BI,Burundi,Italic
-Cameroon,Italic,co-official with English,CM,Cameroon,Italic
-Central African Republic,Italic,co-official with Sango,CF,Central African Republic,Italic
-Chad,Italic,co-official with Arabic,TD,Chad,Italic
-Comoros,Italic,co-official with Arabic and Comorian,KM,Comoros,Italic
-Dem. Rep. Congo,Italic,official,,Dem. Rep. Congo,Italic
-Congo,Italic,official,CG,Congo,Italic
-Ivory Coast,Italic,official,,Ivory Coast,Italic
-Djibouti,Italic,co-official with Arabic,DJ,Djibouti,Italic
-Equatorial Guinea,Italic,co-official with Spanish,GQ,Equatorial Guinea,Italic
-Gabon,Italic,official,GA,Gabon,Italic
-Guinea,Italic,official,GN,Guinea,Italic
-Madagascar,Italic,co-official with Malagasy,MG,Madagascar,Italic
-Mali,Italic,official,ML,Mali,Italic
-Mauritania,Italic,de facto,MR,Mauritania,Italic
-Mauritius,Italic,de facto,MU,Mauritius,Italic
-Morocco,Italic,de facto,MA,Morocco,Italic
-Niger,Italic,official,NE,Niger,Italic
-Réunion,Italic,official,,Réunion,Italic
-Rwanda,Italic,co-official with English and Kinyarwanda,RW,Rwanda,Italic
-Senegal,Italic,official; Wolof most widely spoken,SN,Senegal,Italic
-Seychelles,Italic,co-official with English and Seychellois Creole,SC,Seychelles,Italic
-Togo,Italic,official,TG,Togo,Italic
-Tunisia,Italic,"unofficial, but widely used",TN,Tunisia,Italic
-Cambodia,Italic,minority,KH,Cambodia,Italic
-Vietnam,Italic,minority,VN,Vietnam,Italic
-Laos,Italic,administrative language,LA,Laos,Italic
-Lebanon,Italic,co-official with Arabic,LB,Lebanon,Italic
-India,Italic,"in Puducherry, co-official with Tamil, Telugu, and Malayalam",IN,India,Italic
-Canada,Italic,"co-official with English; majority in Quebec, minority in New Brunswick, Ontario, Manitoba",CA,Canada,Italic
-Guadeloupe,Italic,official,GP,Guadeloupe,Italic
-Haiti,Italic,co-official with Haitian Creole,HT,Haiti,Italic
-Martinique,Italic,official,MQ,Martinique,Italic
-Saint Barthélemy,Italic,official,,Saint Barthélemy,Italic
-Saint Martin,Italic,official,,Saint Martin,Italic
-Saint Pierre and Miquelon,Italic,official,PM,Saint Pierre and Miquelon,Italic
-United States,Italic,"minority language, especially in Louisiana, Maine, Vermont, and New Hampshire[3]",US,United States,Italic
-French Polynesia,Italic,official,PF,French Polynesia,Italic
-New Caledonia,Italic,official,NC,New Caledonia,Italic
-Vanuatu,Italic,co-official with English and Bislama,VU,Vanuatu,Italic
-Wallis and Futuna,Italic,official,WF,Wallis and Futuna,Italic
-French Guiana,Italic,official,GF,French Guiana,Italic
-Brazil,Italic,"minority, significantly in RJ/ES and other coastal states; see French, Belgian and Swiss Brazilians",BR,Brazil,Italic
-Netherlands,Dutch,official,NL,Netherlands,Dutch
-Belgium,Dutch,co-official with French and German,BE,Belgium,Dutch
-France,Dutch,in French Flanders,FR,France,Dutch
-Germany,Dutch,in Low Rhine Country,DE,Germany,Dutch
-South Africa,Dutch,"spoken as minority, often used together with daughter language Afrikaans",ZA,South Africa,Dutch
-Namibia,Dutch,"spoken as minority, often used together with daughter language Afrikaans",NA,Namibia,Dutch
-Indonesia,Dutch,regional language in minority (historic language),ID,Indonesia,Dutch
-New Zealand,Dutch,Minority,NZ,New Zealand,Dutch
-Aruba,Dutch,co-official with Papiamento,AW,Aruba,Dutch
-Curaçao,Dutch,co-official with English and Papiamento,,Curaçao,Dutch
-Sint Maarten,Dutch,co-official with English,,Sint Maarten,Dutch
-United States,Dutch,spoken in minority primarily in Michigan and Indiana,US,United States,Dutch
-Canada,Dutch,Minority,CA,Canada,Dutch
-Suriname,Dutch,official,SR,Suriname,Dutch
-French Guiana,Dutch,"unofficial, spoken in Saint-Laurent-du-Maroni",GF,French Guiana,Dutch
-India,Angika,"majority in Anga, significant minority in the rest of the country",IN,India,Other Indo-Aryan
-Nepal,Angika,"minority language, in Terai region",NP,Nepal,Other Indo-Aryan
-Bhutan,Assamese,minority,BT,Bhutan,Other Indo-Aryan
-India,Assamese,official language along with 21 others,IN,India,Other Indo-Aryan
-United Kingdom,Assamese,minority,GB,United Kingdom,Other Indo-Aryan
-United States,Assamese,minority,US,United States,Other Indo-Aryan
-Bhutan,Awadhi[8],minority,BT,Bhutan,Other Indo-Aryan
-India,Awadhi[8],"majority in Uttar Pradesh, minority in Bihar, Madhya Pradesh, and Delhi",IN,India,Other Indo-Aryan
-India,Bhili,minority,IN,India,Other Indo-Aryan
-Fiji,Bhojpuri,minority,FJ,Fiji,Other Indo-Aryan
-Guyana,Bhojpuri,minority,GY,Guyana,Other Indo-Aryan
-India,Bhojpuri,"in Bihar, Jharkhand, and Uttar Pradesh",IN,India,Other Indo-Aryan
-Mauritius,Bhojpuri,minority,MU,Mauritius,Other Indo-Aryan
-Nepal,Bhojpuri,minority,NP,Nepal,Other Indo-Aryan
-United Kingdom,Bhojpuri,minority,GB,United Kingdom,Other Indo-Aryan
-Suriname,Bhojpuri,minority,SR,Suriname,Other Indo-Aryan
-Trinidad and Tobago,Bhojpuri,minority,TT,Trinidad and Tobago,Other Indo-Aryan
-Seychelles,Bhojpuri,minority,SC,Seychelles,Other Indo-Aryan
-South Africa,Bhojpuri,minority,ZA,South Africa,Other Indo-Aryan
-Australia,Bhojpuri,minority,AU,Australia,Other Indo-Aryan
-India,Bishnupriya Manipuri,"minority, mostly in Manipur, Assam and Tripura",IN,India,Other Indo-Aryan
-Bangladesh,Bishnupriya Manipuri,minority,BD,Bangladesh,Other Indo-Aryan
-Burma,Bishnupriya Manipuri,minority,MM,Burma,Other Indo-Aryan
-Bangladesh,Chakma,"minority, mostly in Chittagong Division",BD,Bangladesh,Other Indo-Aryan
-India,Chakma,"minority, mostly in Tripura, Mizoram, Arunachal Pradesh",IN,India,Other Indo-Aryan
-India,Chhattisgarhi,"majority in Chhattisgarh, minority in Madhya Pradesh, Orissa, and Bihar",IN,India,Other Indo-Aryan
-Bangladesh,Chittagonian,"significant minority, major language of Chittagong Division of Bangladesh",BD,Bangladesh,Other Indo-Aryan
-Burma,Chittagonian,"minority, mostly in Arakan and Yangon",MM,Burma,Other Indo-Aryan
-Oman,Chittagonian,minority,OM,Oman,Other Indo-Aryan
-Saudi Arabia,Chittagonian,minority,SA,Saudi Arabia,Other Indo-Aryan
-United Arab Emirates,Chittagonian,minority,AE,United Arab Emirates,Other Indo-Aryan
-Qatar,Chittagonian,minority,QA,Qatar,Other Indo-Aryan
-Kuwait,Chittagonian,minority,KW,Kuwait,Other Indo-Aryan
-Pakistan,Chittagonian,"minority, mostly in Karachi",PK,Pakistan,Other Indo-Aryan
-United Kingdom,Chittagonian,minority,GB,United Kingdom,Other Indo-Aryan
-United States,Chittagonian,minority,US,United States,Other Indo-Aryan
-India,Dhivehi,in Lakshadweep,IN,India,Other Indo-Aryan
-Maldives,Dhivehi,official,MV,Maldives,Other Indo-Aryan
-Pakistan,Dogri,"in Punjab, and Azad Kashmir",PK,Pakistan,Other Indo-Aryan
-India,Dogri,"in Jammu and Kashmir, Punjab, and Himachal Pradesh",IN,India,Other Indo-Aryan
-Australia,Gujarati,minority,AU,Australia,Other Indo-Aryan
-Canada,Gujarati,significant minority,CA,Canada,Other Indo-Aryan
-India,Gujarati,official in Gujarat,IN,India,Other Indo-Aryan
-Pakistan,Gujarati,significant minority,PK,Pakistan,Other Indo-Aryan
-South Africa,Gujarati,significant minority,ZA,South Africa,Other Indo-Aryan
-Kenya,Gujarati,minority,KE,Kenya,Other Indo-Aryan
-Mauritius,Gujarati,minority,MU,Mauritius,Other Indo-Aryan
-Tanzania,Gujarati,minority,TZ,Tanzania,Other Indo-Aryan
-Uganda,Gujarati,minority,UG,Uganda,Other Indo-Aryan
-United Kingdom,Gujarati,significant minority,GB,United Kingdom,Other Indo-Aryan
-United States,Gujarati,significant minority,US,United States,Other Indo-Aryan
-Zimbabwe,Gujarati,minority,ZW,Zimbabwe,Other Indo-Aryan
-India,Hajong,"minority, mostly in Assam, Meghalaya, Arunachal Pradesh and West Bengal",IN,India,Other Indo-Aryan
-Bangladesh,Hajong,minority,BD,Bangladesh,Other Indo-Aryan
-India,Halbi,"in Madhya Pradesh, Chhattisgarh, and Andhra Pradesh",IN,India,Other Indo-Aryan
-Pakistan,Kalash,minority,PK,Pakistan,Other Indo-Aryan
-Afghanistan,Kalash,minority,AF,Afghanistan,Other Indo-Aryan
-India,Kashmiri,"official, spoken in Delhi, Jammu and Kashmir, Punjab, and Uttar Pradesh",IN,India,Other Indo-Aryan
-Pakistan,Kashmiri,spoken in Azad Kashmir,PK,Pakistan,Other Indo-Aryan
-United Kingdom,Kashmiri,"minority, mostly by immigrants from Azad Kashmir",GB,United Kingdom,Other Indo-Aryan
-India,Khandeshi,"minority, spoken in Maharashtra, Gujarat",IN,India,Other Indo-Aryan
-Pakistan,Khowar,"majority in Chitral, minority in Gilgit",PK,Pakistan,Other Indo-Aryan
-India,Kannada,official in Karnataka state,IN,India,Other Indo-Aryan
-United States,Kannada,minority,US,United States,Other Indo-Aryan
-India,Kumaoni,"majority in Uttarakhand, minority in Assam",IN,India,Other Indo-Aryan
-Armenia,Lomavren,minority,AM,Armenia,Other Indo-Aryan
-Azerbaijan,Lomavren,minority,AZ,Azerbaijan,Other Indo-Aryan
-Bulgaria,Lomavren,minority,BG,Bulgaria,Other Indo-Aryan
-Georgia,Lomavren,minority,GE,Georgia,Other Indo-Aryan
-Iran,Lomavren,minority,IR,Iran,Other Indo-Aryan
-Russia,Lomavren,minority,RU,Russia,Other Indo-Aryan
-Syria,Lomavren,minority,SY,Syria,Other Indo-Aryan
-India,Magadhi,official in Bihar,IN,India,Other Indo-Aryan
-India,Maithili,official in Bihar,IN,India,Other Indo-Aryan
-Nepal,Maithili,significant minority in Terai,NP,Nepal,Other Indo-Aryan
-India,Mal Paharia,"minority, mostly in Jharkhand and West Bengal",IN,India,Other Indo-Aryan
-Bangladesh,Mal Paharia,minority,BD,Bangladesh,Other Indo-Aryan
-India,Marathi,"official along with 21 others, widely spoken in Maharashtra & Goa, Gujarat, Madhya Pradesh, Sindh, Karnataka, Andhra Pradesh, Tamil Nadu, Chhattisgarh, Dadra and Nagar Haveli, Telangana, Daman and Diu.",IN,India,Other Indo-Aryan
-Israel,Marathi,minority,IL,Israel,Other Indo-Aryan
-Mauritius,Marathi,minority,MU,Mauritius,Other Indo-Aryan
-Singapore,Marathi,minority,SG,Singapore,Other Indo-Aryan
-United States,Marathi,Significant minority,US,United States,Other Indo-Aryan
-United Kingdom,Marathi,Significant minority,GB,United Kingdom,Other Indo-Aryan
-Australia,Marathi,Significant minority,AU,Australia,Other Indo-Aryan
-New Zealand,Marathi,Significant minority,NZ,New Zealand,Other Indo-Aryan
-South Africa,Marathi,Significant minority,ZA,South Africa,Other Indo-Aryan
-United Arab Emirates,Marathi,Significant minority,AE,United Arab Emirates,Other Indo-Aryan
-Bahrain,Marathi,Significant minority,BH,Bahrain,Other Indo-Aryan
-India,Marwari,"primarily in Rajasthan and Gujarat and its too spoken in west Bengal, Bihar,jharkhand, eastern u.p, assam , and northeastern states",IN,India,Other Indo-Aryan
-Bhutan,Nepali,unofficial,BT,Bhutan,Other Indo-Aryan
-Hong Kong,Nepali,unofficial,HK,Hong Kong,Other Indo-Aryan
-India,Nepali,"official in Sikkim, regional language in West Bengal",IN,India,Other Indo-Aryan
-Myanmar,Nepali,unofficial,MM,Myanmar,Other Indo-Aryan
-Nepal,Nepali,official,NP,Nepal,Other Indo-Aryan
-United Kingdom,Nepali,unofficial,GB,United Kingdom,Other Indo-Aryan
-Bangladesh,Oriya,minority,BD,Bangladesh,Other Indo-Aryan
-India,Oriya,official in Orissa,IN,India,Other Indo-Aryan
-India,Punjabi,official with others,IN,India,Other Indo-Aryan
-Pakistan,Punjabi,majority in Punjab,PK,Pakistan,Other Indo-Aryan
-United Kingdom,Punjabi,significant minority,GB,United Kingdom,Other Indo-Aryan
-Canada,Punjabi,minority,CA,Canada,Other Indo-Aryan
-United States,Punjabi,minority,US,United States,Other Indo-Aryan
-India,Rajasthani,official along with others,IN,India,Other Indo-Aryan
-Pakistan,Rajasthani,minority,PK,Pakistan,Other Indo-Aryan
-India,Rajbanshi,minority,IN,India,Other Indo-Aryan
-Bangladesh,Rajbanshi,minority,BD,Bangladesh,Other Indo-Aryan
-Nepal,Rajbanshi,minority,NP,Nepal,Other Indo-Aryan
-Burma,Rohingya,"minority, mostly in Arakan, Burma",MM,Burma,Other Indo-Aryan
-Bangladesh,Rohingya,"minority, mostly in Chittagong Division, Bangladesh",BD,Bangladesh,Other Indo-Aryan
-Pakistan,Rohingya,"minority, mostly in Karachi",PK,Pakistan,Other Indo-Aryan
-Saudi Arabia,Rohingya,minority,SA,Saudi Arabia,Other Indo-Aryan
-Oman,Rohingya,minority,OM,Oman,Other Indo-Aryan
-United Arab Emirates,Rohingya,minority,AE,United Arab Emirates,Other Indo-Aryan
-Thailand,Rohingya,minority,TH,Thailand,Other Indo-Aryan
-Malaysia,Rohingya,minority,MY,Malaysia,Other Indo-Aryan
-India,Rohingya,minority,IN,India,Other Indo-Aryan
-Hong Kong,Sindhi,minority,HK,Hong Kong,Other Indo-Aryan
-India,Sindhi,official with others,IN,India,Other Indo-Aryan
-Oman,Sindhi,minority,OM,Oman,Other Indo-Aryan
-Pakistan,Sindhi,majority in Sindh,PK,Pakistan,Other Indo-Aryan
-Philippines,Sindhi,minority[citation needed],PH,Philippines,Other Indo-Aryan
-Singapore,Sindhi,minority,SG,Singapore,Other Indo-Aryan
-United Arab Emirates,Sindhi,minority,AE,United Arab Emirates,Other Indo-Aryan
-United Kingdom,Sindhi,minority,GB,United Kingdom,Other Indo-Aryan
-United States,Sindhi,minority,US,United States,Other Indo-Aryan
-Sri Lanka,Sinhalese,co-official with Tamil,LK,Sri Lanka,Other Indo-Aryan
-Bangladesh,Sylheti,major language of Sylhet Division of Bangladesh,BD,Bangladesh,Other Indo-Aryan
-India,Sylheti,"significant minority in the state of Assam, especially in Barak Valley",IN,India,Other Indo-Aryan
-United Kingdom,Sylheti,significant minority,GB,United Kingdom,Other Indo-Aryan
-United States,Sylheti,minority,US,United States,Other Indo-Aryan
-United Arab Emirates,Sylheti,minority,AE,United Arab Emirates,Other Indo-Aryan
-Bangladesh,Tanchangya,"minority; mainly in Chittagong Division, related to Chakma, Chittagonian, Pali, Prakrit, Sanskrit Rohingya and Bengali language",BD,Bangladesh,Other Indo-Aryan
-India,Tanchangya,"minority; mainly in Indian states of Assam, Tripura and Mizoram",IN,India,Other Indo-Aryan
-Burma,Tanchangya,"minority; mainly in Rakhine State, and few of them in Chin State and Yangon Division of Burma",MM,Burma,Other Indo-Aryan
-Bahrain,Urdu,minority,BH,Bahrain,Other Indo-Aryan
-Bangladesh,Urdu,significant minority,BD,Bangladesh,Other Indo-Aryan
-Fiji,Urdu,co-official as Hindustani with English and Fijian,FJ,Fiji,Other Indo-Aryan
-India,Urdu,co-official with 21 others,IN,India,Other Indo-Aryan
-Nepal,Urdu,minority,NP,Nepal,Other Indo-Aryan
-Mauritius,Urdu,minority,MU,Mauritius,Other Indo-Aryan
-Oman,Urdu,minority,OM,Oman,Other Indo-Aryan
-Pakistan,Urdu,co-official with English,PK,Pakistan,Other Indo-Aryan
-Qatar,Urdu,minority,QA,Qatar,Other Indo-Aryan
-Saudi Arabia,Urdu,minority,SA,Saudi Arabia,Other Indo-Aryan
-South Africa,Urdu,minority,ZA,South Africa,Other Indo-Aryan
-United Arab Emirates,Urdu,minority,AE,United Arab Emirates,Other Indo-Aryan
-United Kingdom,Urdu,minority,GB,United Kingdom,Other Indo-Aryan
-United States,Urdu,minority,US,United States,Other Indo-Aryan
-India,Badaga,minority,IN,India,Dravidian languages
-Pakistan,Brahui,"minority, spoken in Balochistan",PK,Pakistan,Dravidian languages
-Iran,Brahui,minority,IR,Iran,Dravidian languages
-Afghanistan,Brahui,minority,AF,Afghanistan,Dravidian languages
-Turkmenistan,Brahui,minority,TM,Turkmenistan,Dravidian languages
-India,Chenchu,minority,IN,India,Dravidian languages
-India,Duruwa,minority,IN,India,Dravidian languages
-India,Gondi,minority,IN,India,Dravidian languages
-India,Kolami,minority,IN,India,Dravidian languages
-India,Koraga,minority,IN,India,Dravidian languages
-India,Kota,"minority, endangered Dravidian language",IN,India,Dravidian languages
-India,Koya,minority,IN,India,Dravidian languages
-India,Kui,minority,IN,India,Dravidian languages
-India,Kumarbhag Paharia,minority,IN,India,Dravidian languages
-Bangladesh,Kurukh,minority,BD,Bangladesh,Dravidian languages
-India,Kurukh,minority,IN,India,Dravidian languages
-India,Maria,minority,IN,India,Dravidian languages
-India,Nagarchal,"minority, endangered Dravidian language",IN,India,Dravidian languages
-India,Pardhan,minority,IN,India,Dravidian languages
-India,Sauria Paharia,minority,IN,India,Dravidian languages
-Bangladesh,Sauria Paharia,minority,BD,Bangladesh,Dravidian languages
-India,Toda,"minority, endangered Dravidian language",IN,India,Dravidian languages
-India,Telugu,officialAndhra Pradesh,IN,India,Dravidian languages
-United States,Telugu,minority,US,United States,Dravidian languages
-Canada,Telugu,minority,CA,Canada,Dravidian languages
-Australia,Telugu,minority,AU,Australia,Dravidian languages
-Germany,Telugu,minority,DE,Germany,Dravidian languages
-Denmark,Telugu,minority,DK,Denmark,Dravidian languages
-Sweden,Telugu,minority,SE,Sweden,Dravidian languages
-New Zealand,Telugu,minority,NZ,New Zealand,Dravidian languages
-India,Tamil,official in Tamil Nadu,IN,India,Dravidian languages
-Singapore,Tamil,official,SG,Singapore,Dravidian languages
-Sri Lanka,Tamil,official,LK,Sri Lanka,Dravidian languages
-Malaysia,Tamil,minority,MY,Malaysia,Dravidian languages
-Canada,Tamil,minority,CA,Canada,Dravidian languages
-Mauritius,Tamil,minority,MU,Mauritius,Dravidian languages
-South Africa,Tamil,minority,ZA,South Africa,Dravidian languages
-United States,Tamil,minority,US,United States,Dravidian languages
-Canada,Tamil,minority,CA,Canada,Dravidian languages
-Australia,Tamil,minority,AU,Australia,Dravidian languages
-Germany,Tamil,minority,DE,Germany,Dravidian languages
-Denmark,Tamil,minority,DK,Denmark,Dravidian languages
-Sweden,Tamil,minority,SE,Sweden,Dravidian languages
-New Zealand,Tamil,minority,NZ,New Zealand,Dravidian languages
-India,Malayalam,official at state of Kerala,IN,India,Dravidian languages
-Bahrain,Malayalam,minority,BH,Bahrain,Dravidian languages
-India,Tulu,minority,IN,India,Dravidian languages
-India,Kodava,minority,IN,India,Dravidian languages
-India,Ollari,minority,IN,India,Dravidian languages
-Georgia,South Caucasian languages,official,GE,Georgia,South Caucasian languages
-Turkey,South Caucasian languages,minority,TR,Turkey,South Caucasian languages
-Iran,South Caucasian languages,minority,IR,Iran,South Caucasian languages
-Azerbaijan,South Caucasian languages,minority,AZ,Azerbaijan,South Caucasian languages
-Georgia,South Caucasian languages,significant language,GE,Georgia,South Caucasian languages
-Abkhazia,South Caucasian languages,significant language,,Abkhazia,South Caucasian languages
-Georgia,South Caucasian languages,minority,GE,Georgia,South Caucasian languages
-Turkey,South Caucasian languages,significant language,TR,Turkey,South Caucasian languages
-Georgia,South Caucasian languages,minority,GE,Georgia,South Caucasian languages
-Burma,Burmese[12],official,MM,Burma,Other Sino-Tibetan
-Thailand,Burmese[12],minority,TH,Thailand,Other Sino-Tibetan
-Singapore,Burmese[12],"minority, 50,000 p.",SG,Singapore,Other Sino-Tibetan
-Malaysia,Burmese[12],minority,MY,Malaysia,Other Sino-Tibetan
-China,Tibetan[13],"minority, official in Tibet Autonomous Region",CN,China,Other Sino-Tibetan
-Nepal,Tibetan[13],"minority, in Upper Mustang",NP,Nepal,Other Sino-Tibetan
-India,Tibetan[13],minority,IN,India,Other Sino-Tibetan
-China,Hani[14],"minority, in Yunnan province.",CN,China,Other Sino-Tibetan
-Vietnam,Hani[14],"minority, called ""Hà Nhì""",VN,Vietnam,Other Sino-Tibetan
-Laos,Hani[14],"minority,",LA,Laos,Other Sino-Tibetan
-Burma,Karen[12],"minority, 7 mi. p., Kayin state",MM,Burma,Other Sino-Tibetan
-Thailand,Karen[12],"minority, 1 mi. p.,",TH,Thailand,Other Sino-Tibetan
-United States,Karen[12],"minority, 70,000 p.",US,United States,Other Sino-Tibetan
-Australia,Karen[12],"minority, 11,000 p.",AU,Australia,Other Sino-Tibetan
-China,Lahu[15],"minority, 720,000 peoples, in Yunnan province.",CN,China,Other Sino-Tibetan
-Myanmar,Lahu[15],"minority, 150,000 peoples",MM,Myanmar,Other Sino-Tibetan
-Thailand,Lahu[15],"minority, 100,000 peoples",TH,Thailand,Other Sino-Tibetan
-Laos,Lahu[15],minority,LA,Laos,Other Sino-Tibetan
-United States,Lahu[15],minority,US,United States,Other Sino-Tibetan
-Vietnam,Lahu[15],"minority, called ""La Hủ""",VN,Vietnam,Other Sino-Tibetan
-India,Meithei,"recognized minority, spoken by 1.25 mi. p. in Manipur and others",IN,India,Other Sino-Tibetan
-China,"Nuosu (Yi, Lolo)","minority, spoken by 7.76 mi. of Yi people in South China[16]",CN,China,Other Sino-Tibetan
-Vietnam,"Nuosu (Yi, Lolo)","minority, called ""Lô Lô"".",VN,Vietnam,Other Sino-Tibetan
-Belarus,Belarusian,co-official with Russian,BY,Belarus,Slavic
-Lithuania,Belarusian,minority,LT,Lithuania,Slavic
-Poland,Belarusian,minority,PL,Poland,Slavic
-Russia,Belarusian,minority,RU,Russia,Slavic
-Bosnia and Herzegovina,Bosnian,co-official with Croatian and Serbian,BA,Bosnia and Herzegovina,Slavic
-Croatia,Bosnian,significant minority,HR,Croatia,Slavic
-Macedonia,Bosnian,minority,MK,Macedonia,Slavic
-Montenegro,Bosnian,"minority, official in Sandžak",ME,Montenegro,Slavic
-Serbia,Bosnian,"significant minority, official in Sandžak",RS,Serbia,Slavic
-Turkey,Bosnian,significant minority,TR,Turkey,Slavic
-Bulgaria,Bulgarian,official,BG,Bulgaria,Slavic
-Greece,Bulgarian,minority,GR,Greece,Slavic
-Macedonia,Bulgarian,minority,MK,Macedonia,Slavic
-Moldova,Bulgarian,minority,MD,Moldova,Slavic
-Romania,Bulgarian,minority,RO,Romania,Slavic
-Serbia,Bulgarian,minority,RS,Serbia,Slavic
-Turkey,Bulgarian,minority,TR,Turkey,Slavic
-Ukraine,Bulgarian,minority,UA,Ukraine,Slavic
-Austria,Croatian,co-official with German and Hungarian in Burgenland,AT,Austria,Slavic
-Bosnia and Herzegovina,Croatian,co-official with Bosnian and Serbian,BA,Bosnia and Herzegovina,Slavic
-Croatia,Croatian,official,HR,Croatia,Slavic
-Italy,Croatian,co-official in Molise,IT,Italy,Slavic
-Montenegro,Croatian,official,ME,Montenegro,Slavic
-Romania,Croatian,official in the municipalities of Carașova and Lupac[9],RO,Romania,Slavic
-Serbia,Croatian,co-official in province of Vojvodina with 5 other languages,RS,Serbia,Slavic
-Austria,Czech,minority,AT,Austria,Slavic
-Croatia,Czech,minority,HR,Croatia,Slavic
-Czech Republic,Czech,official,CZ,Czech Republic,Slavic
-Germany,Czech,minority,DE,Germany,Slavic
-Slovakia,Czech,minority,SK,Slovakia,Slavic
-Poland,Kashubian,official in Pomerania,PL,Poland,Slavic
-Albania,Macedonian,"minority, official in Pustec Municipality",AL,Albania,Slavic
-Macedonia,Macedonian,official,MK,Macedonia,Slavic
-Greece,Macedonian,minority,GR,Greece,Slavic
-Bulgaria,Macedonian,minority,BG,Bulgaria,Slavic
-Serbia,Macedonian,"minority, official in two municipalities",RS,Serbia,Slavic
-Kosovo,Macedonian,minority,,Kosovo,Slavic
-Romania,Macedonian,minority,RO,Romania,Slavic
-Belarus,Polish,significant minority,BY,Belarus,Slavic
-Lithuania,Polish,significant minority,LT,Lithuania,Slavic
-Poland,Polish,official,PL,Poland,Slavic
-Ukraine,Polish,significant minority,UA,Ukraine,Slavic
-Brazil,Polish,minority; see Polish Brazilian,BR,Brazil,Slavic
-Ireland,Polish,minority,IE,Ireland,Slavic
-United States,Polish,not official – minority[3],US,United States,Slavic
-Armenia,Polish,significant minority,AM,Armenia,Slavic
-Azerbaijan,Polish,significant minority,AZ,Azerbaijan,Slavic
-Belarus,Polish,co-official with Belarusian,BY,Belarus,Slavic
-Bulgaria,Polish,minority,BG,Bulgaria,Slavic
-China,Polish,minority,CN,China,Slavic
-Estonia,Polish,significant minority,EE,Estonia,Slavic
-Finland,Polish,minority,FI,Finland,Slavic
-Georgia,Polish,significant minority,GE,Georgia,Slavic
-Germany,Polish,minority,DE,Germany,Slavic
-Greece,Polish,minority,GR,Greece,Slavic
-Israel,Polish,significant minority,IL,Israel,Slavic
-Jordan,Polish,significant minority,JO,Jordan,Slavic
-Kazakhstan,Polish,co-official with Kazakh,KZ,Kazakhstan,Slavic
-Kyrgyzstan,Polish,co-official with Kyrgyz,KG,Kyrgyzstan,Slavic
-Latvia,Polish,significant minority,LV,Latvia,Slavic
-Lithuania,Polish,minority,LT,Lithuania,Slavic
-Moldova,Polish,co-official with Ukrainian and Romanian in  Transnistria,MD,Moldova,Slavic
-Mongolia,Polish,significant minority,MN,Mongolia,Slavic
-Poland,Polish,minority,PL,Poland,Slavic
-Russia,Polish,official,RU,Russia,Slavic
-Serbia,Polish,minority,RS,Serbia,Slavic
-Turkey,Polish,significant minority,TR,Turkey,Slavic
-Tajikistan,Polish,significant minority,TJ,Tajikistan,Slavic
-Turkmenistan,Polish,significant minority,TM,Turkmenistan,Slavic
-Ukraine,Polish,"significant minority, regional in some regions",UA,Ukraine,Slavic
-Uzbekistan,Polish,significant minority,UZ,Uzbekistan,Slavic
-Hungary,Rusyn,minority,HU,Hungary,Slavic
-Poland,Rusyn,minority,PL,Poland,Slavic
-Romania,Rusyn,minority,RO,Romania,Slavic
-Slovakia,Rusyn,minority,SK,Slovakia,Slavic
-Ukraine,Rusyn,official in Zakarpattia,UA,Ukraine,Slavic
-Serbia,Rusyn,"co-official in The Autonomous Province of Vojvodina with Serbian Hungarian, Slovak, Romanian, and Croatian.",RS,Serbia,Slavic
-Bosnia and Herzegovina,Serbian,official with Croatian and Bosnian,BA,Bosnia and Herzegovina,Slavic
-Croatia,Serbian,significant minority,HR,Croatia,Slavic
-Kosovo,Serbian,co-official with Albanian,,Kosovo,Slavic
-Macedonia,Serbian,minority,MK,Macedonia,Slavic
-Montenegro,Serbian,official,ME,Montenegro,Slavic
-Romania,Serbian,co-official in Caraşova,RO,Romania,Slavic
-Serbia,Serbian,official,RS,Serbia,Slavic
-Czech Republic,Slovak,minority,CZ,Czech Republic,Slavic
-Slovakia,Slovak,official,SK,Slovakia,Slavic
-Austria,Slovene,minority,AT,Austria,Slavic
-Croatia,Slovene,minority,HR,Croatia,Slavic
-Hungary,Slovene,minority,HU,Hungary,Slavic
-Italy,Slovene,"co-official in Friuli-Venezia Giulia with Friulian, Italian and German",IT,Italy,Slavic
-Slovenia,Slovene,official,SI,Slovenia,Slavic
-United States,Slovene,minority in Ohio[10],US,United States,Slavic
-Germany,"Sorbian, Lower",regional language in Brandenburg,DE,Germany,Slavic
-Germany,"Sorbian, Upper",regional language in Brandenburg and Saxony,DE,Germany,Slavic
-Argentina,Ukrainian,minority,AR,Argentina,Slavic
-Belarus,Ukrainian,significant minority,BY,Belarus,Slavic
-Brazil,Ukrainian,minority,BR,Brazil,Slavic
-Canada,Ukrainian,minority,CA,Canada,Slavic
-Kazakhstan,Ukrainian,significant minority,KZ,Kazakhstan,Slavic
-Kyrgyzstan,Ukrainian,minority,KG,Kyrgyzstan,Slavic
-Moldova,Ukrainian,significant minority,MD,Moldova,Slavic
-Poland,Ukrainian,minority,PL,Poland,Slavic
-Romania,Ukrainian,significant minority,RO,Romania,Slavic
-Russia,Ukrainian,significant minority,RU,Russia,Slavic
-Transnistria,Ukrainian,co-official with Romanian and Russian,,Transnistria,Slavic
-Ukraine,Ukrainian,official,UA,Ukraine,Slavic
-United Kingdom,Ukrainian,minority,GB,United Kingdom,Slavic
-United States,Ukrainian,minority,US,United States,Slavic
-Uzbekistan,Ukrainian,minority,UZ,Uzbekistan,Slavic
-Estonia,Estonian,official,EE,Estonia,Uralic languages
-Finland,Estonian,minority,FI,Finland,Uralic languages
-Russia,Estonian,minority,RU,Russia,Uralic languages
-Finland,Finnish,"co-official with Swedish except in Åland Islands, where Swedish is the only official",FI,Finland,Uralic languages
-Estonia,Finnish,minority,EE,Estonia,Uralic languages
-Russia,Finnish,minority,RU,Russia,Uralic languages
-Sweden,Finnish,minority,SE,Sweden,Uralic languages
-Hungary,Hungarian,official,HU,Hungary,Uralic languages
-Serbia,Hungarian,minority,RS,Serbia,Uralic languages
-Romania,Hungarian,minority,RO,Romania,Uralic languages
-Slovakia,Hungarian,minority,SK,Slovakia,Uralic languages
-Austria,Hungarian,minority,AT,Austria,Uralic languages
-Ukraine,Hungarian,minority,UA,Ukraine,Uralic languages
-Finland,Sami,minority,FI,Finland,Uralic languages
-Norway,Sami,minority,NO,Norway,Uralic languages
-Russia,Sami,minority,RU,Russia,Uralic languages
-Sweden,Sami,minority,SE,Sweden,Uralic languages
-Indonesia,Acehnese,minority,ID,Indonesia,Malayo-Sumbawan
-Indonesia,Balinese,minority,ID,Indonesia,Malayo-Sumbawan
-Indonesia,Banjarese,minority,ID,Indonesia,Malayo-Sumbawan
-Cambodia,Cham[17],minority,KH,Cambodia,Malayo-Sumbawan
-Vietnam,Cham[17],minority,VN,Vietnam,Malayo-Sumbawan
-Malaysia,Cham[17],minority,MY,Malaysia,Malayo-Sumbawan
-Indonesia,Indonesian,official,ID,Indonesia,Malayo-Sumbawan
-Timor-Leste,Indonesian,co-official,TL,Timor-Leste,Malayo-Sumbawan
-Malaysia,Indonesian,minority,MY,Malaysia,Malayo-Sumbawan
-Brunei,Indonesian,minority,BN,Brunei,Malayo-Sumbawan
-Singapore,Indonesian,minority,SG,Singapore,Malayo-Sumbawan
-Thailand,Indonesian,minority,TH,Thailand,Malayo-Sumbawan
-Philippines,Indonesian,minority,PH,Philippines,Malayo-Sumbawan
-Vietnam,Jarai [18],minority,VN,Vietnam,Malayo-Sumbawan
-Cambodia,Jarai [18],minority,KH,Cambodia,Malayo-Sumbawan
-Indonesia,Javanese,regional,ID,Indonesia,Malayo-Sumbawan
-Malaysia,Javanese,minority,MY,Malaysia,Malayo-Sumbawan
-Indonesia,Lampung,minority,ID,Indonesia,Malayo-Sumbawan
-Indonesia,Madurese,minority,ID,Indonesia,Malayo-Sumbawan
-Indonesia,Makassarese,minority,ID,Indonesia,Malayo-Sumbawan
-Malaysia,Malay,official,MY,Malaysia,Malayo-Sumbawan
-Brunei,Malay,official,BN,Brunei,Malayo-Sumbawan
-Singapore,Malay,co-official,SG,Singapore,Malayo-Sumbawan
-Indonesia,Malay,official,ID,Indonesia,Malayo-Sumbawan
-Thailand,Malay,minority,TH,Thailand,Malayo-Sumbawan
-Indonesia,Minangkabau,regional,ID,Indonesia,Malayo-Sumbawan
-Malaysia,Minangkabau,regional,MY,Malaysia,Malayo-Sumbawan
-Palau,Palauan,official,PW,Palau,Malayo-Sumbawan
-Indonesia,Rejang,minority,ID,Indonesia,Malayo-Sumbawan
-Indonesia,Sasak,minority,ID,Indonesia,Malayo-Sumbawan
-Timor-Leste,Tetum,official,TL,Timor-Leste,Malayo-Sumbawan
-Bangladesh,Romani,minority,BD,Bangladesh,Romani
-India,Romani,minority,IN,India,Romani
-Pakistan,Romani,minority,PK,Pakistan,Romani
-Iran,Romani,minority,IR,Iran,Romani
-Afghanistan,Romani,minority,AF,Afghanistan,Romani
-Uzbekistan,Romani,minority,UZ,Uzbekistan,Romani
-Kazakhstan,Romani,minority,KZ,Kazakhstan,Romani
-Turkmenistan,Romani,minority,TM,Turkmenistan,Romani
-Tajikistan,Romani,minority,TJ,Tajikistan,Romani
-Kyrgyzstan,Romani,minority,KG,Kyrgyzstan,Romani
-Armenia,Romani,minority,AM,Armenia,Romani
-Albania,Romani,minority,AL,Albania,Romani
-Austria,Romani,minority,AT,Austria,Romani
-Belarus,Romani,minority,BY,Belarus,Romani
-Belgium,Romani,minority,BE,Belgium,Romani
-Bosnia and Herzegovina,Romani,minority,BA,Bosnia and Herzegovina,Romani
-Bulgaria,Romani,significant minority,BG,Bulgaria,Romani
-Croatia,Romani,minority,HR,Croatia,Romani
-Cyprus,Romani,minority,CY,Cyprus,Romani
-Czech Republic,Romani,minority,CZ,Czech Republic,Romani
-Denmark,Romani,minority,DK,Denmark,Romani
-Estonia,Romani,minority,EE,Estonia,Romani
-Finland,Romani,officially recognised minority language,FI,Finland,Romani
-France,Romani,minority,FR,France,Romani
-Germany,Romani,officially recognised minority language,DE,Germany,Romani
-Greece,Romani,minority,GR,Greece,Romani
-Hungary,Romani,"significant minority, officially recognised minority language",HU,Hungary,Romani
-Ireland,Romani,minority,IE,Ireland,Romani
-Italy,Romani,minority,IT,Italy,Romani
-Kosovo,Romani,officially recognized minority language,,Kosovo,Romani
-Latvia,Romani,minority,LV,Latvia,Romani
-Lithuania,Romani,minority,LT,Lithuania,Romani
-Macedonia,Romani,official in Šuto Orizari Municipality,MK,Macedonia,Romani
-Moldova,Romani,minority,MD,Moldova,Romani
-Montenegro,Romani,minority,ME,Montenegro,Romani
-Netherlands,Romani,minority,NL,Netherlands,Romani
-Norway,Romani,officially recognised minority language,NO,Norway,Romani
-Poland,Romani,minority,PL,Poland,Romani
-Portugal,Romani,minority,PT,Portugal,Romani
-Romania,Romani,co-official in 79 rural communes,RO,Romania,Romani
-Russia,Romani,officially recognised minority language,RU,Russia,Romani
-Serbia,Romani,officially recognised minority language,RS,Serbia,Romani
-Slovakia,Romani,minority,SK,Slovakia,Romani
-Slovenia,Romani,officially recognised minority language,SI,Slovenia,Romani
-Spain,Romani,minority,ES,Spain,Romani
-Sweden,Romani,officially recognised minority language,SE,Sweden,Romani
-Switzerland,Romani,minority,CH,Switzerland,Romani
-Turkey,Romani,minority,TR,Turkey,Romani
-Ukraine,Romani,minority,UA,Ukraine,Romani
-United Kingdom,Romani,minority,GB,United Kingdom,Romani
-United States,Romani,minority,US,United States,Romani
-Canada,Romani,minority,CA,Canada,Romani
-China,Bouyei[28],"minority, in south China",CN,China,Tai–Kadai
-Vietnam,Bouyei[28],"minority, called ""Giáy"", in north Vietnam",VN,Vietnam,Tai–Kadai
-Laos,Lao,official,LA,Laos,Tai–Kadai
-Thailand,Lao,"minority, known as Isan, 20 mi. p. in northern and eastern Thailand",TH,Thailand,Tai–Kadai
-Thailand,Thai,official,TH,Thailand,Tai–Kadai
-China,Thai,"minority, spoken by Dai people in south China, noted as Tai Lü and Tai Nüa",CN,China,Tai–Kadai
-Myanmar,Thai,"minority,",MM,Myanmar,Tai–Kadai
-Vietnam,Thai,"minority, 1.6 mi. p., as Thái dialect in north Vietnam",VN,Vietnam,Tai–Kadai
-Myanmar,Shan[12],"minority, but majority in Shan state",MM,Myanmar,Tai–Kadai
-Thailand,Shan[12],"minority, in north-west",TH,Thailand,Tai–Kadai
-Vietnam,Nung[20],"minority, spoken by 1 mi. p. in north Vietnam",VN,Vietnam,Tai–Kadai
-Vietnam,Tày[20],"minority, spoken by 1.6 mi. p. in north Vietnam",VN,Vietnam,Tai–Kadai
-China,Zhuang,"minority,[29] 18 mi. peoples, most in Guangxi Zhuang Autonomous Region.",CN,China,Tai–Kadai
-Mongolia,Mongolian,official,MN,Mongolia,Mongolic languages
-China,Mongolian,"regional, co-official with Chinese in Inner Mongolia Autonomous Region",CN,China,Mongolic languages
-Russia,Kalmyk Oirat,official in  Kalmykia[11],RU,Russia,Mongolic languages
-China,Daur,"minority, spoken by Daur people in Morin Dawa Daur Autonomous Banner of Inner Mongolia",CN,China,Mongolic languages
-Algeria,Domari,minority,DZ,Algeria,Domari
-Egypt,Domari,minority,EG,Egypt,Domari
-Morocco,Domari,minority,MA,Morocco,Domari
-Sudan,Domari,minority,SD,Sudan,Domari
-Tunisia,Domari,minority,TN,Tunisia,Domari
-India,Domari,minority,IN,India,Domari
-Iran,Domari,significant minority,IR,Iran,Domari
-Iraq,Domari,minority,IQ,Iraq,Domari
-Pakistan,Domari,minority,PK,Pakistan,Domari
-Libya,Domari,minority,LY,Libya,Domari
-Syria,Domari,minority,SY,Syria,Domari
-Turkey,Domari,minority,TR,Turkey,Domari
-Palestine,Domari,minority,PS,Palestine,Domari
-Israel,Domari,minority,IL,Israel,Domari
-Afghanistan,Domari,minority,AF,Afghanistan,Domari
-Bangladesh,Domari,minority,BD,Bangladesh,Domari
-Jordan,Domari,minority,JO,Jordan,Domari
-Iraq,Domari,minority,IQ,Iraq,Domari
-Lebanon,Domari,minority,LB,Lebanon,Domari
-Uzbekistan,Domari,minority,UZ,Uzbekistan,Domari
-Armenia,Domari,minority,AM,Armenia,Domari
-Azerbaijan,Domari,minority,AZ,Azerbaijan,Domari
-Georgia,Domari,minority,GE,Georgia,Domari
-Turkmenistan,Domari,minority,TM,Turkmenistan,Domari
-Kazakhstan,Domari,minority,KZ,Kazakhstan,Domari
-Tajikistan,Domari,minority,TJ,Tajikistan,Domari
-Kuwait,Domari,minority,KW,Kuwait,Domari
-Kyrgyzstan,Domari,minority,KG,Kyrgyzstan,Domari
-Russia,Domari,minority,RU,Russia,Domari
-Armenia,Armenian,official,AM,Armenia,Armenian
-Cyprus,Armenian,minority,CY,Cyprus,Armenian
-Georgia,Armenian,significant minority,GE,Georgia,Armenian
-Iran,Armenian,minority,IR,Iran,Armenian
-Israel,Armenian,minority,IL,Israel,Armenian
-Lebanon,Armenian,minority,LB,Lebanon,Armenian
-Syria,Armenian,minority,SY,Syria,Armenian
-Turkey,Armenian,minority,TR,Turkey,Armenian
-France,Armenian,minority,FR,France,Armenian
-United Kingdom,Armenian,minority,GB,United Kingdom,Armenian
-Spain,Armenian,minority,ES,Spain,Armenian
-Greece,Armenian,minority,GR,Greece,Armenian
-Russia,Armenian,minority,RU,Russia,Armenian
-United States,Armenian,minority,US,United States,Armenian
-Argentina,Armenian,minority,AR,Argentina,Armenian
-Brazil,Armenian,minority,BR,Brazil,Armenian
-Cook Islands,Cook Islands Māori,official,CK,Cook Islands,Polynesian
-Wallis and Futuna,Futunan,official,WF,Wallis and Futuna,Polynesian
-Hawaii,Hawaiian,official,US,Hawaii,Polynesian
-New Zealand,Māori,co-official with English and New Zealand Sign Language,NZ,New Zealand,Polynesian
-Cook Islands,Niuean,minority,CK,Cook Islands,Polynesian
-Niue,Niuean,official,NU,Niue,Polynesian
-New Zealand,Niuean,minority,NZ,New Zealand,Polynesian
-Tonga,Niuean,minority,TO,Tonga,Polynesian
-Easter Island,Rapa Nui,official,,Easter Island,Polynesian
-American Samoa,Samoan,official,AS,American Samoa,Polynesian
-Samoa,Samoan,official,WS,Samoa,Polynesian
-French Polynesia,Tahitan,official,PF,French Polynesia,Polynesian
-Tokelau,Tokelauan,official,TK,Tokelau,Polynesian
-Tonga,Tongan,official,TO,Tonga,Polynesian
-American Tongan,Tongan,,,American Tongan,Polynesian
-Tuvalu,Tuvaluan,official,TV,Tuvalu,Polynesian
-Wallis and Futuna,Wallisian,official,WF,Wallis and Futuna,Polynesian
-United States[19],Navajo,minority,,United States[19],Apachean
-United States,Apache,minority,US,United States,Apachean
-United States,Chiricahua,minority,US,United States,Apachean
-United States,Jicarilla,minority,US,United States,Apachean
-United States,Lipan Apache,minority,US,United States,Apachean
-United States,Plains Apache,minority,US,United States,Apachean
-United States,Mescalero,minority,US,United States,Apachean
-United States,Western Apache,minority,US,United States,Apachean
-Bangladesh,Asia,official,BD,Bangladesh,Indo-Aryan
-India,Asia,"official, along with 21 others; primarily spoken in the Indian states of West Bengal, Tripura, Assam, with significant minority in Bihar, Jharkhand and Orissa",IN,India,Indo-Aryan
-Saudi Arabia,Asia,significant minority,SA,Saudi Arabia,Indo-Aryan
-United Arab Emirates,Asia,significant minority,AE,United Arab Emirates,Indo-Aryan
-Oman,Asia,minority,OM,Oman,Indo-Aryan
-South Korea,Asia,minority,KR,South Korea,Indo-Aryan
-Japan,Asia,minority,JP,Japan,Indo-Aryan
-Qatar,Asia,minority,QA,Qatar,Indo-Aryan
-Kuwait,Asia,minority,KW,Kuwait,Indo-Aryan
-Malaysia,Asia,significant minority,MY,Malaysia,Indo-Aryan
-Singapore,Asia,minority,SG,Singapore,Indo-Aryan
-Maldives,Asia,minority,MV,Maldives,Indo-Aryan
-Nepal,Asia,minority,NP,Nepal,Indo-Aryan
-Pakistan,Asia,"minority. Mostly used in Karachi, where it holds the status as that of a recognized secondary language[4][5][6][7]",PK,Pakistan,Indo-Aryan
-Sierra Leone,Africa,"honorary official language, along with English",SL,Sierra Leone,Indo-Aryan
-South Africa,Africa,minority,ZA,South Africa,Indo-Aryan
-Italy,Europe,minority,IT,Italy,Indo-Aryan
-United Kingdom,Europe,significant minority,GB,United Kingdom,Indo-Aryan
-United States,North America,significant minority,US,United States,Indo-Aryan
-Canada,North America,minority,CA,Canada,Indo-Aryan
-Australia,Oceania,minority,AU,Australia,Indo-Aryan
-Philippines,Aklanon,minority,PH,Philippines,Philippines
-Philippines,Bikol,regional,PH,Philippines,Philippines
-Philippines,Bolinao,regional,PH,Philippines,Philippines
-Philippines,Cebuano,regional,PH,Philippines,Philippines
-Philippines,Cuyonon,minority,PH,Philippines,Philippines
-Philippines,Filipino,official,PH,Philippines,Philippines
-Philippines,Hiligaynon,regional,PH,Philippines,Philippines
-United States,Hiligaynon,minority,US,United States,Philippines
-Philippines,Ibanag,regional,PH,Philippines,Philippines
-Philippines,Ifugao,minority,PH,Philippines,Philippines
-Philippines,Ilokano,regional,PH,Philippines,Philippines
-Philippines,Ivatan,minority,PH,Philippines,Philippines
-Philippines,Kalinga,minority,PH,Philippines,Philippines
-Philippines,Kamayo,minority,PH,Philippines,Philippines
-Philippines,Kankana-ey,minority,PH,Philippines,Philippines
-Philippines,Kapampangan,regional,PH,Philippines,Philippines
-Philippines,Kinaray-a,minority,PH,Philippines,Philippines
-Philippines,Maguindanao,regional,PH,Philippines,Philippines
-Philippines,Maranao,regional,PH,Philippines,Philippines
-Philippines,Masbatenyo,minority,PH,Philippines,Philippines
-Philippines,Pangasinan,regional,PH,Philippines,Philippines
-Philippines,Romblomanon,minority,PH,Philippines,Philippines
-Philippines,Surigaonon,minority,PH,Philippines,Philippines
-Australia,Tagalog,minority,AU,Australia,Philippines
-Brunei,Tagalog,minority,BN,Brunei,Philippines
-Canada,Tagalog,minority,CA,Canada,Philippines
-Hong Kong,Tagalog,minority,HK,Hong Kong,Philippines
-Italy,Tagalog,minority,IT,Italy,Philippines
-Japan,Tagalog,minority,JP,Japan,Philippines
-Kuwait,Tagalog,minority,KW,Kuwait,Philippines
-Malaysia,Tagalog,minority,MY,Malaysia,Philippines
-Philippines,Tagalog,regional,PH,Philippines,Philippines
-Qatar,Tagalog,minority,QA,Qatar,Philippines
-Saudi Arabia,Tagalog,minority,SA,Saudi Arabia,Philippines
-Singapore,Tagalog,minority,SG,Singapore,Philippines
-Spain,Tagalog,minority,ES,Spain,Philippines
-Taiwan,Tagalog,minority,TW,Taiwan,Philippines
-United Arab Emirates,Tagalog,minority,AE,United Arab Emirates,Philippines
-United Kingdom,Tagalog,minority,GB,United Kingdom,Philippines
-United States,Tagalog,minority[3],US,United States,Philippines
-Taiwan,Tao,minority,TW,Taiwan,Philippines
-Brunei,Tausug,minority,BN,Brunei,Philippines
-Indonesia,Tausug,minority,ID,Indonesia,Philippines
-Malaysia,Tausug,minority,MY,Malaysia,Philippines
-Philippines,Tausug,regional,PH,Philippines,Philippines
-Philippines,Waray-Waray,regional,PH,Philippines,Philippines
-Philippines,Zambal,regional,PH,Philippines,Philippines
-Andorra,Catalan,official,AD,Andorra,Other Italic Lang.
-France,Catalan,in Northern Catalonia,FR,France,Other Italic Lang.
-Italy,Catalan,a significant minority in Alghero,IT,Italy,Other Italic Lang.
-Spain,Catalan,"co-official with Spanish in  Catalonia, the  Balearic Islands, and  Valencian Community. In El Carche (Murcia) and La Franja (Aragon) it is not official.",ES,Spain,Other Italic Lang.
-France,Corsican,regional language in  Corsica,FR,France,Other Italic Lang.
-Italy,Corsican,minority in  Sardinia,IT,Italy,Other Italic Lang.
-Galicia,Galician,co-official with Spanish,,Galicia,Other Italic Lang.
-Argentina,Galician,"minority, from immigration",AR,Argentina,Other Italic Lang.
-Brazil,Galician,"minority, from immigration",BR,Brazil,Other Italic Lang.
-Cuba,Galician,"minority, from immigration",CU,Cuba,Other Italic Lang.
-France,Galician,"minority, from immigration",FR,France,Other Italic Lang.
-Germany,Galician,"minority, from immigration",DE,Germany,Other Italic Lang.
-Switzerland,Galician,"minority, from immigration",CH,Switzerland,Other Italic Lang.
-Uruguay,Galician,"minority, from immigration",UY,Uruguay,Other Italic Lang.
-Venezuela,Galician,"minority, from immigration",VE,Venezuela,Other Italic Lang.
-Jersey,Jèrriais,unofficial,JE,Jersey,Other Italic Lang.
-Sark,Jèrriais,unofficial,,Sark,Other Italic Lang.
-Vatican City,Latin,"official, but not spoken",,Vatican City,Other Italic Lang.
-Portugal,Mirandese,"co-official with Portuguese in the municipalities of Miranda do Douro, Mogadouro and Vimioso",PT,Portugal,Other Italic Lang.
-France,Occitan,minority,FR,France,Other Italic Lang.
-Italy,Occitan,recognised minority language,IT,Italy,Other Italic Lang.
-Spain,Occitan,co-official with Catalan and Spanish in  Catalonia,ES,Spain,Other Italic Lang.
-Bulgaria,Romanian,minority,BG,Bulgaria,Other Italic Lang.
-Italy,Romanian,minority,IT,Italy,Other Italic Lang.
-Moldova,Romanian,official,MD,Moldova,Other Italic Lang.
-Romania,Romanian,official,RO,Romania,Other Italic Lang.
-Spain,Romanian,minority,ES,Spain,Other Italic Lang.
-Serbia,Romanian,co-official in province of Vojvodina with 5 other languages,RS,Serbia,Other Italic Lang.
-Switzerland,Romansh,"co-official with French, Italian, and German",CH,Switzerland,Other Italic Lang.
-China,(Miao),minority,CN,China,Hmong–Mien
-Vietnam,(Miao),minority,VN,Vietnam,Hmong–Mien
-Laos,(Miao),minority,LA,Laos,Hmong–Mien
-Thailand,(Miao),minority,TH,Thailand,Hmong–Mien
-United States,(Miao),minority,US,United States,Hmong–Mien
-Australia,(Miao),minority,AU,Australia,Hmong–Mien
-France,(Miao),minority,FR,France,Hmong–Mien
-Vietnam,(Miao),"minority, called ""Dao""",VN,Vietnam,Hmong–Mien
-Laos,(Miao),minority,LA,Laos,Hmong–Mien
-Thailand,(Miao),minority,TH,Thailand,Hmong–Mien
-South Africa,Afrikaans,co-official with 10 other languages,ZA,South Africa,Germanic
-Namibia,Afrikaans,unofficial,NA,Namibia,Germanic
-United States,Afrikaans,minority,US,United States,Germanic
-Netherlands,Afrikaans,minority,NL,Netherlands,Germanic
-United Kingdom,Afrikaans,minority,GB,United Kingdom,Germanic
-Germany,Afrikaans,minority,DE,Germany,Germanic
-Belgium,Afrikaans,minority,BE,Belgium,Germanic
-Australia,Afrikaans,minority,AU,Australia,Germanic
-Argentina,Afrikaans,minority,AR,Argentina,Germanic
-France,Alsatian,regional language in  Alsace,FR,France,Germanic
-Denmark,Danish,official,DK,Denmark,Germanic
-Germany,Danish,"in  Schleswig-Holstein, official recognised minority language",DE,Germany,Germanic
-Faroe Islands,Danish,co-official alongside with Faroese,FO,Faroe Islands,Germanic
-Greenland,Danish,minority,GL,Greenland,Germanic
-Iceland,Danish,minority,IS,Iceland,Germanic
-Faroe Islands,Faroese,co-official with Danish,FO,Faroe Islands,Germanic
-Denmark,Faroese,unofficial,DK,Denmark,Germanic
-Denmark,Frisian,minority,DK,Denmark,Germanic
-Germany,Frisian,official recognised minority language,DE,Germany,Germanic
-Netherlands,Frisian,minority language in  Friesland,NL,Netherlands,Germanic
-Iceland,Icelandic,official,IS,Iceland,Germanic
-Denmark,Icelandic,minority,DK,Denmark,Germanic
-Netherlands,Icelandic,"Nederduits, recognized as regional language",NL,Netherlands,Germanic
-Norway,Norwegian,"official, including Svalbard and Jan Mayen",NO,Norway,Germanic
-Scotland,Scots,minority in Scotland,,Scotland,Germanic
-Ireland,Scots,minority in Ireland,IE,Ireland,Germanic
-Sweden,Swedish,official,SE,Sweden,Germanic
-Finland,Swedish,co-official with Finnish.,FI,Finland,Germanic
-Åland Islands,Swedish,official,,Åland Islands,Germanic
-Estonia,Swedish,minority,EE,Estonia,Germanic
-Afghanistan,Balochi,minority,AF,Afghanistan,Iranian
-Iran,Balochi,significant minority in Balochistan,IR,Iran,Iranian
-Pakistan,Balochi,Majority in Balochistan,PK,Pakistan,Iranian
-United Arab Emirates,Balochi,minority,AE,United Arab Emirates,Iranian
-Afghanistan,Persian,"co-official as Dari, with Pashto",AF,Afghanistan,Iranian
-Bahrain,Persian,minority,BH,Bahrain,Iranian
-Germany,Persian,minority,DE,Germany,Iranian
-Iran,Persian,official,IR,Iran,Iranian
-Iraq,Persian,significant minority,IQ,Iraq,Iranian
-Pakistan,Persian,minority,PK,Pakistan,Iranian
-Qatar,Persian,minority,QA,Qatar,Iranian
-Russia,Persian,minority,RU,Russia,Iranian
-Tajikistan,Persian,"official, as Tajik",TJ,Tajikistan,Iranian
-United Arab Emirates,Persian,minority,AE,United Arab Emirates,Iranian
-United States,Persian,minority,US,United States,Iranian
-Uzbekistan,Persian,minority,UZ,Uzbekistan,Iranian
-Afghanistan,Tajik,significant minority,AF,Afghanistan,Iranian
-Iran,Tajik,minority,IR,Iran,Iranian
-Kazakhstan,Tajik,minority,KZ,Kazakhstan,Iranian
-Kyrgyzstan,Tajik,minority,KG,Kyrgyzstan,Iranian
-Pakistan,Tajik,minority,PK,Pakistan,Iranian
-Tajikistan,Tajik,official,TJ,Tajikistan,Iranian
-Uzbekistan,Tajik,minority,UZ,Uzbekistan,Iranian
-China,Tajik,minority,CN,China,Iranian
-Turkmenistan,Tajik,minority,TM,Turkmenistan,Iranian
-Russia,Tajik,minority,RU,Russia,Iranian
-Armenia,Kurdish,recognized minority,AM,Armenia,Iranian
-Iran,Kurdish,regional,IR,Iran,Iranian
-Iraq,Kurdish,co-official with Arabic,IQ,Iraq,Iranian
-Syria,Kurdish,significant minority,SY,Syria,Iranian
-Turkey,Kurdish,significant minority,TR,Turkey,Iranian
-Iran,Mazandarani,"unofficial, in Māzandarān Province",IR,Iran,Iranian
-Afghanistan,Pashto,co-official with Dari,AF,Afghanistan,Iranian
-Iran,Pashto,minority,IR,Iran,Iranian
-Pakistan,Pashto,majority in Khyber Pakhtunkhwa and FATA,PK,Pakistan,Iranian
-United Arab Emirates,Pashto,minority,AE,United Arab Emirates,Iranian
-See also: Basque Country (historical territory),,,,See also: Basque Country (historical territory),Language isolate
-France,,majority in Northern Basque Country,FR,France,Language isolate
-Spain,,co-official with Spanish in  Basque Country and parts of  Navarre,ES,Spain,Language isolate
-Brazil,Korean,minority,BR,Brazil,Language isolate
-China,Korean,"minority, co-official with Chinese in Yanbian Korean Autonomous Prefecture in Jilin Province",CN,China,Language isolate
-Japan,Korean,minority,JP,Japan,Language isolate
-North Korea,Korean,official,KP,North Korea,Language isolate
-South Korea,Korean,official,KR,South Korea,Language isolate
-United States,Korean,not official – minority[3],US,United States,Language isolate
-India,Nihali,"minority, endangered language",IN,India,Language isolate
-Albania,Albanian,official,AL,Albania,Albanian
-Kosovo,Albanian,official,,Kosovo,Albanian
-Macedonia,Albanian,significant minority,MK,Macedonia,Albanian
-Italy,Albanian,"significant minority, also as Arbëreshë",IT,Italy,Albanian
-Montenegro,Albanian,minority,ME,Montenegro,Albanian
-Greece,Albanian,"significant minority, also as Arvanitika",GR,Greece,Albanian
-Serbia,Albanian,minority,RS,Serbia,Albanian
-Romania,Albanian,minority,RO,Romania,Albanian
-Switzerland,Albanian,minority,CH,Switzerland,Albanian
-South Africa,Cantonese,minority,ZA,South Africa,Cantonese
-China,Cantonese,regional,CN,China,Cantonese
-Indonesia,Cantonese,minority,ID,Indonesia,Cantonese
-Malaysia,Cantonese,minority,MY,Malaysia,Cantonese
-Philippines,Cantonese,minority,PH,Philippines,Cantonese
-Singapore,Cantonese,minority,SG,Singapore,Cantonese
-Thailand,Cantonese,minority,TH,Thailand,Cantonese
-Vietnam,Cantonese,minority,VN,Vietnam,Cantonese
-United Kingdom,Cantonese,minority,GB,United Kingdom,Cantonese
-Canada,Cantonese,minority,CA,Canada,Cantonese
-United States,Cantonese,minority,US,United States,Cantonese
-Australia,Cantonese,minority,AU,Australia,Cantonese
-New Zealand,Cantonese,minority,NZ,New Zealand,Cantonese
-Brazil,Cantonese,minority,BR,Brazil,Cantonese
-Peru,Cantonese,minority,PE,Peru,Cantonese
-Angola,Yue Chinese,minority,AO,Angola,Yue Chinese
-Cape Verde,Yue Chinese,minority,CV,Cape Verde,Yue Chinese
-Mauritius,Yue Chinese,minority,MU,Mauritius,Yue Chinese
-South Africa,Yue Chinese,minority,ZA,South Africa,Yue Chinese
-Brunei,Yue Chinese,minority,BN,Brunei,Yue Chinese
-Cambodia,Yue Chinese,minority,KH,Cambodia,Yue Chinese
-China,Yue Chinese,regional,CN,China,Yue Chinese
-Hong Kong,Yue Chinese,co-official with English,HK,Hong Kong,Yue Chinese
-Indonesia,Yue Chinese,minority,ID,Indonesia,Yue Chinese
-Japan,Yue Chinese,minority,JP,Japan,Yue Chinese
-Laos,Yue Chinese,minority,LA,Laos,Yue Chinese
-Macau,Yue Chinese,co-official with Portuguese,MO,Macau,Yue Chinese
-Malaysia,Yue Chinese,minority,MY,Malaysia,Yue Chinese
-Burma,Yue Chinese,minority,MM,Burma,Yue Chinese
-North Korea,Yue Chinese,minority,KP,North Korea,Yue Chinese
-Philippines,Yue Chinese,minority,PH,Philippines,Yue Chinese
-Singapore,Yue Chinese,minority,SG,Singapore,Yue Chinese
-South Korea,Yue Chinese,minority,KR,South Korea,Yue Chinese
-Thailand,Yue Chinese,minority,TH,Thailand,Yue Chinese
-Vietnam,Yue Chinese,minority,VN,Vietnam,Yue Chinese
-Bulgaria,Yue Chinese,minority,BG,Bulgaria,Yue Chinese
-France,Yue Chinese,minority,FR,France,Yue Chinese
-Germany,Yue Chinese,minority,DE,Germany,Yue Chinese
-Ireland,Yue Chinese,minority,IE,Ireland,Yue Chinese
-Italy,Yue Chinese,minority,IT,Italy,Yue Chinese
-Netherlands,Yue Chinese,minority,NL,Netherlands,Yue Chinese
-Romania,Yue Chinese,minority,RO,Romania,Yue Chinese
-Russia,Yue Chinese,minority,RU,Russia,Yue Chinese
-Serbia,Yue Chinese,minority,RS,Serbia,Yue Chinese
-Spain,Yue Chinese,minority,ES,Spain,Yue Chinese
-United Kingdom,Yue Chinese,minority,GB,United Kingdom,Yue Chinese
-Canada,Yue Chinese,minority,CA,Canada,Yue Chinese
-Cuba,Yue Chinese,minority,CU,Cuba,Yue Chinese
-Dominican Republic,Yue Chinese,minority,DO,Dominican Republic,Yue Chinese
-Jamaica,Yue Chinese,minority,JM,Jamaica,Yue Chinese
-Mexico,Yue Chinese,minority,MX,Mexico,Yue Chinese
-Nicaragua,Yue Chinese,minority,NI,Nicaragua,Yue Chinese
-Panama,Yue Chinese,minority,PA,Panama,Yue Chinese
-Trinidad and Tobago,Yue Chinese,minority,TT,Trinidad and Tobago,Yue Chinese
-United States,Yue Chinese,minority,US,United States,Yue Chinese
-Australia,Yue Chinese,minority,AU,Australia,Yue Chinese
-Fiji,Yue Chinese,minority,FJ,Fiji,Yue Chinese
-New Zealand,Yue Chinese,minority,NZ,New Zealand,Yue Chinese
-Samoa,Yue Chinese,minority,WS,Samoa,Yue Chinese
-Tonga,Yue Chinese,minority,TO,Tonga,Yue Chinese
-Argentina,Yue Chinese,minority,AR,Argentina,Yue Chinese
-Brazil,Yue Chinese,minority,BR,Brazil,Yue Chinese
-Chile,Yue Chinese,regional,CL,Chile,Yue Chinese
-Guyana,Yue Chinese,minority,GY,Guyana,Yue Chinese
-Peru,Yue Chinese,minority,PE,Peru,Yue Chinese
-Suriname,Yue Chinese,minority,SR,Suriname,Yue Chinese
-Greece,Greek,official,GR,Greece,Greek
-Cyprus,Greek,co-official with Turkish,CY,Cyprus,Greek
-Albania,Greek,"significant minority, widely spoken and co-official with Albanian in Himara, Dropull, Finiq and Derviçan regions",AL,Albania,Greek
-Macedonia,Greek,minority,MK,Macedonia,Greek
-Russia,Greek,minority,RU,Russia,Greek
-Ukraine,Greek,minority,UA,Ukraine,Greek
-Turkey,Greek,minority,TR,Turkey,Greek
-Italy,Greek,minority,IT,Italy,Greek
-Armenia,Greek,minority,AM,Armenia,Greek
-Romania,Greek,minority,RO,Romania,Greek
-Hungary,Greek,minority,HU,Hungary,Greek
-Syria,Greek,minority,SY,Syria,Greek
-United States,Greek,minority,US,United States,Greek
-Australia,Greek,minority,AU,Australia,Greek
-Botswana,English,co-official with Tswana,BW,Botswana,English
-Cameroon,English,co-official with French,CM,Cameroon,English
-Gambia,English,official,GM,Gambia,English
-Ghana,English,official,GH,Ghana,English
-Kenya,English,co-official with Swahili,KE,Kenya,English
-Lesotho,English,co-official with Sesotho,LS,Lesotho,English
-Liberia,English,official,LR,Liberia,English
-Malawi,English,official,MW,Malawi,English
-Mauritius,English,official,MU,Mauritius,English
-Namibia,English,official,NA,Namibia,English
-Nigeria,English,official,NG,Nigeria,English
-Rwanda,English,co-official with Kinyarwanda and French,RW,Rwanda,English
-Seychelles,English,co-official with French and Seychellois Creole,SC,Seychelles,English
-Sierra Leone,English,official,SL,Sierra Leone,English
-South Africa,English,co-official with 10 other languages,ZA,South Africa,English
-South Sudan,English,official,SS,South Sudan,English
-Swaziland,English,co-official with Swati,SZ,Swaziland,English
-Uganda,English,co-official with Swahili,UG,Uganda,English
-Zambia,English,official,ZM,Zambia,English
-Zimbabwe,English,official,ZW,Zimbabwe,English
-Bahrain,English,Unofficial,BH,Bahrain,English
-India,English,co-official with 21 other languages,IN,India,English
-Lebanon,English,significant minority,LB,Lebanon,English
-Pakistan,English,co-official with Urdu,PK,Pakistan,English
-Philippines,English,"co-official with Filipino, and with regional languages as auxiliary official languages[2]",PH,Philippines,English
-Singapore,English,"co-official with Tamil, Mandarin, and Malay",SG,Singapore,English
-Sri Lanka,English,co-official,LK,Sri Lanka,English
-Bangladesh,English,de facto co-official with Bengali,BD,Bangladesh,English
-Malaysia,English,"co-official with Tamil, Mandarin, and Malay",MY,Malaysia,English
-Brunei,English,"co-official with Mandarin, and Malay",BN,Brunei,English
-Ireland,English,"co-official with Irish, see Hiberno-English",IE,Ireland,English
-Malta,English,co-official with Maltese,MT,Malta,English
-United Kingdom,English,"co-official with Welsh, see British English",GB,United Kingdom,English
-Antigua and Barbuda,English,official,AG,Antigua and Barbuda,English
-Bahamas,English,official,BS,Bahamas,English
-Barbados,English,official,BB,Barbados,English
-Belize,English,official,BZ,Belize,English
-Canada,English,"official, see Canadian English",CA,Canada,English
-Dominica,English,official,DM,Dominica,English
-Grenada,English,official,GD,Grenada,English
-Jamaica,English,"official, see Jamaican English",JM,Jamaica,English
-Saint Kitts and Nevis,English,official,KN,Saint Kitts and Nevis,English
-Saint Lucia,English,official,LC,Saint Lucia,English
-Saint Vincent and the Grenadines,English,official,VC,Saint Vincent and the Grenadines,English
-Trinidad and Tobago,English,official,TT,Trinidad and Tobago,English
-United States,English,"de facto, see American English",US,United States,English
-Australia,English,"de facto, see Australian English",AU,Australia,English
-Fiji,English,co-official with Fijian and Hindustani,FJ,Fiji,English
-Kiribati,English,co-official with Kiribati,KI,Kiribati,English
-Marshall Islands,English,co-official with Marshallese,MH,Marshall Islands,English
-Nauru,English,de facto,NR,Nauru,English
-New Zealand,English,co-official with Māori and New Zealand Sign Language; see also New Zealand English,NZ,New Zealand,English
-Palau,English,co-official with Palauan,PW,Palau,English
-Papua New Guinea,English,co-official with Tok Pisin and Hiri Motu,PG,Papua New Guinea,English
-Solomon Islands,English,official,SB,Solomon Islands,English
-Vanuatu,English,co-official with Bislama and French,VU,Vanuatu,English
-Guyana,English,official,GY,Guyana,English
-American Samoa,English,co-official with Samoan,AS,American Samoa,English
-British Indian Ocean Territory,English,de facto,IO,British Indian Ocean Territory,English
-Anguilla,English,official,AI,Anguilla,English
-Bermuda,English,official,BM,Bermuda,English
-British Virgin Islands,English,official,,British Virgin Islands,English
-Cayman Islands,English,official,KY,Cayman Islands,English
-Christmas Island,English,official,CX,Christmas Island,English
-Cook Islands,English,co-official with Cook Islands Māori,CK,Cook Islands,English
-Falkland Islands,English,official,,Falkland Islands,English
-Gibraltar,English,official,GI,Gibraltar,English
-Guam,English,co-official with Chamorro,GU,Guam,English
-Guernsey,English,official,GG,Guernsey,English
-Hong Kong,English,co-official with Chinese,HK,Hong Kong,English
-Isle of Man,English,official,IM,Isle of Man,English
-Jersey,English,official,JE,Jersey,English
-Montserrat,English,official,MS,Montserrat,English
-Norfolk Island,English,co-official with Norfuk,NF,Norfolk Island,English
-Northern Mariana Islands,English,co-official with Chamorro and Carolinian,MP,Northern Mariana Islands,English
-Pitcairn Islands,English,co-official with Pitkern,,Pitcairn Islands,English
-Puerto Rico,English,co-official with Spanish,PR,Puerto Rico,English
-"Saint Helena, Ascension and Tristan da Cunha",English,official,SH,"Saint Helena, Ascension and Tristan da Cunha",English
-South Georgia and the South Sandwich Islands,English,official,GS,South Georgia and the South Sandwich Islands,English
-Turks and Caicos Islands,English,official,TC,Turks and Caicos Islands,English
-U.S. Virgin Islands,English,official,,U.S. Virgin Islands,English
-Canada,Baltic,"unofficial, spoken in Canada",CA,Canada,Baltic
-Latvia,Latgalian,"unofficial, spoken in Latgale",LV,Latvia,Baltic
-Russia,Latgalian,significant minority in Siberia,RU,Russia,Baltic
-Latvia,Latvian,official,LV,Latvia,Baltic
-Latvia,Lithuanian,minority,LV,Latvia,Baltic
-Lithuania,Lithuanian,official,LT,Lithuania,Baltic
-Poland,Lithuanian,"minority, majority in the city of Puńsk",PL,Poland,Baltic
-Indonesia,Batak Toba,minority,ID,Indonesia,Sunda–Sulawesi
-Indonesia,Buginese,minority,ID,Indonesia,Sunda–Sulawesi
-Malaysia,Buginese,minority,MY,Malaysia,Sunda–Sulawesi
-Guam,Chamorro,official,GU,Guam,Sunda–Sulawesi
-Northern Mariana Islands,Chamorro,official,MP,Northern Mariana Islands,Sunda–Sulawesi
-Russia,Evenki,"minority, in Siberia",RU,Russia,Standard Chinese
-China,Evenki,"minority, in Evenki Autonomous Banner of Inner Mongolia",CN,China,Standard Chinese
-Mongolia,Evenki,minority,MN,Mongolia,Standard Chinese
-Russia,Nanai (Hezhen),"minority, in Khabarovsk Krai",RU,Russia,Standard Chinese
-China,Nanai (Hezhen),"minority, in Heilongjiang Province",CN,China,Standard Chinese
-Albania,Italian,"unofficial, but widely spoken; some 70% of the population",AL,Albania,Italian
-Belgium,Italian,minority,BE,Belgium,Italian
-Croatia,Italian,official status in Istria,HR,Croatia,Italian
-France,Italian,minority language in  Corsica,FR,France,Italian
-Germany,Italian,minority,DE,Germany,Italian
-Greece,Italian,minority,GR,Greece,Italian
-Italy,Italian,official,IT,Italy,Italian
-Luxembourg,Italian,minority,LU,Luxembourg,Italian
-Malta,Italian,"unofficial, but widely spoken; some 66% of the population",MT,Malta,Italian
-Monaco,Italian,"unofficial, but widely spoken",MC,Monaco,Italian
-San Marino,Italian,official,SM,San Marino,Italian
-Slovenia,Italian,"co-official in Koper, Izola and Piran",SI,Slovenia,Italian
-Switzerland,Italian,"co-official with French, German, and Romansh",CH,Switzerland,Italian
-Vatican City,Italian,official,,Vatican City,Italian
-Eritrea,Italian,minority,ER,Eritrea,Italian
-Libya,Italian,minority,LY,Libya,Italian
-Somalia,Italian,minority,SO,Somalia,Italian
-Argentina,Italian,minority,AR,Argentina,Italian
-Brazil,Italian,minority,BR,Brazil,Italian
-Canada,Italian,minority,CA,Canada,Italian
-Peru,Italian,minority,PE,Peru,Italian
-United States,Italian,minority[3],US,United States,Italian
-Uruguay,Italian,minority,UY,Uruguay,Italian
-Venezuela,Italian,minority,VE,Venezuela,Italian
-Australia,Italian,minority,AU,Australia,Italian
-Portugal,Europe,official,PT,Portugal,Portuguese
-Spain,Europe,significant minority in Olivenza,ES,Spain,Portuguese
-France,Europe,significant minority,FR,France,Portuguese
-Luxembourg,Europe,significant minority,LU,Luxembourg,Portuguese
-Switzerland,Europe,significant minority,CH,Switzerland,Portuguese
-Andorra,Europe,significant minority,AD,Andorra,Portuguese
-Germany,Europe,significant minority,DE,Germany,Portuguese
-Angola,Africa,official,AO,Angola,Portuguese
-Cape Verde,Africa,official,CV,Cape Verde,Portuguese
-Guinea-Bissau,Africa,official,GW,Guinea-Bissau,Portuguese
-Equatorial Guinea,Africa,co-official with Spanish and French,GQ,Equatorial Guinea,Portuguese
-Mozambique,Africa,official,MZ,Mozambique,Portuguese
-São Tomé and Príncipe,Africa,official,,São Tomé and Príncipe,Portuguese
-South Africa,Africa,minority,ZA,South Africa,Portuguese
-Namibia,Africa,minority,NA,Namibia,Portuguese
-Timor-Leste,Asia,co-official with Tetum,TL,Timor-Leste,Portuguese
-Japan,Asia,significant minority; see Brazilians in Japan,JP,Japan,Portuguese
-Macau,Asia,co-official with Chinese,MO,Macau,Portuguese
-India,Asia,minority in Goa State,IN,India,Portuguese
-United States,North America,significant minority,US,United States,Portuguese
-Canada,North America,significant minority,CA,Canada,Portuguese
-Brazil,South America,"official, see Brazilian Portuguese",BR,Brazil,Portuguese
-Paraguay,South America,significant minority,PY,Paraguay,Portuguese
-Uruguay,South America,minority; see Portuñol,UY,Uruguay,Portuguese
-Venezuela,South America,significant minority,VE,Venezuela,Portuguese
-France,Japanese,minority,FR,France,Japonic languages
-Japan,Japanese,official,JP,Japan,Japonic languages
-Philippines,Japanese,minority,PH,Philippines,Japonic languages
-Peru,Japanese,minority,PE,Peru,Japonic languages
-United States,Japanese,minority,US,United States,Japonic languages
-Palau,Japanese,Official in Angaur,PW,Palau,Japonic languages
-Brazil,Japanese,minority,BR,Brazil,Japonic languages
-Japan,Ryukyuan,minority,JP,Japan,Japonic languages
-Brazil,Ryukyuan,minority,BR,Brazil,Japonic languages
-Angola,Hakka,minority,AO,Angola,Hakka
-Cape Verde,Hakka,minority,CV,Cape Verde,Hakka
-Mauritius,Hakka,minority,MU,Mauritius,Hakka
-South Africa,Hakka,minority,ZA,South Africa,Hakka
-Brunei,Hakka,minority,BN,Brunei,Hakka
-Cambodia,Hakka,minority,KH,Cambodia,Hakka
-China,Hakka,regional,CN,China,Hakka
-Hong Kong,Hakka,minority,HK,Hong Kong,Hakka
-Indonesia,Hakka,minority,ID,Indonesia,Hakka
-Japan,Hakka,minority,JP,Japan,Hakka
-Laos,Hakka,minority,LA,Laos,Hakka
-Macau,Hakka,minority,MO,Macau,Hakka
-Malaysia,Hakka,minority,MY,Malaysia,Hakka
-Burma,Hakka,minority,MM,Burma,Hakka
-North Korea,Hakka,minority,KP,North Korea,Hakka
-Philippines,Hakka,minority,PH,Philippines,Hakka
-Singapore,Hakka,minority,SG,Singapore,Hakka
-South Korea,Hakka,minority,KR,South Korea,Hakka
-Taiwan,Hakka,minority,TW,Taiwan,Hakka
-Thailand,Hakka,minority,TH,Thailand,Hakka
-Vietnam,Hakka,minority,VN,Vietnam,Hakka
-Bulgaria,Hakka,minority,BG,Bulgaria,Hakka
-France,Hakka,minority,FR,France,Hakka
-Germany,Hakka,minority,DE,Germany,Hakka
-Ireland,Hakka,minority,IE,Ireland,Hakka
-Italy,Hakka,minority,IT,Italy,Hakka
-Netherlands,Hakka,minority,NL,Netherlands,Hakka
-Romania,Hakka,minority,RO,Romania,Hakka
-Russia,Hakka,minority,RU,Russia,Hakka
-Serbia,Hakka,minority,RS,Serbia,Hakka
-Spain,Hakka,minority,ES,Spain,Hakka
-United Kingdom,Hakka,minority,GB,United Kingdom,Hakka
-Canada,Hakka,minority,CA,Canada,Hakka
-Cuba,Hakka,minority,CU,Cuba,Hakka
-Dominican Republic,Hakka,minority,DO,Dominican Republic,Hakka
-Jamaica,Hakka,minority,JM,Jamaica,Hakka
-Mexico,Hakka,minority,MX,Mexico,Hakka
-Nicaragua,Hakka,minority,NI,Nicaragua,Hakka
-Panama,Hakka,minority,PA,Panama,Hakka
-Trinidad and Tobago,Hakka,minority,TT,Trinidad and Tobago,Hakka
-United States,Hakka,minority,US,United States,Hakka
-Australia,Hakka,minority,AU,Australia,Hakka
-Fiji,Hakka,minority,FJ,Fiji,Hakka
-New Zealand,Hakka,minority,NZ,New Zealand,Hakka
-Samoa,Hakka,minority,WS,Samoa,Hakka
-Tonga,Hakka,minority,TO,Tonga,Hakka
-Argentina,Hakka,minority,AR,Argentina,Hakka
-Brazil,Hakka,minority,BR,Brazil,Hakka
-Chile,Hakka,regional,CL,Chile,Hakka
-Guyana,Hakka,minority,GY,Guyana,Hakka
-Peru,Hakka,minority,PE,Peru,Hakka
-Suriname,Hakka,minority,SR,Suriname,Hakka
-Azerbaijan,Azerbaijani,official,AZ,Azerbaijan,Turkic languages
-Iran,Azerbaijani,co-official in Iranian Azerbaijan,IR,Iran,Turkic languages
-Iraq,Azerbaijani,minority,IQ,Iraq,Turkic languages
-Georgia,Azerbaijani,regional,GE,Georgia,Turkic languages
-Russia,Azerbaijani,co-official in Dagestan,RU,Russia,Turkic languages
-Syria,Azerbaijani,minority,SY,Syria,Turkic languages
-Turkey,Azerbaijani,regional,TR,Turkey,Turkic languages
-Ukraine,Azerbaijani,minority,UA,Ukraine,Turkic languages
-Belarus,Azerbaijani,minority,BY,Belarus,Turkic languages
-China,Uyghur,"regional, co-official with Chinese in Xinjiang Uyghur Autonomous Region",CN,China,Turkic languages
-Kazakhstan,Uyghur,minority,KZ,Kazakhstan,Turkic languages
-Afghanistan,Uzbek,minority,AF,Afghanistan,Turkic languages
-China,Uzbek,minority,CN,China,Turkic languages
-Kyrgyzstan,Uzbek,minority,KG,Kyrgyzstan,Turkic languages
-Russia,Uzbek,minority,RU,Russia,Turkic languages
-Tajikistan,Uzbek,minority,TJ,Tajikistan,Turkic languages
-Turkmenistan,Uzbek,minority,TM,Turkmenistan,Turkic languages
-Uzbekistan,Uzbek,official,UZ,Uzbekistan,Turkic languages
-Afghanistan,Kazakh,minority,AF,Afghanistan,Turkic languages
-China,Kazakh,"regional, co-official with Chinese in Ili Kazakh Autonomous Prefecture in Xinjiang Uyghur Autonomous Region",CN,China,Turkic languages
-Iran,Kazakh,minority,IR,Iran,Turkic languages
-Kazakhstan,Kazakh,official,KZ,Kazakhstan,Turkic languages
-Mongolia,Kazakh,minority,MN,Mongolia,Turkic languages
-Russia,Kazakh,minority,RU,Russia,Turkic languages
-Tajikistan,Kazakh,minority,TJ,Tajikistan,Turkic languages
-Turkey,Kazakh,minority,TR,Turkey,Turkic languages
-Turkmenistan,Kazakh,minority,TM,Turkmenistan,Turkic languages
-Ukraine,Kazakh,minority,UA,Ukraine,Turkic languages
-Uzbekistan,Kazakh,minority,UZ,Uzbekistan,Turkic languages
-Afghanistan,Kyrgyz,minority,AF,Afghanistan,Turkic languages
-China,Kyrgyz,minority,CN,China,Turkic languages
-Kyrgyzstan,Kyrgyz,official,KG,Kyrgyzstan,Turkic languages
-Pakistan,Kyrgyz,minority,PK,Pakistan,Turkic languages
-Tajikistan,Kyrgyz,minority,TJ,Tajikistan,Turkic languages
-Turkey,Turkish,official,TR,Turkey,Turkic languages
-Cyprus,Turkish,co-official with Greek,CY,Cyprus,Turkic languages
-Iraq,Turkish,recognized regional lang.,IQ,Iraq,Turkic languages
-Afghanistan,Turkish,recognized regional lang.,AF,Afghanistan,Turkic languages
-Kosovo,Turkish,recognized regional lang.,,Kosovo,Turkic languages
-Macedonia,Turkish,recognized regional lang.,MK,Macedonia,Turkic languages
-Romania,Turkish,recognized minority lang.,RO,Romania,Turkic languages
-Bulgaria,Turkish,minority,BG,Bulgaria,Turkic languages
-Greece,Turkish,minority,GR,Greece,Turkic languages
-Germany,Turkish,significant minority,DE,Germany,Turkic languages
-Turkmenistan,Turkmen,official,TM,Turkmenistan,Turkic languages
-Iraq,Turkmen,majority in northern Iraq,IQ,Iraq,Turkic languages
-Iran,Turkmen,minority,IR,Iran,Turkic languages
-Afghanistan,Turkmen,minority,AF,Afghanistan,Turkic languages
-Russia,Turkmen,spoken in Stavropol Krai,RU,Russia,Turkic languages
-Turkey,Turkmen,minority,TR,Turkey,Turkic languages
-Găgăuzia,Gagauz,"official language of the autonomous region of Gagauzia, Moldova",,Găgăuzia,Turkic languages
-Moldova,Gagauz,recognized minority language,MD,Moldova,Turkic languages
-Ukraine,Gagauz,recognized minority language,UA,Ukraine,Turkic languages
-Tatarstan,Tatar,official language of the Republic of Tatarstan,,Tatarstan,Turkic languages
-Russia,Tatar,spoken in Russia and in former Soviet Union,RU,Russia,Turkic languages
-Turkey,Tatar,minority,TR,Turkey,Turkic languages
-Crimea  Ukraine,Crimean Tatar,spoken and protected but not officially recognized language of Ukraine,,Crimea  Ukraine,Turkic languages
-Romania,Crimean Tatar,minority language in Dobroudja,RO,Romania,Turkic languages
-Turkey,Crimean Tatar,minority,TR,Turkey,Turkic languages
-Austria,German,official,AT,Austria,German
-Germany,German,official,DE,Germany,German
-Liechtenstein,German,official,LI,Liechtenstein,German
-Switzerland,German,co-official with French and Italian,CH,Switzerland,German
-Belgium,German,official,BE,Belgium,German
-Hungary,German,co-official with Hungarian in the city of Sopron,HU,Hungary,German
-Italy,German,co-official with Italian in South Tyrol,IT,Italy,German
-Luxembourg,German,co-official with French and Luxembourgish,LU,Luxembourg,German
-Poland,German,co-official as auxiliary language in the Opole Voivodeship,PL,Poland,German
-Vatican City,German,"official with other languages, language of the Swiss Guard",,Vatican City,German
-France,German,minority in Alsace and Lorraine,FR,France,German
-Czech Republic,German,minority,CZ,Czech Republic,German
-Denmark,German,minority,DK,Denmark,German
-Romania,German,minority,RO,Romania,German
-Russia,German,minority,RU,Russia,German
-Namibia,German,co-official as auxiliary language,NA,Namibia,German
-Kazakhstan,German,minority,KZ,Kazakhstan,German
-United States,German,minority[3],US,United States,German
-Argentina,German,minority,AR,Argentina,German
-Brazil,German,minority,BR,Brazil,German
-Chile,German,minority,CL,Chile,German
-Northern Mariana Islands,Carolinian,official,MP,Northern Mariana Islands,Micronesian
-Guam,Carolinian,minority,GU,Guam,Micronesian
-FS. Micronesia,Chuukese,regional,FM,FS. Micronesia,Micronesian
-Fiji,Gilbertese,minority,FJ,Fiji,Micronesian
-Kiribati,Gilbertese,official,KI,Kiribati,Micronesian
-Nauru,Gilbertese,minority,NR,Nauru,Micronesian
-Solomon Islands,Gilbertese,minority,SB,Solomon Islands,Micronesian
-Tuvalu,Gilbertese,minority,TV,Tuvalu,Micronesian
-Vanuatu,Gilbertese,minority,VU,Vanuatu,Micronesian
-FS. Micronesia,Kosraean,regional,FM,FS. Micronesia,Micronesian
-Marshall Islands,Marshallese,official,MH,Marshall Islands,Micronesian
-Nauru,Nauruan,official,NR,Nauru,Micronesian
-FS. Micronesia,Pohnpeian,regional,FM,FS. Micronesia,Micronesian
-Palau,Sosorolese,regional,PW,Palau,Micronesian
-Palau,Tobian,regional,PW,Palau,Micronesian
-FS. Micronesia,Ulithian,regional,FM,FS. Micronesia,Micronesian
-FS. Micronesia,Yapese,regional,FM,FS. Micronesia,Micronesian
-Judaism,Hebrew,Liturgical language of Judaism,,Judaism,Other Semitic Lang.
-Israel,Hebrew,official,IL,Israel,Other Semitic Lang.
-Malta,Maltese,official,MT,Malta,Other Semitic Lang.
-Australia,Maltese,minority,AU,Australia,Other Semitic Lang.
-Canada,Maltese,minority,CA,Canada,Other Semitic Lang.
-Italy,Maltese,minority,IT,Italy,Other Semitic Lang.
-United States,Maltese,minority,US,United States,Other Semitic Lang.
-China,Gaoyang,regional,CN,China,Other Sinitic Lang.
-China,Hui,regional,CN,China,Other Sinitic Lang.
-China,Jin,regional,CN,China,Other Sinitic Lang.
-China,Hainanese,regional,CN,China,Other Sinitic Lang.
-China,Pinghua,regional,CN,China,Other Sinitic Lang.
-China,Wu,regional,CN,China,Other Sinitic Lang.
-Hong Kong,Wu,minority,HK,Hong Kong,Other Sinitic Lang.
-United States,Wu,minority,US,United States,Other Sinitic Lang.
-China,Xiang,regional,CN,China,Other Sinitic Lang.
-Spain,Europe,official,ES,Spain,Spanish
-Andorra,Europe,majority,AD,Andorra,Spanish
-France,Europe,minority,FR,France,Spanish
-Germany,Europe,minority,DE,Germany,Spanish
-Gibraltar,Europe,not official – majority,GI,Gibraltar,Spanish
-Italy,Europe,minority,IT,Italy,Spanish
-United Kingdom,Europe,minority,GB,United Kingdom,Spanish
-Equatorial Guinea,Africa,co-official with Portuguese and French,GQ,Equatorial Guinea,Spanish
-Morocco,Africa,not official – minority,MA,Morocco,Spanish
-Western Sahara,Africa,co-official with Arabic,EH,Western Sahara,Spanish
-Ceuta,Africa,official,,Ceuta,Spanish
-Melilla,Africa,official,,Melilla,Spanish
-Canary Islands,Africa,official,,Canary Islands,Spanish
-"Gabon, Cocobeach",Africa,official,,"Gabon, Cocobeach",Spanish
-Japan,Asia,minority,JP,Japan,Spanish
-Philippines,Asia,"former official language, spoken by a minority",PH,Philippines,Spanish
-Belize,North America,"plurality, but unofficial",BZ,Belize,Spanish
-Costa Rica,North America,official,CR,Costa Rica,Spanish
-Cuba,North America,official,CU,Cuba,Spanish
-Dominican Republic,North America,official,DO,Dominican Republic,Spanish
-El Salvador,North America,official,SV,El Salvador,Spanish
-Guatemala,North America,official,GT,Guatemala,Spanish
-Honduras,North America,official,HN,Honduras,Spanish
-Mexico,North America,de facto,MX,Mexico,Spanish
-Nicaragua,North America,official,NI,Nicaragua,Spanish
-Panama,North America,official,PA,Panama,Spanish
-United States,North America,Co-official language in New Mexico and Puerto Rico. Spoken by a majority in PR and a significant minority in NM. Minority elsewhere[3],US,United States,Spanish
-Argentina,South America,official,AR,Argentina,Spanish
-Bolivia,South America,co-official with Quechua and Aymara,,Bolivia,Spanish
-Brazil,South America,not official – minority,BR,Brazil,Spanish
-Chile,South America,official,CL,Chile,Spanish
-Colombia,South America,official,CO,Colombia,Spanish
-Ecuador,South America,official,EC,Ecuador,Spanish
-Paraguay,South America,co-official with Guaraní,PY,Paraguay,Spanish
-Peru,South America,official,PE,Peru,Spanish
-Uruguay,South America,official,UY,Uruguay,Spanish
-Venezuela,South America,official,VE,Venezuela,Spanish
-Islam,Arabic,Liturgical language of Islam,,Islam,Arabic
-Algeria,Arabic,official,DZ,Algeria,Arabic
-Comoros,Arabic,co-official with French,KM,Comoros,Arabic
-Chad,Arabic,co-official with French,TD,Chad,Arabic
-Djibouti,Arabic,co-official with French,DJ,Djibouti,Arabic
-Egypt,Arabic,official,EG,Egypt,Arabic
-Eritrea,Arabic,co-official with Tigrinya,ER,Eritrea,Arabic
-Libya,Arabic,official,LY,Libya,Arabic
-Mauritania,Arabic,official,MR,Mauritania,Arabic
-Morocco,Arabic,co-official with Berber,MA,Morocco,Arabic
-Somalia,Arabic,co-official with Somali,SO,Somalia,Arabic
-Sudan,Arabic,co-official with English,SD,Sudan,Arabic
-Tunisia,Arabic,official,TN,Tunisia,Arabic
-Western Sahara,Arabic,co-official with Spanish,EH,Western Sahara,Arabic
-Bahrain,Arabic,official,BH,Bahrain,Arabic
-Iraq,Arabic,co-official with Kurdish,IQ,Iraq,Arabic
-Israel,Arabic,co-official with Hebrew,IL,Israel,Arabic
-Jordan,Arabic,official,JO,Jordan,Arabic
-Kuwait,Arabic,official,KW,Kuwait,Arabic
-Lebanon,Arabic,official,LB,Lebanon,Arabic
-Oman,Arabic,official,OM,Oman,Arabic
-Palestine,Arabic,official,PS,Palestine,Arabic
-Qatar,Arabic,official,QA,Qatar,Arabic
-Saudi Arabia,Arabic,official,SA,Saudi Arabia,Arabic
-Syria,Arabic,official,SY,Syria,Arabic
-United Arab Emirates,Arabic,official,AE,United Arab Emirates,Arabic
-Yemen,Arabic,official,YE,Yemen,Arabic
-Iran,Arabic,regional,IR,Iran,Arabic
-Afghanistan,Arabic,regional/religious,AF,Afghanistan,Arabic
-Philippines,Arabic,optional language along with Spanish,PH,Philippines,Arabic
-France,Arabic,minority,FR,France,Arabic
-Germany,Arabic,minority,DE,Germany,Arabic
-Italy,Arabic,minority,IT,Italy,Arabic
-Netherlands,Arabic,minority,NL,Netherlands,Arabic
-Spain,Arabic,minority,ES,Spain,Arabic
-Sweden,Arabic,minority,SE,Sweden,Arabic
-Turkey,Arabic,significant minority,TR,Turkey,Arabic
-United Kingdom,Arabic,minority,GB,United Kingdom,Arabic
-Australia,Arabic,minority,AU,Australia,Arabic
-United States,Arabic,significant minority[3],US,United States,Arabic
-Canada,Arabic,minority,CA,Canada,Arabic
-Argentina,Arabic,"minority, immigrants from Lebanon",AR,Argentina,Arabic
-Brazil,Arabic,"minority, see Arab Brazilian",BR,Brazil,Arabic
+name,Language,Status,iso,name,type,lang_iso,lang_level
+Brunei,brunei malay,regional,BN,brunei,Bornean,,2.0
+Malaysia,brunei malay,minority,MY,malaysia,Bornean,,2.0
+Malaysia,coastal kadazan,minority,MY,malaysia,Bornean,,2.0
+Malaysia,iban,regional,MY,malaysia,Bornean,,2.0
+Brunei,iban,minority,BN,brunei,Bornean,,2.0
+Indonesia,iban,minority,ID,indonesia,Bornean,,2.0
+Comoros,malagasy,minority,KM,comoros,Bornean,MG,2.0
+Madagascar,malagasy,official,MG,madagascar,Bornean,MG,1.0
+Mayotte,malagasy,minority,YT,mayotte,Bornean,MG,2.0
+Angola,min,minority,AO,angola,Min,,2.0
+Cape Verde,min,minority,CV,cape verde,Min,,2.0
+Mauritius,min,minority,MU,mauritius,Min,,2.0
+South Africa,min,minority,ZA,south africa,Min,,2.0
+Brunei,min,minority,BN,brunei,Min,,2.0
+Cambodia,min,minority,KH,cambodia,Min,,2.0
+China,min,regional,CN,china,Min,,2.0
+Hong Kong,min,minority,HK,hong kong,Min,,2.0
+Indonesia,min,minority,ID,indonesia,Min,,2.0
+Japan,min,minority,JP,japan,Min,,2.0
+Laos,min,minority,LA,laos,Min,,2.0
+Macau,min,minority,MO,macau,Min,,2.0
+Malaysia,min,"minority, lingua franca in penang",MY,malaysia,Min,,2.0
+Burma,min,minority,MM,burma,Min,,2.0
+North Korea,min,minority,KP,north korea,Min,,2.0
+Philippines,min,minority,PH,philippines,Min,,2.0
+Singapore,min,minority,SG,singapore,Min,,2.0
+South Korea,min,minority,KR,south korea,Min,,2.0
+Taiwan,min,"widely spoken, lingua franca alongside with mandarin, see taiwanese minnan",TW,taiwan,Min,,
+Thailand,min,minority,TH,thailand,Min,,2.0
+Vietnam,min,minority,VN,vietnam,Min,,2.0
+Bulgaria,min,minority,BG,bulgaria,Min,,2.0
+France,min,minority,FR,france,Min,,2.0
+Germany,min,minority,DE,germany,Min,,2.0
+Ireland,min,minority,IE,ireland,Min,,2.0
+Italy,min,minority,IT,italy,Min,,2.0
+Netherlands,min,minority,NL,netherlands,Min,,2.0
+Romania,min,minority,RO,romania,Min,,2.0
+Russia,min,minority,RU,russia,Min,,2.0
+Serbia,min,minority,RS,serbia,Min,,2.0
+Spain,min,minority,ES,spain,Min,,2.0
+United Kingdom,min,minority,GB,united kingdom,Min,,2.0
+Canada,min,minority,CA,canada,Min,,2.0
+Cuba,min,minority,CU,cuba,Min,,2.0
+Dominican Republic,min,minority,DO,dominican republic,Min,,2.0
+Jamaica,min,minority,JM,jamaica,Min,,2.0
+Mexico,min,minority,MX,mexico,Min,,2.0
+Nicaragua,min,minority,NI,nicaragua,Min,,2.0
+Panama,min,minority,PA,panama,Min,,2.0
+Trinidad and Tobago,min,minority,TT,trinidad and tobago,Min,,2.0
+United States,min,minority,US,united states,Min,,2.0
+Australia,min,minority,AU,australia,Min,,2.0
+Fiji,min,minority,FJ,fiji,Min,,2.0
+New Zealand,min,minority,NZ,new zealand,Min,,2.0
+Samoa,min,minority,WS,samoa,Min,,2.0
+Tonga,min,minority,TO,tonga,Min,,2.0
+Argentina,min,minority,AR,argentina,Min,,2.0
+Brazil,min,minority,BR,brazil,Min,,2.0
+Chile,min,regional,CL,chile,Min,,2.0
+Guyana,min,minority,GY,guyana,Min,,2.0
+Peru,min,minority,PE,peru,Min,,2.0
+Suriname,min,minority,SR,suriname,Min,,2.0
+Vietnam,bahnar[20],"minority, 227,716 p. in south vietnam (2009)",VN,vietnam,Cherokee,,2.0
+Laos,bru[21],"minority, 69,000 p. in south laos.",LA,laos,Cherokee,,2.0
+Vietnam,bru[21],"minority, 74,500 p. in central vietnam (2009)",VN,vietnam,Cherokee,,2.0
+Thailand,bru[21],minority,TH,thailand,Cherokee,,2.0
+India,khasi,official language in meghalaya,IN,india,Cherokee,,1.0
+Cambodia,khmer[22],official,KH,cambodia,Cherokee,,1.0
+Vietnam,khmer[22],"minority, 1.26 mi. p. in south vietnam",VN,vietnam,Cherokee,,2.0
+Thailand,khmer[22],minority,TH,thailand,Cherokee,,2.0
+Laos,khmu[21],"minority, 621,000 p.",LA,laos,Cherokee,,2.0
+Vietnam,khmu[21],"minority, 73,000 p.",VN,vietnam,Cherokee,,2.0
+Thailand,khmu[21],"minority, 10,000 p.",TH,thailand,Cherokee,,2.0
+China,khmu[21],minority,CN,china,Cherokee,,2.0
+Thailand,kuy[23],minority,TH,thailand,Cherokee,,2.0
+Cambodia,kuy[23],minority,KH,cambodia,Cherokee,,2.0
+Laos,kuy[23],minority,LA,laos,Cherokee,,2.0
+Vietnam,mnong[20],minority,VN,vietnam,Cherokee,,2.0
+Cambodia,mnong[20],minority,KH,cambodia,Cherokee,,2.0
+Burma,mon,recognised regional language,MM,burma,Cherokee,,2.0
+Thailand,mon,minority,TH,thailand,Cherokee,,2.0
+Vietnam,muong[20],"minority, spoken by 1.6 mi. muong peoples in north vietnam",VN,vietnam,Cherokee,,2.0
+Vietnam,vietnamese,official,VN,vietnam,Cherokee,VI,1.0
+Czech Republic,vietnamese,minority[24],CZ,czech republic,Cherokee,VI,2.0
+United States,vietnamese,minority[3],US,united states,Cherokee,VI,2.0
+Australia,vietnamese,"minority, 0.21 mi.p.[25]",AU,australia,Cherokee,VI,2.0
+Cambodia,vietnamese,"minority, 0.6 mi.p.[26]",KH,cambodia,Cherokee,VI,2.0
+Canada,vietnamese,"minority, 0.22 mi.p.",CA,canada,Cherokee,VI,2.0
+France,vietnamese,"minority, 0.3 mi.p.",FR,france,Cherokee,VI,2.0
+Laos,vietnamese,"minority, 0.1 mi.p.",LA,laos,Cherokee,VI,2.0
+Burma,wa[27],"minority, 0.9 mi. peoples in shan state",MM,burma,Cherokee,,2.0
+China,wa[27],"minority, 0.4 mi. peoples in china's yunnan province.",CN,china,Cherokee,,2.0
+France,breton,"minority language in  brittany, but unofficial",FR,france,Celtic,BR,1.0
+United Kingdom,cornish,"minority language in  cornwall, but unofficial",GB,united kingdom,Celtic,,1.0
+Ireland,irish,co-official with english,IE,ireland,Celtic,GA,1.0
+United Kingdom,irish,minority and official in northern ireland,GB,united kingdom,Celtic,GA,1.0
+United States,irish,minority,US,united states,Celtic,GA,2.0
+Isle of Man,manx,minority,IM,isle of man,Celtic,,2.0
+Canada,scottish gaelic,minority in  nova scotia,CA,canada,Celtic,,2.0
+United Kingdom,scottish gaelic,significant minority in  scotland,GB,united kingdom,Celtic,,2.0
+United States,scottish gaelic,minority,US,united states,Celtic,,2.0
+Argentina,welsh,significant minority in  chubut,AR,argentina,Celtic,CY,2.0
+United Kingdom,welsh,spoken by approximately 20% of the population in wales[1] and co-official with english,GB,united kingdom,Celtic,CY,1.0
+United States,welsh,minority,US,united states,Celtic,CY,2.0
+Fiji,fijian,official,FJ,fiji,East Fijian,,1.0
+Angola,mandarin,minority,AO,angola,Mandarin,zh,2.0
+Cape Verde,mandarin,minority,CV,cape verde,Mandarin,zh,2.0
+Mauritius,mandarin,minority,MU,mauritius,Mandarin,zh,2.0
+South Africa,mandarin,minority,ZA,south africa,Mandarin,zh,2.0
+Brunei,mandarin,minority,BN,brunei,Mandarin,zh,2.0
+Cambodia,mandarin,minority,KH,cambodia,Mandarin,zh,2.0
+China,mandarin,national,CN,china,Mandarin,zh,
+Hong Kong,mandarin,co-official with english and cantonese,HK,hong kong,Mandarin,zh,1.0
+Indonesia,mandarin,minority,ID,indonesia,Mandarin,zh,2.0
+Japan,mandarin,minority,JP,japan,Mandarin,zh,2.0
+Laos,mandarin,minority,LA,laos,Mandarin,zh,2.0
+Macau,mandarin,co-official with portuguese and cantonese,MO,macau,Mandarin,zh,1.0
+Malaysia,mandarin,minority,MY,malaysia,Mandarin,zh,2.0
+Burma,mandarin,minority,MM,burma,Mandarin,zh,2.0
+North Korea,mandarin,minority,KP,north korea,Mandarin,zh,2.0
+Philippines,mandarin,minority,PH,philippines,Mandarin,zh,2.0
+Singapore,mandarin,"co-official with tamil, english, and malay",SG,singapore,Mandarin,zh,1.0
+South Korea,mandarin,minority,KR,south korea,Mandarin,zh,2.0
+Taiwan,mandarin,official,TW,taiwan,Mandarin,zh,1.0
+Thailand,mandarin,minority,TH,thailand,Mandarin,zh,2.0
+Vietnam,mandarin,minority,VN,vietnam,Mandarin,zh,2.0
+Bulgaria,mandarin,minority,BG,bulgaria,Mandarin,zh,2.0
+France,mandarin,minority,FR,france,Mandarin,zh,2.0
+Germany,mandarin,minority,DE,germany,Mandarin,zh,2.0
+Ireland,mandarin,minority,IE,ireland,Mandarin,zh,2.0
+Italy,mandarin,minority,IT,italy,Mandarin,zh,2.0
+Netherlands,mandarin,minority,NL,netherlands,Mandarin,zh,2.0
+Romania,mandarin,minority,RO,romania,Mandarin,zh,2.0
+Russia,mandarin,minority,RU,russia,Mandarin,zh,2.0
+Serbia,mandarin,minority,RS,serbia,Mandarin,zh,2.0
+Spain,mandarin,minority,ES,spain,Mandarin,zh,2.0
+United Kingdom,mandarin,minority,GB,united kingdom,Mandarin,zh,2.0
+Canada,mandarin,minority,CA,canada,Mandarin,zh,2.0
+Cuba,mandarin,minority,CU,cuba,Mandarin,zh,2.0
+Dominican Republic,mandarin,minority,DO,dominican republic,Mandarin,zh,2.0
+Jamaica,mandarin,minority,JM,jamaica,Mandarin,zh,2.0
+Mexico,mandarin,minority,MX,mexico,Mandarin,zh,2.0
+Nicaragua,mandarin,minority,NI,nicaragua,Mandarin,zh,2.0
+Panama,mandarin,minority,PA,panama,Mandarin,zh,2.0
+Trinidad and Tobago,mandarin,minority,TT,trinidad and tobago,Mandarin,zh,2.0
+United States,mandarin,minority[3],US,united states,Mandarin,zh,2.0
+Australia,mandarin,minority,AU,australia,Mandarin,zh,2.0
+Fiji,mandarin,minority,FJ,fiji,Mandarin,zh,2.0
+New Zealand,mandarin,minority,NZ,new zealand,Mandarin,zh,2.0
+Samoa,mandarin,minority,WS,samoa,Mandarin,zh,2.0
+Tonga,mandarin,minority,TO,tonga,Mandarin,zh,2.0
+Argentina,mandarin,minority,AR,argentina,Mandarin,zh,2.0
+Brazil,mandarin,minority,BR,brazil,Mandarin,zh,2.0
+Chile,mandarin,regional,CL,chile,Mandarin,zh,2.0
+Guyana,mandarin,minority,GY,guyana,Mandarin,zh,2.0
+Peru,mandarin,minority,PE,peru,Mandarin,zh,2.0
+Suriname,mandarin,minority,SR,suriname,Mandarin,zh,2.0
+Netherlands,dutch,official,NL,netherlands,Dutch,NL,1.0
+Belgium,dutch,co-official with french and german,BE,belgium,Dutch,NL,1.0
+France,dutch,in french flanders,FR,france,Dutch,NL,
+Germany,dutch,in low rhine country,DE,germany,Dutch,NL,
+South Africa,dutch,"spoken as minority, often used together with daughter language afrikaans",ZA,south africa,Dutch,NL,2.0
+Namibia,dutch,"spoken as minority, often used together with daughter language afrikaans",NA,namibia,Dutch,NL,2.0
+Indonesia,dutch,regional language in minority (historic language),ID,indonesia,Dutch,NL,2.0
+New Zealand,dutch,minority,NZ,new zealand,Dutch,NL,2.0
+Aruba,dutch,co-official with papiamento,AW,aruba,Dutch,NL,1.0
+Curaçao,dutch,co-official with english and papiamento,,curaçao,Dutch,NL,1.0
+Sint Maarten,dutch,co-official with english,,sint maarten,Dutch,NL,1.0
+United States,dutch,spoken in minority primarily in michigan and indiana,US,united states,Dutch,NL,2.0
+Canada,dutch,minority,CA,canada,Dutch,NL,2.0
+Suriname,dutch,official,SR,suriname,Dutch,NL,1.0
+French Guiana,dutch,"unofficial, spoken in saint-laurent-du-maroni",GF,french guiana,Dutch,NL,1.0
+India,angika,"majority in anga, significant minority in the rest of the country",IN,india,Other Indo-Aryan,,2.0
+Nepal,angika,"minority language, in terai region",NP,nepal,Other Indo-Aryan,,2.0
+Bhutan,assamese,minority,BT,bhutan,Other Indo-Aryan,AS,2.0
+India,assamese,official language along with 21 others,IN,india,Other Indo-Aryan,AS,1.0
+United Kingdom,assamese,minority,GB,united kingdom,Other Indo-Aryan,AS,2.0
+United States,assamese,minority,US,united states,Other Indo-Aryan,AS,2.0
+Bhutan,awadhi[8],minority,BT,bhutan,Other Indo-Aryan,,2.0
+India,awadhi[8],"majority in uttar pradesh, minority in bihar, madhya pradesh, and delhi",IN,india,Other Indo-Aryan,,2.0
+India,bhili,minority,IN,india,Other Indo-Aryan,,2.0
+Fiji,bhojpuri,minority,FJ,fiji,Other Indo-Aryan,,2.0
+Guyana,bhojpuri,minority,GY,guyana,Other Indo-Aryan,,2.0
+India,bhojpuri,"in bihar, jharkhand, and uttar pradesh",IN,india,Other Indo-Aryan,,
+Mauritius,bhojpuri,minority,MU,mauritius,Other Indo-Aryan,,2.0
+Nepal,bhojpuri,minority,NP,nepal,Other Indo-Aryan,,2.0
+United Kingdom,bhojpuri,minority,GB,united kingdom,Other Indo-Aryan,,2.0
+Suriname,bhojpuri,minority,SR,suriname,Other Indo-Aryan,,2.0
+Trinidad and Tobago,bhojpuri,minority,TT,trinidad and tobago,Other Indo-Aryan,,2.0
+Seychelles,bhojpuri,minority,SC,seychelles,Other Indo-Aryan,,2.0
+South Africa,bhojpuri,minority,ZA,south africa,Other Indo-Aryan,,2.0
+Australia,bhojpuri,minority,AU,australia,Other Indo-Aryan,,2.0
+India,bishnupriya manipuri,"minority, mostly in manipur, assam and tripura",IN,india,Other Indo-Aryan,,2.0
+Bangladesh,bishnupriya manipuri,minority,BD,bangladesh,Other Indo-Aryan,,2.0
+Burma,bishnupriya manipuri,minority,MM,burma,Other Indo-Aryan,,2.0
+Bangladesh,chakma,"minority, mostly in chittagong division",BD,bangladesh,Other Indo-Aryan,,2.0
+India,chakma,"minority, mostly in tripura, mizoram, arunachal pradesh",IN,india,Other Indo-Aryan,,2.0
+India,chhattisgarhi,"majority in chhattisgarh, minority in madhya pradesh, orissa, and bihar",IN,india,Other Indo-Aryan,,2.0
+Bangladesh,chittagonian,"significant minority, major language of chittagong division of bangladesh",BD,bangladesh,Other Indo-Aryan,,2.0
+Burma,chittagonian,"minority, mostly in arakan and yangon",MM,burma,Other Indo-Aryan,,2.0
+Oman,chittagonian,minority,OM,oman,Other Indo-Aryan,,2.0
+Saudi Arabia,chittagonian,minority,SA,saudi arabia,Other Indo-Aryan,,2.0
+United Arab Emirates,chittagonian,minority,AE,united arab emirates,Other Indo-Aryan,,2.0
+Qatar,chittagonian,minority,QA,qatar,Other Indo-Aryan,,2.0
+Kuwait,chittagonian,minority,KW,kuwait,Other Indo-Aryan,,2.0
+Pakistan,chittagonian,"minority, mostly in karachi",PK,pakistan,Other Indo-Aryan,,2.0
+United Kingdom,chittagonian,minority,GB,united kingdom,Other Indo-Aryan,,2.0
+United States,chittagonian,minority,US,united states,Other Indo-Aryan,,2.0
+India,dhivehi,in lakshadweep,IN,india,Other Indo-Aryan,,
+Maldives,dhivehi,official,MV,maldives,Other Indo-Aryan,,1.0
+Pakistan,dogri,"in punjab, and azad kashmir",PK,pakistan,Other Indo-Aryan,,
+India,dogri,"in jammu and kashmir, punjab, and himachal pradesh",IN,india,Other Indo-Aryan,,
+Australia,gujarati,minority,AU,australia,Other Indo-Aryan,GU,2.0
+Canada,gujarati,significant minority,CA,canada,Other Indo-Aryan,GU,2.0
+India,gujarati,official in gujarat,IN,india,Other Indo-Aryan,GU,1.0
+Pakistan,gujarati,significant minority,PK,pakistan,Other Indo-Aryan,GU,2.0
+South Africa,gujarati,significant minority,ZA,south africa,Other Indo-Aryan,GU,2.0
+Kenya,gujarati,minority,KE,kenya,Other Indo-Aryan,GU,2.0
+Mauritius,gujarati,minority,MU,mauritius,Other Indo-Aryan,GU,2.0
+Tanzania,gujarati,minority,TZ,tanzania,Other Indo-Aryan,GU,2.0
+Uganda,gujarati,minority,UG,uganda,Other Indo-Aryan,GU,2.0
+United Kingdom,gujarati,significant minority,GB,united kingdom,Other Indo-Aryan,GU,2.0
+United States,gujarati,significant minority,US,united states,Other Indo-Aryan,GU,2.0
+Zimbabwe,gujarati,minority,ZW,zimbabwe,Other Indo-Aryan,GU,2.0
+India,hajong,"minority, mostly in assam, meghalaya, arunachal pradesh and west bengal",IN,india,Other Indo-Aryan,,2.0
+Bangladesh,hajong,minority,BD,bangladesh,Other Indo-Aryan,,2.0
+India,halbi,"in madhya pradesh, chhattisgarh, and andhra pradesh",IN,india,Other Indo-Aryan,,
+Pakistan,kalash,minority,PK,pakistan,Other Indo-Aryan,,2.0
+Afghanistan,kalash,minority,AF,afghanistan,Other Indo-Aryan,,2.0
+India,kashmiri,"official, spoken in delhi, jammu and kashmir, punjab, and uttar pradesh",IN,india,Other Indo-Aryan,KS,1.0
+Pakistan,kashmiri,spoken in azad kashmir,PK,pakistan,Other Indo-Aryan,KS,
+United Kingdom,kashmiri,"minority, mostly by immigrants from azad kashmir",GB,united kingdom,Other Indo-Aryan,KS,2.0
+India,khandeshi,"minority, spoken in maharashtra, gujarat",IN,india,Other Indo-Aryan,,2.0
+Pakistan,khowar,"majority in chitral, minority in gilgit",PK,pakistan,Other Indo-Aryan,,2.0
+India,kannada,official in karnataka state,IN,india,Other Indo-Aryan,KN,1.0
+United States,kannada,minority,US,united states,Other Indo-Aryan,KN,2.0
+India,kumaoni,"majority in uttarakhand, minority in assam",IN,india,Other Indo-Aryan,,2.0
+Armenia,lomavren,minority,AM,armenia,Other Indo-Aryan,,2.0
+Azerbaijan,lomavren,minority,AZ,azerbaijan,Other Indo-Aryan,,2.0
+Bulgaria,lomavren,minority,BG,bulgaria,Other Indo-Aryan,,2.0
+Georgia,lomavren,minority,GE,georgia,Other Indo-Aryan,,2.0
+Iran,lomavren,minority,IR,iran,Other Indo-Aryan,,2.0
+Russia,lomavren,minority,RU,russia,Other Indo-Aryan,,2.0
+Syria,lomavren,minority,SY,syria,Other Indo-Aryan,,2.0
+India,magadhi,official in bihar,IN,india,Other Indo-Aryan,,1.0
+India,maithili,official in bihar,IN,india,Other Indo-Aryan,,1.0
+Nepal,maithili,significant minority in terai,NP,nepal,Other Indo-Aryan,,2.0
+India,mal paharia,"minority, mostly in jharkhand and west bengal",IN,india,Other Indo-Aryan,,2.0
+Bangladesh,mal paharia,minority,BD,bangladesh,Other Indo-Aryan,,2.0
+India,marathi,"official along with 21 others, widely spoken in maharashtra & goa, gujarat, madhya pradesh, sindh, karnataka, andhra pradesh, tamil nadu, chhattisgarh, dadra and nagar haveli, telangana, daman and diu.",IN,india,Other Indo-Aryan,MR,1.0
+Israel,marathi,minority,IL,israel,Other Indo-Aryan,MR,2.0
+Mauritius,marathi,minority,MU,mauritius,Other Indo-Aryan,MR,2.0
+Singapore,marathi,minority,SG,singapore,Other Indo-Aryan,MR,2.0
+United States,marathi,significant minority,US,united states,Other Indo-Aryan,MR,2.0
+United Kingdom,marathi,significant minority,GB,united kingdom,Other Indo-Aryan,MR,2.0
+Australia,marathi,significant minority,AU,australia,Other Indo-Aryan,MR,2.0
+New Zealand,marathi,significant minority,NZ,new zealand,Other Indo-Aryan,MR,2.0
+South Africa,marathi,significant minority,ZA,south africa,Other Indo-Aryan,MR,2.0
+United Arab Emirates,marathi,significant minority,AE,united arab emirates,Other Indo-Aryan,MR,2.0
+Bahrain,marathi,significant minority,BH,bahrain,Other Indo-Aryan,MR,2.0
+India,marwari,"primarily in rajasthan and gujarat and its too spoken in west bengal, bihar,jharkhand, eastern u.p, assam , and northeastern states",IN,india,Other Indo-Aryan,,
+Bhutan,nepali,unofficial,BT,bhutan,Other Indo-Aryan,NE,1.0
+Hong Kong,nepali,unofficial,HK,hong kong,Other Indo-Aryan,NE,1.0
+India,nepali,"official in sikkim, regional language in west bengal",IN,india,Other Indo-Aryan,NE,1.0
+Myanmar,nepali,unofficial,MM,myanmar,Other Indo-Aryan,NE,1.0
+Nepal,nepali,official,NP,nepal,Other Indo-Aryan,NE,1.0
+United Kingdom,nepali,unofficial,GB,united kingdom,Other Indo-Aryan,NE,1.0
+Bangladesh,oriya,minority,BD,bangladesh,Other Indo-Aryan,OR,2.0
+India,oriya,official in orissa,IN,india,Other Indo-Aryan,OR,1.0
+India,punjabi,official with others,IN,india,Other Indo-Aryan,PA,1.0
+Pakistan,punjabi,majority in punjab,PK,pakistan,Other Indo-Aryan,PA,
+United Kingdom,punjabi,significant minority,GB,united kingdom,Other Indo-Aryan,PA,2.0
+Canada,punjabi,minority,CA,canada,Other Indo-Aryan,PA,2.0
+United States,punjabi,minority,US,united states,Other Indo-Aryan,PA,2.0
+India,rajasthani,official along with others,IN,india,Other Indo-Aryan,,1.0
+Pakistan,rajasthani,minority,PK,pakistan,Other Indo-Aryan,,2.0
+India,rajbanshi,minority,IN,india,Other Indo-Aryan,,2.0
+Bangladesh,rajbanshi,minority,BD,bangladesh,Other Indo-Aryan,,2.0
+Nepal,rajbanshi,minority,NP,nepal,Other Indo-Aryan,,2.0
+Burma,rohingya,"minority, mostly in arakan, burma",MM,burma,Other Indo-Aryan,,2.0
+Bangladesh,rohingya,"minority, mostly in chittagong division, bangladesh",BD,bangladesh,Other Indo-Aryan,,2.0
+Pakistan,rohingya,"minority, mostly in karachi",PK,pakistan,Other Indo-Aryan,,2.0
+Saudi Arabia,rohingya,minority,SA,saudi arabia,Other Indo-Aryan,,2.0
+Oman,rohingya,minority,OM,oman,Other Indo-Aryan,,2.0
+United Arab Emirates,rohingya,minority,AE,united arab emirates,Other Indo-Aryan,,2.0
+Thailand,rohingya,minority,TH,thailand,Other Indo-Aryan,,2.0
+Malaysia,rohingya,minority,MY,malaysia,Other Indo-Aryan,,2.0
+India,rohingya,minority,IN,india,Other Indo-Aryan,,2.0
+Hong Kong,sindhi,minority,HK,hong kong,Other Indo-Aryan,SD,2.0
+India,sindhi,official with others,IN,india,Other Indo-Aryan,SD,1.0
+Oman,sindhi,minority,OM,oman,Other Indo-Aryan,SD,2.0
+Pakistan,sindhi,majority in sindh,PK,pakistan,Other Indo-Aryan,SD,
+Philippines,sindhi,minority[citation needed],PH,philippines,Other Indo-Aryan,SD,2.0
+Singapore,sindhi,minority,SG,singapore,Other Indo-Aryan,SD,2.0
+United Arab Emirates,sindhi,minority,AE,united arab emirates,Other Indo-Aryan,SD,2.0
+United Kingdom,sindhi,minority,GB,united kingdom,Other Indo-Aryan,SD,2.0
+United States,sindhi,minority,US,united states,Other Indo-Aryan,SD,2.0
+Sri Lanka,sinhalese,co-official with tamil,LK,sri lanka,Other Indo-Aryan,,1.0
+Bangladesh,sylheti,major language of sylhet division of bangladesh,BD,bangladesh,Other Indo-Aryan,,
+India,sylheti,"significant minority in the state of assam, especially in barak valley",IN,india,Other Indo-Aryan,,2.0
+United Kingdom,sylheti,significant minority,GB,united kingdom,Other Indo-Aryan,,2.0
+United States,sylheti,minority,US,united states,Other Indo-Aryan,,2.0
+United Arab Emirates,sylheti,minority,AE,united arab emirates,Other Indo-Aryan,,2.0
+Bangladesh,tanchangya,"minority; mainly in chittagong division, related to chakma, chittagonian, pali, prakrit, sanskrit rohingya and bengali language",BD,bangladesh,Other Indo-Aryan,,2.0
+India,tanchangya,"minority; mainly in indian states of assam, tripura and mizoram",IN,india,Other Indo-Aryan,,2.0
+Burma,tanchangya,"minority; mainly in rakhine state, and few of them in chin state and yangon division of burma",MM,burma,Other Indo-Aryan,,2.0
+Bahrain,urdu,minority,BH,bahrain,Other Indo-Aryan,UR,2.0
+Bangladesh,urdu,significant minority,BD,bangladesh,Other Indo-Aryan,UR,2.0
+Fiji,urdu,co-official as hindustani with english and fijian,FJ,fiji,Other Indo-Aryan,UR,1.0
+India,urdu,co-official with 21 others,IN,india,Other Indo-Aryan,UR,1.0
+Nepal,urdu,minority,NP,nepal,Other Indo-Aryan,UR,2.0
+Mauritius,urdu,minority,MU,mauritius,Other Indo-Aryan,UR,2.0
+Oman,urdu,minority,OM,oman,Other Indo-Aryan,UR,2.0
+Pakistan,urdu,co-official with english,PK,pakistan,Other Indo-Aryan,UR,1.0
+Qatar,urdu,minority,QA,qatar,Other Indo-Aryan,UR,2.0
+Saudi Arabia,urdu,minority,SA,saudi arabia,Other Indo-Aryan,UR,2.0
+South Africa,urdu,minority,ZA,south africa,Other Indo-Aryan,UR,2.0
+United Arab Emirates,urdu,minority,AE,united arab emirates,Other Indo-Aryan,UR,2.0
+United Kingdom,urdu,minority,GB,united kingdom,Other Indo-Aryan,UR,2.0
+United States,urdu,minority,US,united states,Other Indo-Aryan,UR,2.0
+India,badaga,minority,IN,india,Dravidian languages,,2.0
+Pakistan,brahui,"minority, spoken in balochistan",PK,pakistan,Dravidian languages,,2.0
+Iran,brahui,minority,IR,iran,Dravidian languages,,2.0
+Afghanistan,brahui,minority,AF,afghanistan,Dravidian languages,,2.0
+Turkmenistan,brahui,minority,TM,turkmenistan,Dravidian languages,,2.0
+India,chenchu,minority,IN,india,Dravidian languages,,2.0
+India,duruwa,minority,IN,india,Dravidian languages,,2.0
+India,gondi,minority,IN,india,Dravidian languages,,2.0
+India,kolami,minority,IN,india,Dravidian languages,,2.0
+India,koraga,minority,IN,india,Dravidian languages,,2.0
+India,kota,"minority, endangered dravidian language",IN,india,Dravidian languages,,2.0
+India,koya,minority,IN,india,Dravidian languages,,2.0
+India,kui,minority,IN,india,Dravidian languages,,2.0
+India,kumarbhag paharia,minority,IN,india,Dravidian languages,,2.0
+Bangladesh,kurukh,minority,BD,bangladesh,Dravidian languages,,2.0
+India,kurukh,minority,IN,india,Dravidian languages,,2.0
+India,maria,minority,IN,india,Dravidian languages,,2.0
+India,nagarchal,"minority, endangered dravidian language",IN,india,Dravidian languages,,2.0
+India,pardhan,minority,IN,india,Dravidian languages,,2.0
+India,sauria paharia,minority,IN,india,Dravidian languages,,2.0
+Bangladesh,sauria paharia,minority,BD,bangladesh,Dravidian languages,,2.0
+India,toda,"minority, endangered dravidian language",IN,india,Dravidian languages,,2.0
+India,telugu,officialandhra pradesh,IN,india,Dravidian languages,,1.0
+United States,telugu,minority,US,united states,Dravidian languages,,2.0
+Canada,telugu,minority,CA,canada,Dravidian languages,,2.0
+Australia,telugu,minority,AU,australia,Dravidian languages,,2.0
+Germany,telugu,minority,DE,germany,Dravidian languages,,2.0
+Denmark,telugu,minority,DK,denmark,Dravidian languages,,2.0
+Sweden,telugu,minority,SE,sweden,Dravidian languages,,2.0
+New Zealand,telugu,minority,NZ,new zealand,Dravidian languages,,2.0
+India,tamil,official in tamil nadu,IN,india,Dravidian languages,TA,1.0
+Singapore,tamil,official,SG,singapore,Dravidian languages,TA,1.0
+Sri Lanka,tamil,official,LK,sri lanka,Dravidian languages,TA,1.0
+Malaysia,tamil,minority,MY,malaysia,Dravidian languages,TA,2.0
+Canada,tamil,minority,CA,canada,Dravidian languages,TA,2.0
+Mauritius,tamil,minority,MU,mauritius,Dravidian languages,TA,2.0
+South Africa,tamil,minority,ZA,south africa,Dravidian languages,TA,2.0
+United States,tamil,minority,US,united states,Dravidian languages,TA,2.0
+Canada,tamil,minority,CA,canada,Dravidian languages,TA,2.0
+Australia,tamil,minority,AU,australia,Dravidian languages,TA,2.0
+Germany,tamil,minority,DE,germany,Dravidian languages,TA,2.0
+Denmark,tamil,minority,DK,denmark,Dravidian languages,TA,2.0
+Sweden,tamil,minority,SE,sweden,Dravidian languages,TA,2.0
+New Zealand,tamil,minority,NZ,new zealand,Dravidian languages,TA,2.0
+India,malayalam,official at state of kerala,IN,india,Dravidian languages,ML,1.0
+Bahrain,malayalam,minority,BH,bahrain,Dravidian languages,ML,2.0
+India,tulu,minority,IN,india,Dravidian languages,,2.0
+India,kodava,minority,IN,india,Dravidian languages,,2.0
+India,ollari,minority,IN,india,Dravidian languages,,2.0
+Georgia,south caucasian languages,official,GE,georgia,South Caucasian languages,,1.0
+Turkey,south caucasian languages,minority,TR,turkey,South Caucasian languages,,2.0
+Iran,south caucasian languages,minority,IR,iran,South Caucasian languages,,2.0
+Azerbaijan,south caucasian languages,minority,AZ,azerbaijan,South Caucasian languages,,2.0
+Georgia,south caucasian languages,significant language,GE,georgia,South Caucasian languages,,2.0
+Abkhazia,south caucasian languages,significant language,,abkhazia,South Caucasian languages,,2.0
+Georgia,south caucasian languages,minority,GE,georgia,South Caucasian languages,,2.0
+Turkey,south caucasian languages,significant language,TR,turkey,South Caucasian languages,,2.0
+Georgia,south caucasian languages,minority,GE,georgia,South Caucasian languages,,2.0
+Burma,burmese[12],official,MM,burma,Other Sino-Tibetan,,1.0
+Thailand,burmese[12],minority,TH,thailand,Other Sino-Tibetan,,2.0
+Singapore,burmese[12],"minority, 50,000 p.",SG,singapore,Other Sino-Tibetan,,2.0
+Malaysia,burmese[12],minority,MY,malaysia,Other Sino-Tibetan,,2.0
+China,tibetan[13],"minority, official in tibet autonomous region",CN,china,Other Sino-Tibetan,,1.0
+Nepal,tibetan[13],"minority, in upper mustang",NP,nepal,Other Sino-Tibetan,,2.0
+India,tibetan[13],minority,IN,india,Other Sino-Tibetan,,2.0
+China,hani[14],"minority, in yunnan province.",CN,china,Other Sino-Tibetan,,2.0
+Vietnam,hani[14],"minority, called ""hà nhì""",VN,vietnam,Other Sino-Tibetan,,2.0
+Laos,hani[14],"minority,",LA,laos,Other Sino-Tibetan,,2.0
+Burma,karen[12],"minority, 7 mi. p., kayin state",MM,burma,Other Sino-Tibetan,,2.0
+Thailand,karen[12],"minority, 1 mi. p.,",TH,thailand,Other Sino-Tibetan,,2.0
+United States,karen[12],"minority, 70,000 p.",US,united states,Other Sino-Tibetan,,2.0
+Australia,karen[12],"minority, 11,000 p.",AU,australia,Other Sino-Tibetan,,2.0
+China,lahu[15],"minority, 720,000 peoples, in yunnan province.",CN,china,Other Sino-Tibetan,,2.0
+Myanmar,lahu[15],"minority, 150,000 peoples",MM,myanmar,Other Sino-Tibetan,,2.0
+Thailand,lahu[15],"minority, 100,000 peoples",TH,thailand,Other Sino-Tibetan,,2.0
+Laos,lahu[15],minority,LA,laos,Other Sino-Tibetan,,2.0
+United States,lahu[15],minority,US,united states,Other Sino-Tibetan,,2.0
+Vietnam,lahu[15],"minority, called ""la hủ""",VN,vietnam,Other Sino-Tibetan,,2.0
+India,meithei,"recognized minority, spoken by 1.25 mi. p. in manipur and others",IN,india,Other Sino-Tibetan,,2.0
+China,"nuosu (yi, lolo)","minority, spoken by 7.76 mi. of yi people in south china[16]",CN,china,Other Sino-Tibetan,,2.0
+Vietnam,"nuosu (yi, lolo)","minority, called ""lô lô"".",VN,vietnam,Other Sino-Tibetan,,2.0
+Belarus,belarusian,co-official with russian,BY,belarus,Slavic,,1.0
+Lithuania,belarusian,minority,LT,lithuania,Slavic,,2.0
+Poland,belarusian,minority,PL,poland,Slavic,,2.0
+Russia,belarusian,minority,RU,russia,Slavic,,2.0
+Bosnia and Herzegovina,bosnian,co-official with croatian and serbian,BA,bosnia and herzegovina,Slavic,,1.0
+Croatia,bosnian,significant minority,HR,croatia,Slavic,,2.0
+Macedonia,bosnian,minority,MK,macedonia,Slavic,,2.0
+Montenegro,bosnian,"minority, official in sandžak",ME,montenegro,Slavic,,1.0
+Serbia,bosnian,"significant minority, official in sandžak",RS,serbia,Slavic,,1.0
+Turkey,bosnian,significant minority,TR,turkey,Slavic,,2.0
+Bulgaria,bulgarian,official,BG,bulgaria,Slavic,BG,1.0
+Greece,bulgarian,minority,GR,greece,Slavic,BG,2.0
+Macedonia,bulgarian,minority,MK,macedonia,Slavic,BG,2.0
+Moldova,bulgarian,minority,MD,moldova,Slavic,BG,2.0
+Romania,bulgarian,minority,RO,romania,Slavic,BG,2.0
+Serbia,bulgarian,minority,RS,serbia,Slavic,BG,2.0
+Turkey,bulgarian,minority,TR,turkey,Slavic,BG,2.0
+Ukraine,bulgarian,minority,UA,ukraine,Slavic,BG,2.0
+Austria,croatian,co-official with german and hungarian in burgenland,AT,austria,Slavic,HR,1.0
+Bosnia and Herzegovina,croatian,co-official with bosnian and serbian,BA,bosnia and herzegovina,Slavic,HR,1.0
+Croatia,croatian,official,HR,croatia,Slavic,HR,1.0
+Italy,croatian,co-official in molise,IT,italy,Slavic,HR,1.0
+Montenegro,croatian,official,ME,montenegro,Slavic,HR,1.0
+Romania,croatian,official in the municipalities of carașova and lupac[9],RO,romania,Slavic,HR,1.0
+Serbia,croatian,co-official in province of vojvodina with 5 other languages,RS,serbia,Slavic,HR,1.0
+Austria,czech,minority,AT,austria,Slavic,CS,2.0
+Croatia,czech,minority,HR,croatia,Slavic,CS,2.0
+Czech Republic,czech,official,CZ,czech republic,Slavic,CS,1.0
+Germany,czech,minority,DE,germany,Slavic,CS,2.0
+Slovakia,czech,minority,SK,slovakia,Slavic,CS,2.0
+Poland,kashubian,official in pomerania,PL,poland,Slavic,,1.0
+Albania,macedonian,"minority, official in pustec municipality",AL,albania,Slavic,MK,1.0
+Macedonia,macedonian,official,MK,macedonia,Slavic,MK,1.0
+Greece,macedonian,minority,GR,greece,Slavic,MK,2.0
+Bulgaria,macedonian,minority,BG,bulgaria,Slavic,MK,2.0
+Serbia,macedonian,"minority, official in two municipalities",RS,serbia,Slavic,MK,1.0
+Kosovo,macedonian,minority,,kosovo,Slavic,MK,2.0
+Romania,macedonian,minority,RO,romania,Slavic,MK,2.0
+Belarus,polish,significant minority,BY,belarus,Slavic,PL,2.0
+Lithuania,polish,significant minority,LT,lithuania,Slavic,PL,2.0
+Poland,polish,official,PL,poland,Slavic,PL,1.0
+Ukraine,polish,significant minority,UA,ukraine,Slavic,PL,2.0
+Brazil,polish,minority; see polish brazilian,BR,brazil,Slavic,PL,2.0
+Ireland,polish,minority,IE,ireland,Slavic,PL,2.0
+United States,polish,not official – minority[3],US,united states,Slavic,PL,1.0
+Armenia,polish,significant minority,AM,armenia,Slavic,PL,2.0
+Azerbaijan,polish,significant minority,AZ,azerbaijan,Slavic,PL,2.0
+Belarus,polish,co-official with belarusian,BY,belarus,Slavic,PL,1.0
+Bulgaria,polish,minority,BG,bulgaria,Slavic,PL,2.0
+China,polish,minority,CN,china,Slavic,PL,2.0
+Estonia,polish,significant minority,EE,estonia,Slavic,PL,2.0
+Finland,polish,minority,FI,finland,Slavic,PL,2.0
+Georgia,polish,significant minority,GE,georgia,Slavic,PL,2.0
+Germany,polish,minority,DE,germany,Slavic,PL,2.0
+Greece,polish,minority,GR,greece,Slavic,PL,2.0
+Israel,polish,significant minority,IL,israel,Slavic,PL,2.0
+Jordan,polish,significant minority,JO,jordan,Slavic,PL,2.0
+Kazakhstan,polish,co-official with kazakh,KZ,kazakhstan,Slavic,PL,1.0
+Kyrgyzstan,polish,co-official with kyrgyz,KG,kyrgyzstan,Slavic,PL,1.0
+Latvia,polish,significant minority,LV,latvia,Slavic,PL,2.0
+Lithuania,polish,minority,LT,lithuania,Slavic,PL,2.0
+Moldova,polish,co-official with ukrainian and romanian in  transnistria,MD,moldova,Slavic,PL,1.0
+Mongolia,polish,significant minority,MN,mongolia,Slavic,PL,2.0
+Poland,polish,minority,PL,poland,Slavic,PL,2.0
+Russia,polish,official,RU,russia,Slavic,PL,1.0
+Serbia,polish,minority,RS,serbia,Slavic,PL,2.0
+Turkey,polish,significant minority,TR,turkey,Slavic,PL,2.0
+Tajikistan,polish,significant minority,TJ,tajikistan,Slavic,PL,2.0
+Turkmenistan,polish,significant minority,TM,turkmenistan,Slavic,PL,2.0
+Ukraine,polish,"significant minority, regional in some regions",UA,ukraine,Slavic,PL,2.0
+Uzbekistan,polish,significant minority,UZ,uzbekistan,Slavic,PL,2.0
+Hungary,rusyn,minority,HU,hungary,Slavic,,2.0
+Poland,rusyn,minority,PL,poland,Slavic,,2.0
+Romania,rusyn,minority,RO,romania,Slavic,,2.0
+Slovakia,rusyn,minority,SK,slovakia,Slavic,,2.0
+Ukraine,rusyn,official in zakarpattia,UA,ukraine,Slavic,,1.0
+Serbia,rusyn,"co-official in the autonomous province of vojvodina with serbian hungarian, slovak, romanian, and croatian.",RS,serbia,Slavic,,1.0
+Bosnia and Herzegovina,serbian,official with croatian and bosnian,BA,bosnia and herzegovina,Slavic,SR,1.0
+Croatia,serbian,significant minority,HR,croatia,Slavic,SR,2.0
+Kosovo,serbian,co-official with albanian,,kosovo,Slavic,SR,1.0
+Macedonia,serbian,minority,MK,macedonia,Slavic,SR,2.0
+Montenegro,serbian,official,ME,montenegro,Slavic,SR,1.0
+Romania,serbian,co-official in caraşova,RO,romania,Slavic,SR,1.0
+Serbia,serbian,official,RS,serbia,Slavic,SR,1.0
+Czech Republic,slovak,minority,CZ,czech republic,Slavic,SK,2.0
+Slovakia,slovak,official,SK,slovakia,Slavic,SK,1.0
+Austria,slovene,minority,AT,austria,Slavic,,2.0
+Croatia,slovene,minority,HR,croatia,Slavic,,2.0
+Hungary,slovene,minority,HU,hungary,Slavic,,2.0
+Italy,slovene,"co-official in friuli-venezia giulia with friulian, italian and german",IT,italy,Slavic,,1.0
+Slovenia,slovene,official,SI,slovenia,Slavic,,1.0
+United States,slovene,minority in ohio[10],US,united states,Slavic,,2.0
+Germany,"sorbian, lower",regional language in brandenburg,DE,germany,Slavic,,2.0
+Germany,"sorbian, upper",regional language in brandenburg and saxony,DE,germany,Slavic,,2.0
+Argentina,ukrainian,minority,AR,argentina,Slavic,UK,2.0
+Belarus,ukrainian,significant minority,BY,belarus,Slavic,UK,2.0
+Brazil,ukrainian,minority,BR,brazil,Slavic,UK,2.0
+Canada,ukrainian,minority,CA,canada,Slavic,UK,2.0
+Kazakhstan,ukrainian,significant minority,KZ,kazakhstan,Slavic,UK,2.0
+Kyrgyzstan,ukrainian,minority,KG,kyrgyzstan,Slavic,UK,2.0
+Moldova,ukrainian,significant minority,MD,moldova,Slavic,UK,2.0
+Poland,ukrainian,minority,PL,poland,Slavic,UK,2.0
+Romania,ukrainian,significant minority,RO,romania,Slavic,UK,2.0
+Russia,ukrainian,significant minority,RU,russia,Slavic,UK,2.0
+Transnistria,ukrainian,co-official with romanian and russian,,transnistria,Slavic,UK,1.0
+Ukraine,ukrainian,official,UA,ukraine,Slavic,UK,1.0
+United Kingdom,ukrainian,minority,GB,united kingdom,Slavic,UK,2.0
+United States,ukrainian,minority,US,united states,Slavic,UK,2.0
+Uzbekistan,ukrainian,minority,UZ,uzbekistan,Slavic,UK,2.0
+Estonia,estonian,official,EE,estonia,Uralic languages,ET,1.0
+Finland,estonian,minority,FI,finland,Uralic languages,ET,2.0
+Russia,estonian,minority,RU,russia,Uralic languages,ET,2.0
+Finland,finnish,"co-official with swedish except in åland islands, where swedish is the only official",FI,finland,Uralic languages,FI,1.0
+Estonia,finnish,minority,EE,estonia,Uralic languages,FI,2.0
+Russia,finnish,minority,RU,russia,Uralic languages,FI,2.0
+Sweden,finnish,minority,SE,sweden,Uralic languages,FI,2.0
+Hungary,hungarian,official,HU,hungary,Uralic languages,HU,1.0
+Serbia,hungarian,minority,RS,serbia,Uralic languages,HU,2.0
+Romania,hungarian,minority,RO,romania,Uralic languages,HU,2.0
+Slovakia,hungarian,minority,SK,slovakia,Uralic languages,HU,2.0
+Austria,hungarian,minority,AT,austria,Uralic languages,HU,2.0
+Ukraine,hungarian,minority,UA,ukraine,Uralic languages,HU,2.0
+Finland,sami,minority,FI,finland,Uralic languages,,2.0
+Norway,sami,minority,NO,norway,Uralic languages,,2.0
+Russia,sami,minority,RU,russia,Uralic languages,,2.0
+Sweden,sami,minority,SE,sweden,Uralic languages,,2.0
+Indonesia,acehnese,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Indonesia,balinese,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Indonesia,banjarese,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Cambodia,cham[17],minority,KH,cambodia,Malayo-Sumbawan,,2.0
+Vietnam,cham[17],minority,VN,vietnam,Malayo-Sumbawan,,2.0
+Malaysia,cham[17],minority,MY,malaysia,Malayo-Sumbawan,,2.0
+Indonesia,indonesian,official,ID,indonesia,Malayo-Sumbawan,IN,1.0
+Timor-Leste,indonesian,co-official,TL,timor-leste,Malayo-Sumbawan,IN,1.0
+Malaysia,indonesian,minority,MY,malaysia,Malayo-Sumbawan,IN,2.0
+Brunei,indonesian,minority,BN,brunei,Malayo-Sumbawan,IN,2.0
+Singapore,indonesian,minority,SG,singapore,Malayo-Sumbawan,IN,2.0
+Thailand,indonesian,minority,TH,thailand,Malayo-Sumbawan,IN,2.0
+Philippines,indonesian,minority,PH,philippines,Malayo-Sumbawan,IN,2.0
+Vietnam,jarai [18],minority,VN,vietnam,Malayo-Sumbawan,,2.0
+Cambodia,jarai [18],minority,KH,cambodia,Malayo-Sumbawan,,2.0
+Indonesia,javanese,regional,ID,indonesia,Malayo-Sumbawan,JW,2.0
+Malaysia,javanese,minority,MY,malaysia,Malayo-Sumbawan,JW,2.0
+Indonesia,lampung,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Indonesia,madurese,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Indonesia,makassarese,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Malaysia,malay,official,MY,malaysia,Malayo-Sumbawan,MS,1.0
+Brunei,malay,official,BN,brunei,Malayo-Sumbawan,MS,1.0
+Singapore,malay,co-official,SG,singapore,Malayo-Sumbawan,MS,1.0
+Indonesia,malay,official,ID,indonesia,Malayo-Sumbawan,MS,1.0
+Thailand,malay,minority,TH,thailand,Malayo-Sumbawan,MS,2.0
+Indonesia,minangkabau,regional,ID,indonesia,Malayo-Sumbawan,,2.0
+Malaysia,minangkabau,regional,MY,malaysia,Malayo-Sumbawan,,2.0
+Palau,palauan,official,PW,palau,Malayo-Sumbawan,,1.0
+Indonesia,rejang,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Indonesia,sasak,minority,ID,indonesia,Malayo-Sumbawan,,2.0
+Timor-Leste,tetum,official,TL,timor-leste,Malayo-Sumbawan,,1.0
+Bangladesh,romani,minority,BD,bangladesh,Romani,,2.0
+India,romani,minority,IN,india,Romani,,2.0
+Pakistan,romani,minority,PK,pakistan,Romani,,2.0
+Iran,romani,minority,IR,iran,Romani,,2.0
+Afghanistan,romani,minority,AF,afghanistan,Romani,,2.0
+Uzbekistan,romani,minority,UZ,uzbekistan,Romani,,2.0
+Kazakhstan,romani,minority,KZ,kazakhstan,Romani,,2.0
+Turkmenistan,romani,minority,TM,turkmenistan,Romani,,2.0
+Tajikistan,romani,minority,TJ,tajikistan,Romani,,2.0
+Kyrgyzstan,romani,minority,KG,kyrgyzstan,Romani,,2.0
+Armenia,romani,minority,AM,armenia,Romani,,2.0
+Albania,romani,minority,AL,albania,Romani,,2.0
+Austria,romani,minority,AT,austria,Romani,,2.0
+Belarus,romani,minority,BY,belarus,Romani,,2.0
+Belgium,romani,minority,BE,belgium,Romani,,2.0
+Bosnia and Herzegovina,romani,minority,BA,bosnia and herzegovina,Romani,,2.0
+Bulgaria,romani,significant minority,BG,bulgaria,Romani,,2.0
+Croatia,romani,minority,HR,croatia,Romani,,2.0
+Cyprus,romani,minority,CY,cyprus,Romani,,2.0
+Czech Republic,romani,minority,CZ,czech republic,Romani,,2.0
+Denmark,romani,minority,DK,denmark,Romani,,2.0
+Estonia,romani,minority,EE,estonia,Romani,,2.0
+Finland,romani,officially recognised minority language,FI,finland,Romani,,1.0
+France,romani,minority,FR,france,Romani,,2.0
+Germany,romani,officially recognised minority language,DE,germany,Romani,,1.0
+Greece,romani,minority,GR,greece,Romani,,2.0
+Hungary,romani,"significant minority, officially recognised minority language",HU,hungary,Romani,,1.0
+Ireland,romani,minority,IE,ireland,Romani,,2.0
+Italy,romani,minority,IT,italy,Romani,,2.0
+Kosovo,romani,officially recognized minority language,,kosovo,Romani,,1.0
+Latvia,romani,minority,LV,latvia,Romani,,2.0
+Lithuania,romani,minority,LT,lithuania,Romani,,2.0
+Macedonia,romani,official in šuto orizari municipality,MK,macedonia,Romani,,1.0
+Moldova,romani,minority,MD,moldova,Romani,,2.0
+Montenegro,romani,minority,ME,montenegro,Romani,,2.0
+Netherlands,romani,minority,NL,netherlands,Romani,,2.0
+Norway,romani,officially recognised minority language,NO,norway,Romani,,1.0
+Poland,romani,minority,PL,poland,Romani,,2.0
+Portugal,romani,minority,PT,portugal,Romani,,2.0
+Romania,romani,co-official in 79 rural communes,RO,romania,Romani,,1.0
+Russia,romani,officially recognised minority language,RU,russia,Romani,,1.0
+Serbia,romani,officially recognised minority language,RS,serbia,Romani,,1.0
+Slovakia,romani,minority,SK,slovakia,Romani,,2.0
+Slovenia,romani,officially recognised minority language,SI,slovenia,Romani,,1.0
+Spain,romani,minority,ES,spain,Romani,,2.0
+Sweden,romani,officially recognised minority language,SE,sweden,Romani,,1.0
+Switzerland,romani,minority,CH,switzerland,Romani,,2.0
+Turkey,romani,minority,TR,turkey,Romani,,2.0
+Ukraine,romani,minority,UA,ukraine,Romani,,2.0
+United Kingdom,romani,minority,GB,united kingdom,Romani,,2.0
+United States,romani,minority,US,united states,Romani,,2.0
+Canada,romani,minority,CA,canada,Romani,,2.0
+China,bouyei[28],"minority, in south china",CN,china,Tai–Kadai,,2.0
+Vietnam,bouyei[28],"minority, called ""giáy"", in north vietnam",VN,vietnam,Tai–Kadai,,2.0
+Laos,lao,official,LA,laos,Tai–Kadai,,1.0
+Thailand,lao,"minority, known as isan, 20 mi. p. in northern and eastern thailand",TH,thailand,Tai–Kadai,,2.0
+Thailand,thai,official,TH,thailand,Tai–Kadai,TH,1.0
+China,thai,"minority, spoken by dai people in south china, noted as tai lü and tai nüa",CN,china,Tai–Kadai,TH,2.0
+Myanmar,thai,"minority,",MM,myanmar,Tai–Kadai,TH,2.0
+Vietnam,thai,"minority, 1.6 mi. p., as thái dialect in north vietnam",VN,vietnam,Tai–Kadai,TH,2.0
+Myanmar,shan[12],"minority, but majority in shan state",MM,myanmar,Tai–Kadai,,2.0
+Thailand,shan[12],"minority, in north-west",TH,thailand,Tai–Kadai,,2.0
+Vietnam,nung[20],"minority, spoken by 1 mi. p. in north vietnam",VN,vietnam,Tai–Kadai,,2.0
+Vietnam,tày[20],"minority, spoken by 1.6 mi. p. in north vietnam",VN,vietnam,Tai–Kadai,,2.0
+China,zhuang,"minority,[29] 18 mi. peoples, most in guangxi zhuang autonomous region.",CN,china,Tai–Kadai,,2.0
+Andorra,french,"spoken, not official",AD,andorra,French,FR,1.0
+Belgium,french,co-official with dutch,BE,belgium,French,FR,1.0
+France,french,official,FR,france,French,FR,1.0
+Italy,french,co-official in the  aosta valley,IT,italy,French,FR,1.0
+Luxembourg,french,co-official with luxembourgish,LU,luxembourg,French,FR,1.0
+Monaco,french,official,MC,monaco,French,FR,1.0
+Switzerland,french,"co-official with german, italian, and romansh",CH,switzerland,French,FR,1.0
+Algeria,french,"unofficial, but widely used",DZ,algeria,French,FR,1.0
+Benin,french,official,BJ,benin,French,FR,1.0
+Burkina Faso,french,official,BF,burkina faso,French,FR,1.0
+Burundi,french,co-official with kirundi,BI,burundi,French,FR,1.0
+Cameroon,french,co-official with english,CM,cameroon,French,FR,1.0
+Central African Republic,french,co-official with sango,CF,central african republic,French,FR,1.0
+Chad,french,co-official with arabic,TD,chad,French,FR,1.0
+Comoros,french,co-official with arabic and comorian,KM,comoros,French,FR,1.0
+Dem. Rep. Congo,french,official,,dem. rep. congo,French,FR,1.0
+Congo,french,official,CG,congo,French,FR,1.0
+Ivory Coast,french,official,,ivory coast,French,FR,1.0
+Djibouti,french,co-official with arabic,DJ,djibouti,French,FR,1.0
+Equatorial Guinea,french,co-official with spanish,GQ,equatorial guinea,French,FR,1.0
+Gabon,french,official,GA,gabon,French,FR,1.0
+Guinea,french,official,GN,guinea,French,FR,1.0
+Madagascar,french,co-official with malagasy,MG,madagascar,French,FR,1.0
+Mali,french,official,ML,mali,French,FR,1.0
+Mauritania,french,de facto,MR,mauritania,French,FR,1.0
+Mauritius,french,de facto,MU,mauritius,French,FR,1.0
+Morocco,french,de facto,MA,morocco,French,FR,1.0
+Niger,french,official,NE,niger,French,FR,1.0
+Réunion,french,official,,réunion,French,FR,1.0
+Rwanda,french,co-official with english and kinyarwanda,RW,rwanda,French,FR,1.0
+Senegal,french,official; wolof most widely spoken,SN,senegal,French,FR,1.0
+Seychelles,french,co-official with english and seychellois creole,SC,seychelles,French,FR,1.0
+Togo,french,official,TG,togo,French,FR,1.0
+Tunisia,french,"unofficial, but widely used",TN,tunisia,French,FR,1.0
+Cambodia,french,minority,KH,cambodia,French,FR,2.0
+Vietnam,french,minority,VN,vietnam,French,FR,2.0
+Laos,french,administrative language,LA,laos,French,FR,
+Lebanon,french,co-official with arabic,LB,lebanon,French,FR,1.0
+India,french,"in puducherry, co-official with tamil, telugu, and malayalam",IN,india,French,FR,1.0
+Canada,french,"co-official with english; majority in quebec, minority in new brunswick, ontario, manitoba",CA,canada,French,FR,1.0
+Guadeloupe,french,official,GP,guadeloupe,French,FR,1.0
+Haiti,french,co-official with haitian creole,HT,haiti,French,FR,1.0
+Martinique,french,official,MQ,martinique,French,FR,1.0
+Saint Barthélemy,french,official,,saint barthélemy,French,FR,1.0
+Saint Martin,french,official,,saint martin,French,FR,1.0
+Saint Pierre and Miquelon,french,official,PM,saint pierre and miquelon,French,FR,1.0
+United States,french,"minority language, especially in louisiana, maine, vermont, and new hampshire[3]",US,united states,French,FR,2.0
+French Polynesia,french,official,PF,french polynesia,French,FR,1.0
+New Caledonia,french,official,NC,new caledonia,French,FR,1.0
+Vanuatu,french,co-official with english and bislama,VU,vanuatu,French,FR,1.0
+Wallis and Futuna,french,official,WF,wallis and futuna,French,FR,1.0
+French Guiana,french,official,GF,french guiana,French,FR,1.0
+Brazil,french,"minority, significantly in rj/es and other coastal states; see french, belgian and swiss brazilians",BR,brazil,French,FR,2.0
+Mongolia,mongolian,official,MN,mongolia,Mongolic languages,MN,1.0
+China,mongolian,"regional, co-official with chinese in inner mongolia autonomous region",CN,china,Mongolic languages,MN,1.0
+Russia,kalmyk oirat,official in  kalmykia[11],RU,russia,Mongolic languages,,1.0
+China,daur,"minority, spoken by daur people in morin dawa daur autonomous banner of inner mongolia",CN,china,Mongolic languages,,2.0
+Algeria,domari,minority,DZ,algeria,Domari,,2.0
+Egypt,domari,minority,EG,egypt,Domari,,2.0
+Morocco,domari,minority,MA,morocco,Domari,,2.0
+Sudan,domari,minority,SD,sudan,Domari,,2.0
+Tunisia,domari,minority,TN,tunisia,Domari,,2.0
+India,domari,minority,IN,india,Domari,,2.0
+Iran,domari,significant minority,IR,iran,Domari,,2.0
+Iraq,domari,minority,IQ,iraq,Domari,,2.0
+Pakistan,domari,minority,PK,pakistan,Domari,,2.0
+Libya,domari,minority,LY,libya,Domari,,2.0
+Syria,domari,minority,SY,syria,Domari,,2.0
+Turkey,domari,minority,TR,turkey,Domari,,2.0
+Palestine,domari,minority,PS,palestine,Domari,,2.0
+Israel,domari,minority,IL,israel,Domari,,2.0
+Afghanistan,domari,minority,AF,afghanistan,Domari,,2.0
+Bangladesh,domari,minority,BD,bangladesh,Domari,,2.0
+Jordan,domari,minority,JO,jordan,Domari,,2.0
+Iraq,domari,minority,IQ,iraq,Domari,,2.0
+Lebanon,domari,minority,LB,lebanon,Domari,,2.0
+Uzbekistan,domari,minority,UZ,uzbekistan,Domari,,2.0
+Armenia,domari,minority,AM,armenia,Domari,,2.0
+Azerbaijan,domari,minority,AZ,azerbaijan,Domari,,2.0
+Georgia,domari,minority,GE,georgia,Domari,,2.0
+Turkmenistan,domari,minority,TM,turkmenistan,Domari,,2.0
+Kazakhstan,domari,minority,KZ,kazakhstan,Domari,,2.0
+Tajikistan,domari,minority,TJ,tajikistan,Domari,,2.0
+Kuwait,domari,minority,KW,kuwait,Domari,,2.0
+Kyrgyzstan,domari,minority,KG,kyrgyzstan,Domari,,2.0
+Russia,domari,minority,RU,russia,Domari,,2.0
+Armenia,armenian,official,AM,armenia,Armenian,HY,1.0
+Cyprus,armenian,minority,CY,cyprus,Armenian,HY,2.0
+Georgia,armenian,significant minority,GE,georgia,Armenian,HY,2.0
+Iran,armenian,minority,IR,iran,Armenian,HY,2.0
+Israel,armenian,minority,IL,israel,Armenian,HY,2.0
+Lebanon,armenian,minority,LB,lebanon,Armenian,HY,2.0
+Syria,armenian,minority,SY,syria,Armenian,HY,2.0
+Turkey,armenian,minority,TR,turkey,Armenian,HY,2.0
+France,armenian,minority,FR,france,Armenian,HY,2.0
+United Kingdom,armenian,minority,GB,united kingdom,Armenian,HY,2.0
+Spain,armenian,minority,ES,spain,Armenian,HY,2.0
+Greece,armenian,minority,GR,greece,Armenian,HY,2.0
+Russia,armenian,minority,RU,russia,Armenian,HY,2.0
+United States,armenian,minority,US,united states,Armenian,HY,2.0
+Argentina,armenian,minority,AR,argentina,Armenian,HY,2.0
+Brazil,armenian,minority,BR,brazil,Armenian,HY,2.0
+Cook Islands,cook islands māori,official,CK,cook islands,Polynesian,,1.0
+Wallis and Futuna,futunan,official,WF,wallis and futuna,Polynesian,,1.0
+Hawaii,hawaiian,official,US,hawaii,Polynesian,,1.0
+New Zealand,māori,co-official with english and new zealand sign language,NZ,new zealand,Polynesian,,1.0
+Cook Islands,niuean,minority,CK,cook islands,Polynesian,,2.0
+Niue,niuean,official,NU,niue,Polynesian,,1.0
+New Zealand,niuean,minority,NZ,new zealand,Polynesian,,2.0
+Tonga,niuean,minority,TO,tonga,Polynesian,,2.0
+Easter Island,rapa nui,official,,easter island,Polynesian,,1.0
+American Samoa,samoan,official,AS,american samoa,Polynesian,SM,1.0
+Samoa,samoan,official,WS,samoa,Polynesian,SM,1.0
+French Polynesia,tahitan,official,PF,french polynesia,Polynesian,,1.0
+Tokelau,tokelauan,official,TK,tokelau,Polynesian,,1.0
+Tonga,tongan,official,TO,tonga,Polynesian,,1.0
+American Tongan,tongan,,,american tongan,Polynesian,,
+Tuvalu,tuvaluan,official,TV,tuvalu,Polynesian,,1.0
+Wallis and Futuna,wallisian,official,WF,wallis and futuna,Polynesian,,1.0
+United States[19],navajo,minority,,united states[19],Apachean,,2.0
+United States,apache,minority,US,united states,Apachean,,2.0
+United States,chiricahua,minority,US,united states,Apachean,,2.0
+United States,jicarilla,minority,US,united states,Apachean,,2.0
+United States,lipan apache,minority,US,united states,Apachean,,2.0
+United States,plains apache,minority,US,united states,Apachean,,2.0
+United States,mescalero,minority,US,united states,Apachean,,2.0
+United States,western apache,minority,US,united states,Apachean,,2.0
+Bangladesh,asia,official,BD,bangladesh,Indo-Aryan,,1.0
+India,asia,"official, along with 21 others; primarily spoken in the indian states of west bengal, tripura, assam, with significant minority in bihar, jharkhand and orissa",IN,india,Indo-Aryan,,1.0
+Saudi Arabia,asia,significant minority,SA,saudi arabia,Indo-Aryan,,2.0
+United Arab Emirates,asia,significant minority,AE,united arab emirates,Indo-Aryan,,2.0
+Oman,asia,minority,OM,oman,Indo-Aryan,,2.0
+South Korea,asia,minority,KR,south korea,Indo-Aryan,,2.0
+Japan,asia,minority,JP,japan,Indo-Aryan,,2.0
+Qatar,asia,minority,QA,qatar,Indo-Aryan,,2.0
+Kuwait,asia,minority,KW,kuwait,Indo-Aryan,,2.0
+Malaysia,asia,significant minority,MY,malaysia,Indo-Aryan,,2.0
+Singapore,asia,minority,SG,singapore,Indo-Aryan,,2.0
+Maldives,asia,minority,MV,maldives,Indo-Aryan,,2.0
+Nepal,asia,minority,NP,nepal,Indo-Aryan,,2.0
+Pakistan,asia,"minority. mostly used in karachi, where it holds the status as that of a recognized secondary language[4][5][6][7]",PK,pakistan,Indo-Aryan,,2.0
+Sierra Leone,africa,"honorary official language, along with english",SL,sierra leone,Indo-Aryan,,1.0
+South Africa,africa,minority,ZA,south africa,Indo-Aryan,,2.0
+Italy,europe,minority,IT,italy,Indo-Aryan,,2.0
+United Kingdom,europe,significant minority,GB,united kingdom,Indo-Aryan,,2.0
+United States,north america,significant minority,US,united states,Indo-Aryan,,2.0
+Canada,north america,minority,CA,canada,Indo-Aryan,,2.0
+Australia,oceania,minority,AU,australia,Indo-Aryan,,2.0
+Philippines,aklanon,minority,PH,philippines,Philippines,,2.0
+Philippines,bikol,regional,PH,philippines,Philippines,,2.0
+Philippines,bolinao,regional,PH,philippines,Philippines,,2.0
+Philippines,cebuano,regional,PH,philippines,Philippines,,2.0
+Philippines,cuyonon,minority,PH,philippines,Philippines,,2.0
+Philippines,filipino,official,PH,philippines,Philippines,,1.0
+Philippines,hiligaynon,regional,PH,philippines,Philippines,,2.0
+United States,hiligaynon,minority,US,united states,Philippines,,2.0
+Philippines,ibanag,regional,PH,philippines,Philippines,,2.0
+Philippines,ifugao,minority,PH,philippines,Philippines,,2.0
+Philippines,ilokano,regional,PH,philippines,Philippines,,2.0
+Philippines,ivatan,minority,PH,philippines,Philippines,,2.0
+Philippines,kalinga,minority,PH,philippines,Philippines,,2.0
+Philippines,kamayo,minority,PH,philippines,Philippines,,2.0
+Philippines,kankana-ey,minority,PH,philippines,Philippines,,2.0
+Philippines,kapampangan,regional,PH,philippines,Philippines,,2.0
+Philippines,kinaray-a,minority,PH,philippines,Philippines,,2.0
+Philippines,maguindanao,regional,PH,philippines,Philippines,,2.0
+Philippines,maranao,regional,PH,philippines,Philippines,,2.0
+Philippines,masbatenyo,minority,PH,philippines,Philippines,,2.0
+Philippines,pangasinan,regional,PH,philippines,Philippines,,2.0
+Philippines,romblomanon,minority,PH,philippines,Philippines,,2.0
+Philippines,surigaonon,minority,PH,philippines,Philippines,,2.0
+Australia,tagalog,minority,AU,australia,Philippines,TL,2.0
+Brunei,tagalog,minority,BN,brunei,Philippines,TL,2.0
+Canada,tagalog,minority,CA,canada,Philippines,TL,2.0
+Hong Kong,tagalog,minority,HK,hong kong,Philippines,TL,2.0
+Italy,tagalog,minority,IT,italy,Philippines,TL,2.0
+Japan,tagalog,minority,JP,japan,Philippines,TL,2.0
+Kuwait,tagalog,minority,KW,kuwait,Philippines,TL,2.0
+Malaysia,tagalog,minority,MY,malaysia,Philippines,TL,2.0
+Philippines,tagalog,regional,PH,philippines,Philippines,TL,2.0
+Qatar,tagalog,minority,QA,qatar,Philippines,TL,2.0
+Saudi Arabia,tagalog,minority,SA,saudi arabia,Philippines,TL,2.0
+Singapore,tagalog,minority,SG,singapore,Philippines,TL,2.0
+Spain,tagalog,minority,ES,spain,Philippines,TL,2.0
+Taiwan,tagalog,minority,TW,taiwan,Philippines,TL,2.0
+United Arab Emirates,tagalog,minority,AE,united arab emirates,Philippines,TL,2.0
+United Kingdom,tagalog,minority,GB,united kingdom,Philippines,TL,2.0
+United States,tagalog,minority[3],US,united states,Philippines,TL,2.0
+Taiwan,tao,minority,TW,taiwan,Philippines,,2.0
+Brunei,tausug,minority,BN,brunei,Philippines,,2.0
+Indonesia,tausug,minority,ID,indonesia,Philippines,,2.0
+Malaysia,tausug,minority,MY,malaysia,Philippines,,2.0
+Philippines,tausug,regional,PH,philippines,Philippines,,2.0
+Philippines,waray-waray,regional,PH,philippines,Philippines,,2.0
+Philippines,zambal,regional,PH,philippines,Philippines,,2.0
+Andorra,catalan,official,AD,andorra,Other Italic Lang.,CA,1.0
+France,catalan,in northern catalonia,FR,france,Other Italic Lang.,CA,
+Italy,catalan,a significant minority in alghero,IT,italy,Other Italic Lang.,CA,2.0
+Spain,catalan,"co-official with spanish in  catalonia, the  balearic islands, and  valencian community. in el carche (murcia) and la franja (aragon) it is not official.",ES,spain,Other Italic Lang.,CA,1.0
+France,corsican,regional language in  corsica,FR,france,Other Italic Lang.,CO,2.0
+Italy,corsican,minority in  sardinia,IT,italy,Other Italic Lang.,CO,2.0
+Galicia,galician,co-official with spanish,,galicia,Other Italic Lang.,GL,1.0
+Argentina,galician,"minority, from immigration",AR,argentina,Other Italic Lang.,GL,2.0
+Brazil,galician,"minority, from immigration",BR,brazil,Other Italic Lang.,GL,2.0
+Cuba,galician,"minority, from immigration",CU,cuba,Other Italic Lang.,GL,2.0
+France,galician,"minority, from immigration",FR,france,Other Italic Lang.,GL,2.0
+Germany,galician,"minority, from immigration",DE,germany,Other Italic Lang.,GL,2.0
+Switzerland,galician,"minority, from immigration",CH,switzerland,Other Italic Lang.,GL,2.0
+Uruguay,galician,"minority, from immigration",UY,uruguay,Other Italic Lang.,GL,2.0
+Venezuela,galician,"minority, from immigration",VE,venezuela,Other Italic Lang.,GL,2.0
+Jersey,jèrriais,unofficial,JE,jersey,Other Italic Lang.,,1.0
+Sark,jèrriais,unofficial,,sark,Other Italic Lang.,,1.0
+Vatican City,latin,"official, but not spoken",,vatican city,Other Italic Lang.,LA,1.0
+Portugal,mirandese,"co-official with portuguese in the municipalities of miranda do douro, mogadouro and vimioso",PT,portugal,Other Italic Lang.,,1.0
+France,occitan,minority,FR,france,Other Italic Lang.,OC,2.0
+Italy,occitan,recognised minority language,IT,italy,Other Italic Lang.,OC,2.0
+Spain,occitan,co-official with catalan and spanish in  catalonia,ES,spain,Other Italic Lang.,OC,1.0
+Bulgaria,romanian,minority,BG,bulgaria,Other Italic Lang.,RO,2.0
+Italy,romanian,minority,IT,italy,Other Italic Lang.,RO,2.0
+Moldova,romanian,official,MD,moldova,Other Italic Lang.,RO,1.0
+Romania,romanian,official,RO,romania,Other Italic Lang.,RO,1.0
+Spain,romanian,minority,ES,spain,Other Italic Lang.,RO,2.0
+Serbia,romanian,co-official in province of vojvodina with 5 other languages,RS,serbia,Other Italic Lang.,RO,1.0
+Switzerland,romansh,"co-official with french, italian, and german",CH,switzerland,Other Italic Lang.,,1.0
+China,(miao),minority,CN,china,Hmong–Mien,,2.0
+Vietnam,(miao),minority,VN,vietnam,Hmong–Mien,,2.0
+Laos,(miao),minority,LA,laos,Hmong–Mien,,2.0
+Thailand,(miao),minority,TH,thailand,Hmong–Mien,,2.0
+United States,(miao),minority,US,united states,Hmong–Mien,,2.0
+Australia,(miao),minority,AU,australia,Hmong–Mien,,2.0
+France,(miao),minority,FR,france,Hmong–Mien,,2.0
+Vietnam,(miao),"minority, called ""dao""",VN,vietnam,Hmong–Mien,,2.0
+Laos,(miao),minority,LA,laos,Hmong–Mien,,2.0
+Thailand,(miao),minority,TH,thailand,Hmong–Mien,,2.0
+South Africa,afrikaans,co-official with 10 other languages,ZA,south africa,Germanic,AF,1.0
+Namibia,afrikaans,unofficial,NA,namibia,Germanic,AF,1.0
+United States,afrikaans,minority,US,united states,Germanic,AF,2.0
+Netherlands,afrikaans,minority,NL,netherlands,Germanic,AF,2.0
+United Kingdom,afrikaans,minority,GB,united kingdom,Germanic,AF,2.0
+Germany,afrikaans,minority,DE,germany,Germanic,AF,2.0
+Belgium,afrikaans,minority,BE,belgium,Germanic,AF,2.0
+Australia,afrikaans,minority,AU,australia,Germanic,AF,2.0
+Argentina,afrikaans,minority,AR,argentina,Germanic,AF,2.0
+France,alsatian,regional language in  alsace,FR,france,Germanic,,2.0
+Denmark,danish,official,DK,denmark,Germanic,DA,1.0
+Germany,danish,"in  schleswig-holstein, official recognised minority language",DE,germany,Germanic,DA,1.0
+Faroe Islands,danish,co-official alongside with faroese,FO,faroe islands,Germanic,DA,1.0
+Greenland,danish,minority,GL,greenland,Germanic,DA,2.0
+Iceland,danish,minority,IS,iceland,Germanic,DA,2.0
+Faroe Islands,faroese,co-official with danish,FO,faroe islands,Germanic,,1.0
+Denmark,faroese,unofficial,DK,denmark,Germanic,,1.0
+Denmark,frisian,minority,DK,denmark,Germanic,FY,2.0
+Germany,frisian,official recognised minority language,DE,germany,Germanic,FY,1.0
+Netherlands,frisian,minority language in  friesland,NL,netherlands,Germanic,FY,2.0
+Iceland,icelandic,official,IS,iceland,Germanic,IS,1.0
+Denmark,icelandic,minority,DK,denmark,Germanic,IS,2.0
+Netherlands,icelandic,"nederduits, recognized as regional language",NL,netherlands,Germanic,IS,2.0
+Norway,norwegian,"official, including svalbard and jan mayen",NO,norway,Germanic,NO,1.0
+Scotland,scots,minority in scotland,,scotland,Germanic,,2.0
+Ireland,scots,minority in ireland,IE,ireland,Germanic,,2.0
+Sweden,swedish,official,SE,sweden,Germanic,SV,1.0
+Finland,swedish,co-official with finnish.,FI,finland,Germanic,SV,1.0
+Åland Islands,swedish,official,,åland islands,Germanic,SV,1.0
+Estonia,swedish,minority,EE,estonia,Germanic,SV,2.0
+Afghanistan,balochi,minority,AF,afghanistan,Iranian,,2.0
+Iran,balochi,significant minority in balochistan,IR,iran,Iranian,,2.0
+Pakistan,balochi,majority in balochistan,PK,pakistan,Iranian,,
+United Arab Emirates,balochi,minority,AE,united arab emirates,Iranian,,2.0
+Afghanistan,persian,"co-official as dari, with pashto",AF,afghanistan,Iranian,FA,1.0
+Bahrain,persian,minority,BH,bahrain,Iranian,FA,2.0
+Germany,persian,minority,DE,germany,Iranian,FA,2.0
+Iran,persian,official,IR,iran,Iranian,FA,1.0
+Iraq,persian,significant minority,IQ,iraq,Iranian,FA,2.0
+Pakistan,persian,minority,PK,pakistan,Iranian,FA,2.0
+Qatar,persian,minority,QA,qatar,Iranian,FA,2.0
+Russia,persian,minority,RU,russia,Iranian,FA,2.0
+Tajikistan,persian,"official, as tajik",TJ,tajikistan,Iranian,FA,1.0
+United Arab Emirates,persian,minority,AE,united arab emirates,Iranian,FA,2.0
+United States,persian,minority,US,united states,Iranian,FA,2.0
+Uzbekistan,persian,minority,UZ,uzbekistan,Iranian,FA,2.0
+Afghanistan,tajik,significant minority,AF,afghanistan,Iranian,TG,2.0
+Iran,tajik,minority,IR,iran,Iranian,TG,2.0
+Kazakhstan,tajik,minority,KZ,kazakhstan,Iranian,TG,2.0
+Kyrgyzstan,tajik,minority,KG,kyrgyzstan,Iranian,TG,2.0
+Pakistan,tajik,minority,PK,pakistan,Iranian,TG,2.0
+Tajikistan,tajik,official,TJ,tajikistan,Iranian,TG,1.0
+Uzbekistan,tajik,minority,UZ,uzbekistan,Iranian,TG,2.0
+China,tajik,minority,CN,china,Iranian,TG,2.0
+Turkmenistan,tajik,minority,TM,turkmenistan,Iranian,TG,2.0
+Russia,tajik,minority,RU,russia,Iranian,TG,2.0
+Armenia,kurdish,recognized minority,AM,armenia,Iranian,KU,2.0
+Iran,kurdish,regional,IR,iran,Iranian,KU,2.0
+Iraq,kurdish,co-official with arabic,IQ,iraq,Iranian,KU,1.0
+Syria,kurdish,significant minority,SY,syria,Iranian,KU,2.0
+Turkey,kurdish,significant minority,TR,turkey,Iranian,KU,2.0
+Iran,mazandarani,"unofficial, in māzandarān province",IR,iran,Iranian,,1.0
+Afghanistan,pashto,co-official with dari,AF,afghanistan,Iranian,,1.0
+Iran,pashto,minority,IR,iran,Iranian,,2.0
+Pakistan,pashto,majority in khyber pakhtunkhwa and fata,PK,pakistan,Iranian,,
+United Arab Emirates,pashto,minority,AE,united arab emirates,Iranian,,2.0
+See also: Basque Country (historical territory),,,,see also: basque country (historical territory),Language isolate,,
+France,,majority in northern basque country,FR,france,Language isolate,,
+Spain,,co-official with spanish in  basque country and parts of  navarre,ES,spain,Language isolate,,1.0
+Brazil,korean,minority,BR,brazil,Language isolate,KO,2.0
+China,korean,"minority, co-official with chinese in yanbian korean autonomous prefecture in jilin province",CN,china,Language isolate,KO,1.0
+Japan,korean,minority,JP,japan,Language isolate,KO,2.0
+North Korea,korean,official,KP,north korea,Language isolate,KO,1.0
+South Korea,korean,official,KR,south korea,Language isolate,KO,1.0
+United States,korean,not official – minority[3],US,united states,Language isolate,KO,1.0
+India,nihali,"minority, endangered language",IN,india,Language isolate,,2.0
+Albania,albanian,official,AL,albania,Albanian,SQ,1.0
+Kosovo,albanian,official,,kosovo,Albanian,SQ,1.0
+Macedonia,albanian,significant minority,MK,macedonia,Albanian,SQ,2.0
+Italy,albanian,"significant minority, also as arbëreshë",IT,italy,Albanian,SQ,2.0
+Montenegro,albanian,minority,ME,montenegro,Albanian,SQ,2.0
+Greece,albanian,"significant minority, also as arvanitika",GR,greece,Albanian,SQ,2.0
+Serbia,albanian,minority,RS,serbia,Albanian,SQ,2.0
+Romania,albanian,minority,RO,romania,Albanian,SQ,2.0
+Switzerland,albanian,minority,CH,switzerland,Albanian,SQ,2.0
+South Africa,cantonese,minority,ZA,south africa,Cantonese,zh,2.0
+China,cantonese,regional,CN,china,Cantonese,zh,2.0
+Indonesia,cantonese,minority,ID,indonesia,Cantonese,zh,2.0
+Malaysia,cantonese,minority,MY,malaysia,Cantonese,zh,2.0
+Philippines,cantonese,minority,PH,philippines,Cantonese,zh,2.0
+Singapore,cantonese,minority,SG,singapore,Cantonese,zh,2.0
+Thailand,cantonese,minority,TH,thailand,Cantonese,zh,2.0
+Vietnam,cantonese,minority,VN,vietnam,Cantonese,zh,2.0
+United Kingdom,cantonese,minority,GB,united kingdom,Cantonese,zh,2.0
+Canada,cantonese,minority,CA,canada,Cantonese,zh,2.0
+United States,cantonese,minority,US,united states,Cantonese,zh,2.0
+Australia,cantonese,minority,AU,australia,Cantonese,zh,2.0
+New Zealand,cantonese,minority,NZ,new zealand,Cantonese,zh,2.0
+Brazil,cantonese,minority,BR,brazil,Cantonese,zh,2.0
+Peru,cantonese,minority,PE,peru,Cantonese,zh,2.0
+Angola,yue chinese,minority,AO,angola,Yue Chinese,zh,2.0
+Cape Verde,yue chinese,minority,CV,cape verde,Yue Chinese,zh,2.0
+Mauritius,yue chinese,minority,MU,mauritius,Yue Chinese,zh,2.0
+South Africa,yue chinese,minority,ZA,south africa,Yue Chinese,zh,2.0
+Brunei,yue chinese,minority,BN,brunei,Yue Chinese,zh,2.0
+Cambodia,yue chinese,minority,KH,cambodia,Yue Chinese,zh,2.0
+China,yue chinese,regional,CN,china,Yue Chinese,zh,2.0
+Hong Kong,yue chinese,co-official with english,HK,hong kong,Yue Chinese,zh,1.0
+Indonesia,yue chinese,minority,ID,indonesia,Yue Chinese,zh,2.0
+Japan,yue chinese,minority,JP,japan,Yue Chinese,zh,2.0
+Laos,yue chinese,minority,LA,laos,Yue Chinese,zh,2.0
+Macau,yue chinese,co-official with portuguese,MO,macau,Yue Chinese,zh,1.0
+Malaysia,yue chinese,minority,MY,malaysia,Yue Chinese,zh,2.0
+Burma,yue chinese,minority,MM,burma,Yue Chinese,zh,2.0
+North Korea,yue chinese,minority,KP,north korea,Yue Chinese,zh,2.0
+Philippines,yue chinese,minority,PH,philippines,Yue Chinese,zh,2.0
+Singapore,yue chinese,minority,SG,singapore,Yue Chinese,zh,2.0
+South Korea,yue chinese,minority,KR,south korea,Yue Chinese,zh,2.0
+Thailand,yue chinese,minority,TH,thailand,Yue Chinese,zh,2.0
+Vietnam,yue chinese,minority,VN,vietnam,Yue Chinese,zh,2.0
+Bulgaria,yue chinese,minority,BG,bulgaria,Yue Chinese,zh,2.0
+France,yue chinese,minority,FR,france,Yue Chinese,zh,2.0
+Germany,yue chinese,minority,DE,germany,Yue Chinese,zh,2.0
+Ireland,yue chinese,minority,IE,ireland,Yue Chinese,zh,2.0
+Italy,yue chinese,minority,IT,italy,Yue Chinese,zh,2.0
+Netherlands,yue chinese,minority,NL,netherlands,Yue Chinese,zh,2.0
+Romania,yue chinese,minority,RO,romania,Yue Chinese,zh,2.0
+Russia,yue chinese,minority,RU,russia,Yue Chinese,zh,2.0
+Serbia,yue chinese,minority,RS,serbia,Yue Chinese,zh,2.0
+Spain,yue chinese,minority,ES,spain,Yue Chinese,zh,2.0
+United Kingdom,yue chinese,minority,GB,united kingdom,Yue Chinese,zh,2.0
+Canada,yue chinese,minority,CA,canada,Yue Chinese,zh,2.0
+Cuba,yue chinese,minority,CU,cuba,Yue Chinese,zh,2.0
+Dominican Republic,yue chinese,minority,DO,dominican republic,Yue Chinese,zh,2.0
+Jamaica,yue chinese,minority,JM,jamaica,Yue Chinese,zh,2.0
+Mexico,yue chinese,minority,MX,mexico,Yue Chinese,zh,2.0
+Nicaragua,yue chinese,minority,NI,nicaragua,Yue Chinese,zh,2.0
+Panama,yue chinese,minority,PA,panama,Yue Chinese,zh,2.0
+Trinidad and Tobago,yue chinese,minority,TT,trinidad and tobago,Yue Chinese,zh,2.0
+United States,yue chinese,minority,US,united states,Yue Chinese,zh,2.0
+Australia,yue chinese,minority,AU,australia,Yue Chinese,zh,2.0
+Fiji,yue chinese,minority,FJ,fiji,Yue Chinese,zh,2.0
+New Zealand,yue chinese,minority,NZ,new zealand,Yue Chinese,zh,2.0
+Samoa,yue chinese,minority,WS,samoa,Yue Chinese,zh,2.0
+Tonga,yue chinese,minority,TO,tonga,Yue Chinese,zh,2.0
+Argentina,yue chinese,minority,AR,argentina,Yue Chinese,zh,2.0
+Brazil,yue chinese,minority,BR,brazil,Yue Chinese,zh,2.0
+Chile,yue chinese,regional,CL,chile,Yue Chinese,zh,2.0
+Guyana,yue chinese,minority,GY,guyana,Yue Chinese,zh,2.0
+Peru,yue chinese,minority,PE,peru,Yue Chinese,zh,2.0
+Suriname,yue chinese,minority,SR,suriname,Yue Chinese,zh,2.0
+Greece,greek,official,GR,greece,Greek,EL,1.0
+Cyprus,greek,co-official with turkish,CY,cyprus,Greek,EL,1.0
+Albania,greek,"significant minority, widely spoken and co-official with albanian in himara, dropull, finiq and derviçan regions",AL,albania,Greek,EL,1.0
+Macedonia,greek,minority,MK,macedonia,Greek,EL,2.0
+Russia,greek,minority,RU,russia,Greek,EL,2.0
+Ukraine,greek,minority,UA,ukraine,Greek,EL,2.0
+Turkey,greek,minority,TR,turkey,Greek,EL,2.0
+Italy,greek,minority,IT,italy,Greek,EL,2.0
+Armenia,greek,minority,AM,armenia,Greek,EL,2.0
+Romania,greek,minority,RO,romania,Greek,EL,2.0
+Hungary,greek,minority,HU,hungary,Greek,EL,2.0
+Syria,greek,minority,SY,syria,Greek,EL,2.0
+United States,greek,minority,US,united states,Greek,EL,2.0
+Australia,greek,minority,AU,australia,Greek,EL,2.0
+Botswana,english,co-official with tswana,BW,botswana,English,en,1.0
+Cameroon,english,co-official with french,CM,cameroon,English,en,1.0
+Gambia,english,official,GM,gambia,English,en,1.0
+Ghana,english,official,GH,ghana,English,en,1.0
+Kenya,english,co-official with swahili,KE,kenya,English,en,1.0
+Lesotho,english,co-official with sesotho,LS,lesotho,English,en,1.0
+Liberia,english,official,LR,liberia,English,en,1.0
+Malawi,english,official,MW,malawi,English,en,1.0
+Mauritius,english,official,MU,mauritius,English,en,1.0
+Namibia,english,official,NA,namibia,English,en,1.0
+Nigeria,english,official,NG,nigeria,English,en,1.0
+Rwanda,english,co-official with kinyarwanda and french,RW,rwanda,English,en,1.0
+Seychelles,english,co-official with french and seychellois creole,SC,seychelles,English,en,1.0
+Sierra Leone,english,official,SL,sierra leone,English,en,1.0
+South Africa,english,co-official with 10 other languages,ZA,south africa,English,en,1.0
+South Sudan,english,official,SS,south sudan,English,en,1.0
+Swaziland,english,co-official with swati,SZ,swaziland,English,en,1.0
+Uganda,english,co-official with swahili,UG,uganda,English,en,1.0
+Zambia,english,official,ZM,zambia,English,en,1.0
+Zimbabwe,english,official,ZW,zimbabwe,English,en,1.0
+Bahrain,english,unofficial,BH,bahrain,English,en,1.0
+India,english,co-official with 21 other languages,IN,india,English,en,1.0
+Lebanon,english,significant minority,LB,lebanon,English,en,2.0
+Pakistan,english,co-official with urdu,PK,pakistan,English,en,1.0
+Philippines,english,"co-official with filipino, and with regional languages as auxiliary official languages[2]",PH,philippines,English,en,1.0
+Singapore,english,"co-official with tamil, mandarin, and malay",SG,singapore,English,en,1.0
+Sri Lanka,english,co-official,LK,sri lanka,English,en,1.0
+Bangladesh,english,de facto co-official with bengali,BD,bangladesh,English,en,1.0
+Malaysia,english,"co-official with tamil, mandarin, and malay",MY,malaysia,English,en,1.0
+Brunei,english,"co-official with mandarin, and malay",BN,brunei,English,en,1.0
+Ireland,english,"co-official with irish, see hiberno-english",IE,ireland,English,en,1.0
+Malta,english,co-official with maltese,MT,malta,English,en,1.0
+United Kingdom,english,"co-official with welsh, see british english",GB,united kingdom,English,en,1.0
+Antigua and Barbuda,english,official,AG,antigua and barbuda,English,en,1.0
+Bahamas,english,official,BS,bahamas,English,en,1.0
+Barbados,english,official,BB,barbados,English,en,1.0
+Belize,english,official,BZ,belize,English,en,1.0
+Canada,english,"official, see canadian english",CA,canada,English,en,1.0
+Dominica,english,official,DM,dominica,English,en,1.0
+Grenada,english,official,GD,grenada,English,en,1.0
+Jamaica,english,"official, see jamaican english",JM,jamaica,English,en,1.0
+Saint Kitts and Nevis,english,official,KN,saint kitts and nevis,English,en,1.0
+Saint Lucia,english,official,LC,saint lucia,English,en,1.0
+Saint Vincent and the Grenadines,english,official,VC,saint vincent and the grenadines,English,en,1.0
+Trinidad and Tobago,english,official,TT,trinidad and tobago,English,en,1.0
+United States,english,"de facto, see american english",US,united states,English,en,1.0
+Australia,english,"de facto, see australian english",AU,australia,English,en,1.0
+Fiji,english,co-official with fijian and hindustani,FJ,fiji,English,en,1.0
+Kiribati,english,co-official with kiribati,KI,kiribati,English,en,1.0
+Marshall Islands,english,co-official with marshallese,MH,marshall islands,English,en,1.0
+Nauru,english,de facto,NR,nauru,English,en,1.0
+New Zealand,english,co-official with māori and new zealand sign language; see also new zealand english,NZ,new zealand,English,en,1.0
+Palau,english,co-official with palauan,PW,palau,English,en,1.0
+Papua New Guinea,english,co-official with tok pisin and hiri motu,PG,papua new guinea,English,en,1.0
+Solomon Islands,english,official,SB,solomon islands,English,en,1.0
+Vanuatu,english,co-official with bislama and french,VU,vanuatu,English,en,1.0
+Guyana,english,official,GY,guyana,English,en,1.0
+American Samoa,english,co-official with samoan,AS,american samoa,English,en,1.0
+British Indian Ocean Territory,english,de facto,IO,british indian ocean territory,English,en,1.0
+Anguilla,english,official,AI,anguilla,English,en,1.0
+Bermuda,english,official,BM,bermuda,English,en,1.0
+British Virgin Islands,english,official,,british virgin islands,English,en,1.0
+Cayman Islands,english,official,KY,cayman islands,English,en,1.0
+Christmas Island,english,official,CX,christmas island,English,en,1.0
+Cook Islands,english,co-official with cook islands māori,CK,cook islands,English,en,1.0
+Falkland Islands,english,official,,falkland islands,English,en,1.0
+Gibraltar,english,official,GI,gibraltar,English,en,1.0
+Guam,english,co-official with chamorro,GU,guam,English,en,1.0
+Guernsey,english,official,GG,guernsey,English,en,1.0
+Hong Kong,english,co-official with chinese,HK,hong kong,English,en,1.0
+Isle of Man,english,official,IM,isle of man,English,en,1.0
+Jersey,english,official,JE,jersey,English,en,1.0
+Montserrat,english,official,MS,montserrat,English,en,1.0
+Norfolk Island,english,co-official with norfuk,NF,norfolk island,English,en,1.0
+Northern Mariana Islands,english,co-official with chamorro and carolinian,MP,northern mariana islands,English,en,1.0
+Pitcairn Islands,english,co-official with pitkern,,pitcairn islands,English,en,1.0
+Puerto Rico,english,co-official with spanish,PR,puerto rico,English,en,1.0
+"Saint Helena, Ascension and Tristan da Cunha",english,official,SH,"saint helena, ascension and tristan da cunha",English,en,1.0
+South Georgia and the South Sandwich Islands,english,official,GS,south georgia and the south sandwich islands,English,en,1.0
+Turks and Caicos Islands,english,official,TC,turks and caicos islands,English,en,1.0
+U.S. Virgin Islands,english,official,,u.s. virgin islands,English,en,1.0
+Canada,baltic,"unofficial, spoken in canada",CA,canada,Baltic,,1.0
+Latvia,latgalian,"unofficial, spoken in latgale",LV,latvia,Baltic,,1.0
+Russia,latgalian,significant minority in siberia,RU,russia,Baltic,,2.0
+Latvia,latvian,official,LV,latvia,Baltic,,1.0
+Latvia,lithuanian,minority,LV,latvia,Baltic,LT,2.0
+Lithuania,lithuanian,official,LT,lithuania,Baltic,LT,1.0
+Poland,lithuanian,"minority, majority in the city of puńsk",PL,poland,Baltic,LT,2.0
+Indonesia,batak toba,minority,ID,indonesia,Sunda–Sulawesi,,2.0
+Indonesia,buginese,minority,ID,indonesia,Sunda–Sulawesi,,2.0
+Malaysia,buginese,minority,MY,malaysia,Sunda–Sulawesi,,2.0
+Guam,chamorro,official,GU,guam,Sunda–Sulawesi,,1.0
+Northern Mariana Islands,chamorro,official,MP,northern mariana islands,Sunda–Sulawesi,,1.0
+Russia,evenki,"minority, in siberia",RU,russia,Standard Chinese,,2.0
+China,evenki,"minority, in evenki autonomous banner of inner mongolia",CN,china,Standard Chinese,,2.0
+Mongolia,evenki,minority,MN,mongolia,Standard Chinese,,2.0
+Russia,nanai (hezhen),"minority, in khabarovsk krai",RU,russia,Standard Chinese,,2.0
+China,nanai (hezhen),"minority, in heilongjiang province",CN,china,Standard Chinese,,2.0
+Albania,italian,"unofficial, but widely spoken; some 70% of the population",AL,albania,Italian,IT,1.0
+Belgium,italian,minority,BE,belgium,Italian,IT,2.0
+Croatia,italian,official status in istria,HR,croatia,Italian,IT,1.0
+France,italian,minority language in  corsica,FR,france,Italian,IT,2.0
+Germany,italian,minority,DE,germany,Italian,IT,2.0
+Greece,italian,minority,GR,greece,Italian,IT,2.0
+Italy,italian,official,IT,italy,Italian,IT,1.0
+Luxembourg,italian,minority,LU,luxembourg,Italian,IT,2.0
+Malta,italian,"unofficial, but widely spoken; some 66% of the population",MT,malta,Italian,IT,1.0
+Monaco,italian,"unofficial, but widely spoken",MC,monaco,Italian,IT,1.0
+San Marino,italian,official,SM,san marino,Italian,IT,1.0
+Slovenia,italian,"co-official in koper, izola and piran",SI,slovenia,Italian,IT,1.0
+Switzerland,italian,"co-official with french, german, and romansh",CH,switzerland,Italian,IT,1.0
+Vatican City,italian,official,,vatican city,Italian,IT,1.0
+Eritrea,italian,minority,ER,eritrea,Italian,IT,2.0
+Libya,italian,minority,LY,libya,Italian,IT,2.0
+Somalia,italian,minority,SO,somalia,Italian,IT,2.0
+Argentina,italian,minority,AR,argentina,Italian,IT,2.0
+Brazil,italian,minority,BR,brazil,Italian,IT,2.0
+Canada,italian,minority,CA,canada,Italian,IT,2.0
+Peru,italian,minority,PE,peru,Italian,IT,2.0
+United States,italian,minority[3],US,united states,Italian,IT,2.0
+Uruguay,italian,minority,UY,uruguay,Italian,IT,2.0
+Venezuela,italian,minority,VE,venezuela,Italian,IT,2.0
+Australia,italian,minority,AU,australia,Italian,IT,2.0
+Portugal,europe,official,PT,portugal,Portuguese,,1.0
+Spain,europe,significant minority in olivenza,ES,spain,Portuguese,,2.0
+France,europe,significant minority,FR,france,Portuguese,,2.0
+Luxembourg,europe,significant minority,LU,luxembourg,Portuguese,,2.0
+Switzerland,europe,significant minority,CH,switzerland,Portuguese,,2.0
+Andorra,europe,significant minority,AD,andorra,Portuguese,,2.0
+Germany,europe,significant minority,DE,germany,Portuguese,,2.0
+Angola,africa,official,AO,angola,Portuguese,,1.0
+Cape Verde,africa,official,CV,cape verde,Portuguese,,1.0
+Guinea-Bissau,africa,official,GW,guinea-bissau,Portuguese,,1.0
+Equatorial Guinea,africa,co-official with spanish and french,GQ,equatorial guinea,Portuguese,,1.0
+Mozambique,africa,official,MZ,mozambique,Portuguese,,1.0
+São Tomé and Príncipe,africa,official,,são tomé and príncipe,Portuguese,,1.0
+South Africa,africa,minority,ZA,south africa,Portuguese,,2.0
+Namibia,africa,minority,NA,namibia,Portuguese,,2.0
+Timor-Leste,asia,co-official with tetum,TL,timor-leste,Portuguese,,1.0
+Japan,asia,significant minority; see brazilians in japan,JP,japan,Portuguese,,2.0
+Macau,asia,co-official with chinese,MO,macau,Portuguese,,1.0
+India,asia,minority in goa state,IN,india,Portuguese,,2.0
+United States,north america,significant minority,US,united states,Portuguese,,2.0
+Canada,north america,significant minority,CA,canada,Portuguese,,2.0
+Brazil,south america,"official, see brazilian portuguese",BR,brazil,Portuguese,,1.0
+Paraguay,south america,significant minority,PY,paraguay,Portuguese,,2.0
+Uruguay,south america,minority; see portuñol,UY,uruguay,Portuguese,,2.0
+Venezuela,south america,significant minority,VE,venezuela,Portuguese,,2.0
+France,japanese,minority,FR,france,Japonic languages,JA,2.0
+Japan,japanese,official,JP,japan,Japonic languages,JA,1.0
+Philippines,japanese,minority,PH,philippines,Japonic languages,JA,2.0
+Peru,japanese,minority,PE,peru,Japonic languages,JA,2.0
+United States,japanese,minority,US,united states,Japonic languages,JA,2.0
+Palau,japanese,official in angaur,PW,palau,Japonic languages,JA,1.0
+Brazil,japanese,minority,BR,brazil,Japonic languages,JA,2.0
+Japan,ryukyuan,minority,JP,japan,Japonic languages,,2.0
+Brazil,ryukyuan,minority,BR,brazil,Japonic languages,,2.0
+Angola,hakka,minority,AO,angola,Hakka,,2.0
+Cape Verde,hakka,minority,CV,cape verde,Hakka,,2.0
+Mauritius,hakka,minority,MU,mauritius,Hakka,,2.0
+South Africa,hakka,minority,ZA,south africa,Hakka,,2.0
+Brunei,hakka,minority,BN,brunei,Hakka,,2.0
+Cambodia,hakka,minority,KH,cambodia,Hakka,,2.0
+China,hakka,regional,CN,china,Hakka,,2.0
+Hong Kong,hakka,minority,HK,hong kong,Hakka,,2.0
+Indonesia,hakka,minority,ID,indonesia,Hakka,,2.0
+Japan,hakka,minority,JP,japan,Hakka,,2.0
+Laos,hakka,minority,LA,laos,Hakka,,2.0
+Macau,hakka,minority,MO,macau,Hakka,,2.0
+Malaysia,hakka,minority,MY,malaysia,Hakka,,2.0
+Burma,hakka,minority,MM,burma,Hakka,,2.0
+North Korea,hakka,minority,KP,north korea,Hakka,,2.0
+Philippines,hakka,minority,PH,philippines,Hakka,,2.0
+Singapore,hakka,minority,SG,singapore,Hakka,,2.0
+South Korea,hakka,minority,KR,south korea,Hakka,,2.0
+Taiwan,hakka,minority,TW,taiwan,Hakka,,2.0
+Thailand,hakka,minority,TH,thailand,Hakka,,2.0
+Vietnam,hakka,minority,VN,vietnam,Hakka,,2.0
+Bulgaria,hakka,minority,BG,bulgaria,Hakka,,2.0
+France,hakka,minority,FR,france,Hakka,,2.0
+Germany,hakka,minority,DE,germany,Hakka,,2.0
+Ireland,hakka,minority,IE,ireland,Hakka,,2.0
+Italy,hakka,minority,IT,italy,Hakka,,2.0
+Netherlands,hakka,minority,NL,netherlands,Hakka,,2.0
+Romania,hakka,minority,RO,romania,Hakka,,2.0
+Russia,hakka,minority,RU,russia,Hakka,,2.0
+Serbia,hakka,minority,RS,serbia,Hakka,,2.0
+Spain,hakka,minority,ES,spain,Hakka,,2.0
+United Kingdom,hakka,minority,GB,united kingdom,Hakka,,2.0
+Canada,hakka,minority,CA,canada,Hakka,,2.0
+Cuba,hakka,minority,CU,cuba,Hakka,,2.0
+Dominican Republic,hakka,minority,DO,dominican republic,Hakka,,2.0
+Jamaica,hakka,minority,JM,jamaica,Hakka,,2.0
+Mexico,hakka,minority,MX,mexico,Hakka,,2.0
+Nicaragua,hakka,minority,NI,nicaragua,Hakka,,2.0
+Panama,hakka,minority,PA,panama,Hakka,,2.0
+Trinidad and Tobago,hakka,minority,TT,trinidad and tobago,Hakka,,2.0
+United States,hakka,minority,US,united states,Hakka,,2.0
+Australia,hakka,minority,AU,australia,Hakka,,2.0
+Fiji,hakka,minority,FJ,fiji,Hakka,,2.0
+New Zealand,hakka,minority,NZ,new zealand,Hakka,,2.0
+Samoa,hakka,minority,WS,samoa,Hakka,,2.0
+Tonga,hakka,minority,TO,tonga,Hakka,,2.0
+Argentina,hakka,minority,AR,argentina,Hakka,,2.0
+Brazil,hakka,minority,BR,brazil,Hakka,,2.0
+Chile,hakka,regional,CL,chile,Hakka,,2.0
+Guyana,hakka,minority,GY,guyana,Hakka,,2.0
+Peru,hakka,minority,PE,peru,Hakka,,2.0
+Suriname,hakka,minority,SR,suriname,Hakka,,2.0
+Azerbaijan,azerbaijani,official,AZ,azerbaijan,Turkic languages,AZ,1.0
+Iran,azerbaijani,co-official in iranian azerbaijan,IR,iran,Turkic languages,AZ,1.0
+Iraq,azerbaijani,minority,IQ,iraq,Turkic languages,AZ,2.0
+Georgia,azerbaijani,regional,GE,georgia,Turkic languages,AZ,2.0
+Russia,azerbaijani,co-official in dagestan,RU,russia,Turkic languages,AZ,1.0
+Syria,azerbaijani,minority,SY,syria,Turkic languages,AZ,2.0
+Turkey,azerbaijani,regional,TR,turkey,Turkic languages,AZ,2.0
+Ukraine,azerbaijani,minority,UA,ukraine,Turkic languages,AZ,2.0
+Belarus,azerbaijani,minority,BY,belarus,Turkic languages,AZ,2.0
+China,uyghur,"regional, co-official with chinese in xinjiang uyghur autonomous region",CN,china,Turkic languages,,1.0
+Kazakhstan,uyghur,minority,KZ,kazakhstan,Turkic languages,,2.0
+Afghanistan,uzbek,minority,AF,afghanistan,Turkic languages,UZ,2.0
+China,uzbek,minority,CN,china,Turkic languages,UZ,2.0
+Kyrgyzstan,uzbek,minority,KG,kyrgyzstan,Turkic languages,UZ,2.0
+Russia,uzbek,minority,RU,russia,Turkic languages,UZ,2.0
+Tajikistan,uzbek,minority,TJ,tajikistan,Turkic languages,UZ,2.0
+Turkmenistan,uzbek,minority,TM,turkmenistan,Turkic languages,UZ,2.0
+Uzbekistan,uzbek,official,UZ,uzbekistan,Turkic languages,UZ,1.0
+Afghanistan,kazakh,minority,AF,afghanistan,Turkic languages,KK,2.0
+China,kazakh,"regional, co-official with chinese in ili kazakh autonomous prefecture in xinjiang uyghur autonomous region",CN,china,Turkic languages,KK,1.0
+Iran,kazakh,minority,IR,iran,Turkic languages,KK,2.0
+Kazakhstan,kazakh,official,KZ,kazakhstan,Turkic languages,KK,1.0
+Mongolia,kazakh,minority,MN,mongolia,Turkic languages,KK,2.0
+Russia,kazakh,minority,RU,russia,Turkic languages,KK,2.0
+Tajikistan,kazakh,minority,TJ,tajikistan,Turkic languages,KK,2.0
+Turkey,kazakh,minority,TR,turkey,Turkic languages,KK,2.0
+Turkmenistan,kazakh,minority,TM,turkmenistan,Turkic languages,KK,2.0
+Ukraine,kazakh,minority,UA,ukraine,Turkic languages,KK,2.0
+Uzbekistan,kazakh,minority,UZ,uzbekistan,Turkic languages,KK,2.0
+Afghanistan,kyrgyz,minority,AF,afghanistan,Turkic languages,,2.0
+China,kyrgyz,minority,CN,china,Turkic languages,,2.0
+Kyrgyzstan,kyrgyz,official,KG,kyrgyzstan,Turkic languages,,1.0
+Pakistan,kyrgyz,minority,PK,pakistan,Turkic languages,,2.0
+Tajikistan,kyrgyz,minority,TJ,tajikistan,Turkic languages,,2.0
+Turkey,turkish,official,TR,turkey,Turkic languages,TR,1.0
+Cyprus,turkish,co-official with greek,CY,cyprus,Turkic languages,TR,1.0
+Iraq,turkish,recognized regional lang.,IQ,iraq,Turkic languages,TR,2.0
+Afghanistan,turkish,recognized regional lang.,AF,afghanistan,Turkic languages,TR,2.0
+Kosovo,turkish,recognized regional lang.,,kosovo,Turkic languages,TR,2.0
+Macedonia,turkish,recognized regional lang.,MK,macedonia,Turkic languages,TR,2.0
+Romania,turkish,recognized minority lang.,RO,romania,Turkic languages,TR,2.0
+Bulgaria,turkish,minority,BG,bulgaria,Turkic languages,TR,2.0
+Greece,turkish,minority,GR,greece,Turkic languages,TR,2.0
+Germany,turkish,significant minority,DE,germany,Turkic languages,TR,2.0
+Turkmenistan,turkmen,official,TM,turkmenistan,Turkic languages,TK,1.0
+Iraq,turkmen,majority in northern iraq,IQ,iraq,Turkic languages,TK,
+Iran,turkmen,minority,IR,iran,Turkic languages,TK,2.0
+Afghanistan,turkmen,minority,AF,afghanistan,Turkic languages,TK,2.0
+Russia,turkmen,spoken in stavropol krai,RU,russia,Turkic languages,TK,
+Turkey,turkmen,minority,TR,turkey,Turkic languages,TK,2.0
+Găgăuzia,gagauz,"official language of the autonomous region of gagauzia, moldova",,găgăuzia,Turkic languages,,1.0
+Moldova,gagauz,recognized minority language,MD,moldova,Turkic languages,,2.0
+Ukraine,gagauz,recognized minority language,UA,ukraine,Turkic languages,,2.0
+Tatarstan,tatar,official language of the republic of tatarstan,,tatarstan,Turkic languages,TT,1.0
+Russia,tatar,spoken in russia and in former soviet union,RU,russia,Turkic languages,TT,
+Turkey,tatar,minority,TR,turkey,Turkic languages,TT,2.0
+Crimea  Ukraine,crimean tatar,spoken and protected but not officially recognized language of ukraine,,crimea  ukraine,Turkic languages,,1.0
+Romania,crimean tatar,minority language in dobroudja,RO,romania,Turkic languages,,2.0
+Turkey,crimean tatar,minority,TR,turkey,Turkic languages,,2.0
+Austria,german,official,AT,austria,German,DE,1.0
+Germany,german,official,DE,germany,German,DE,1.0
+Liechtenstein,german,official,LI,liechtenstein,German,DE,1.0
+Switzerland,german,co-official with french and italian,CH,switzerland,German,DE,1.0
+Belgium,german,official,BE,belgium,German,DE,1.0
+Hungary,german,co-official with hungarian in the city of sopron,HU,hungary,German,DE,1.0
+Italy,german,co-official with italian in south tyrol,IT,italy,German,DE,1.0
+Luxembourg,german,co-official with french and luxembourgish,LU,luxembourg,German,DE,1.0
+Poland,german,co-official as auxiliary language in the opole voivodeship,PL,poland,German,DE,1.0
+Vatican City,german,"official with other languages, language of the swiss guard",,vatican city,German,DE,1.0
+France,german,minority in alsace and lorraine,FR,france,German,DE,2.0
+Czech Republic,german,minority,CZ,czech republic,German,DE,2.0
+Denmark,german,minority,DK,denmark,German,DE,2.0
+Romania,german,minority,RO,romania,German,DE,2.0
+Russia,german,minority,RU,russia,German,DE,2.0
+Namibia,german,co-official as auxiliary language,NA,namibia,German,DE,1.0
+Kazakhstan,german,minority,KZ,kazakhstan,German,DE,2.0
+United States,german,minority[3],US,united states,German,DE,2.0
+Argentina,german,minority,AR,argentina,German,DE,2.0
+Brazil,german,minority,BR,brazil,German,DE,2.0
+Chile,german,minority,CL,chile,German,DE,2.0
+Northern Mariana Islands,carolinian,official,MP,northern mariana islands,Micronesian,,1.0
+Guam,carolinian,minority,GU,guam,Micronesian,,2.0
+FS. Micronesia,chuukese,regional,FM,fs. micronesia,Micronesian,,2.0
+Fiji,gilbertese,minority,FJ,fiji,Micronesian,,2.0
+Kiribati,gilbertese,official,KI,kiribati,Micronesian,,1.0
+Nauru,gilbertese,minority,NR,nauru,Micronesian,,2.0
+Solomon Islands,gilbertese,minority,SB,solomon islands,Micronesian,,2.0
+Tuvalu,gilbertese,minority,TV,tuvalu,Micronesian,,2.0
+Vanuatu,gilbertese,minority,VU,vanuatu,Micronesian,,2.0
+FS. Micronesia,kosraean,regional,FM,fs. micronesia,Micronesian,,2.0
+Marshall Islands,marshallese,official,MH,marshall islands,Micronesian,,1.0
+Nauru,nauruan,official,NR,nauru,Micronesian,,1.0
+FS. Micronesia,pohnpeian,regional,FM,fs. micronesia,Micronesian,,2.0
+Palau,sosorolese,regional,PW,palau,Micronesian,,2.0
+Palau,tobian,regional,PW,palau,Micronesian,,2.0
+FS. Micronesia,ulithian,regional,FM,fs. micronesia,Micronesian,,2.0
+FS. Micronesia,yapese,regional,FM,fs. micronesia,Micronesian,,2.0
+Judaism,hebrew,liturgical language of judaism,,judaism,Other Semitic Lang.,IW,
+Israel,hebrew,official,IL,israel,Other Semitic Lang.,IW,1.0
+Malta,maltese,official,MT,malta,Other Semitic Lang.,MT,1.0
+Australia,maltese,minority,AU,australia,Other Semitic Lang.,MT,2.0
+Canada,maltese,minority,CA,canada,Other Semitic Lang.,MT,2.0
+Italy,maltese,minority,IT,italy,Other Semitic Lang.,MT,2.0
+United States,maltese,minority,US,united states,Other Semitic Lang.,MT,2.0
+China,gaoyang,regional,CN,china,Other Sinitic Lang.,,2.0
+China,hui,regional,CN,china,Other Sinitic Lang.,,2.0
+China,jin,regional,CN,china,Other Sinitic Lang.,,2.0
+China,hainanese,regional,CN,china,Other Sinitic Lang.,,2.0
+China,pinghua,regional,CN,china,Other Sinitic Lang.,,2.0
+China,wu,regional,CN,china,Other Sinitic Lang.,,2.0
+Hong Kong,wu,minority,HK,hong kong,Other Sinitic Lang.,,2.0
+United States,wu,minority,US,united states,Other Sinitic Lang.,,2.0
+China,xiang,regional,CN,china,Other Sinitic Lang.,,2.0
+Spain,spanish,official,ES,spain,Spanish,ES,1.0
+Andorra,spanish,majority,AD,andorra,Spanish,ES,
+France,spanish,minority,FR,france,Spanish,ES,2.0
+Germany,spanish,minority,DE,germany,Spanish,ES,2.0
+Gibraltar,spanish,not official – majority,GI,gibraltar,Spanish,ES,1.0
+Italy,spanish,minority,IT,italy,Spanish,ES,2.0
+United Kingdom,spanish,minority,GB,united kingdom,Spanish,ES,2.0
+Equatorial Guinea,spanish,co-official with portuguese and french,GQ,equatorial guinea,Spanish,ES,1.0
+Morocco,spanish,not official – minority,MA,morocco,Spanish,ES,1.0
+Western Sahara,spanish,co-official with arabic,EH,western sahara,Spanish,ES,1.0
+Ceuta,spanish,official,,ceuta,Spanish,ES,1.0
+Melilla,spanish,official,,melilla,Spanish,ES,1.0
+Canary Islands,spanish,official,,canary islands,Spanish,ES,1.0
+"Gabon, Cocobeach",spanish,official,,"gabon, cocobeach",Spanish,ES,1.0
+Japan,spanish,minority,JP,japan,Spanish,ES,2.0
+Philippines,spanish,"former official language, spoken by a minority",PH,philippines,Spanish,ES,1.0
+Belize,spanish,"plurality, but unofficial",BZ,belize,Spanish,ES,1.0
+Costa Rica,spanish,official,CR,costa rica,Spanish,ES,1.0
+Cuba,spanish,official,CU,cuba,Spanish,ES,1.0
+Dominican Republic,spanish,official,DO,dominican republic,Spanish,ES,1.0
+El Salvador,spanish,official,SV,el salvador,Spanish,ES,1.0
+Guatemala,spanish,official,GT,guatemala,Spanish,ES,1.0
+Honduras,spanish,official,HN,honduras,Spanish,ES,1.0
+Mexico,spanish,de facto,MX,mexico,Spanish,ES,1.0
+Nicaragua,spanish,official,NI,nicaragua,Spanish,ES,1.0
+Panama,spanish,official,PA,panama,Spanish,ES,1.0
+United States,spanish,co-official language in new mexico and puerto rico. spoken by a majority in pr and a significant minority in nm. minority elsewhere[3],US,united states,Spanish,ES,1.0
+Argentina,spanish,official,AR,argentina,Spanish,ES,1.0
+Bolivia,spanish,co-official with quechua and aymara,,bolivia,Spanish,ES,1.0
+Brazil,spanish,not official – minority,BR,brazil,Spanish,ES,1.0
+Chile,spanish,official,CL,chile,Spanish,ES,1.0
+Colombia,spanish,official,CO,colombia,Spanish,ES,1.0
+Ecuador,spanish,official,EC,ecuador,Spanish,ES,1.0
+Paraguay,spanish,co-official with guaraní,PY,paraguay,Spanish,ES,1.0
+Peru,spanish,official,PE,peru,Spanish,ES,1.0
+Uruguay,spanish,official,UY,uruguay,Spanish,ES,1.0
+Venezuela,spanish,official,VE,venezuela,Spanish,ES,1.0
+Islam,arabic,liturgical language of islam,,islam,Arabic,AR,
+Algeria,arabic,official,DZ,algeria,Arabic,AR,1.0
+Comoros,arabic,co-official with french,KM,comoros,Arabic,AR,1.0
+Chad,arabic,co-official with french,TD,chad,Arabic,AR,1.0
+Djibouti,arabic,co-official with french,DJ,djibouti,Arabic,AR,1.0
+Egypt,arabic,official,EG,egypt,Arabic,AR,1.0
+Eritrea,arabic,co-official with tigrinya,ER,eritrea,Arabic,AR,1.0
+Libya,arabic,official,LY,libya,Arabic,AR,1.0
+Mauritania,arabic,official,MR,mauritania,Arabic,AR,1.0
+Morocco,arabic,co-official with berber,MA,morocco,Arabic,AR,1.0
+Somalia,arabic,co-official with somali,SO,somalia,Arabic,AR,1.0
+Sudan,arabic,co-official with english,SD,sudan,Arabic,AR,1.0
+Tunisia,arabic,official,TN,tunisia,Arabic,AR,1.0
+Western Sahara,arabic,co-official with spanish,EH,western sahara,Arabic,AR,1.0
+Bahrain,arabic,official,BH,bahrain,Arabic,AR,1.0
+Iraq,arabic,co-official with kurdish,IQ,iraq,Arabic,AR,1.0
+Israel,arabic,co-official with hebrew,IL,israel,Arabic,AR,1.0
+Jordan,arabic,official,JO,jordan,Arabic,AR,1.0
+Kuwait,arabic,official,KW,kuwait,Arabic,AR,1.0
+Lebanon,arabic,official,LB,lebanon,Arabic,AR,1.0
+Oman,arabic,official,OM,oman,Arabic,AR,1.0
+Palestine,arabic,official,PS,palestine,Arabic,AR,1.0
+Qatar,arabic,official,QA,qatar,Arabic,AR,1.0
+Saudi Arabia,arabic,official,SA,saudi arabia,Arabic,AR,1.0
+Syria,arabic,official,SY,syria,Arabic,AR,1.0
+United Arab Emirates,arabic,official,AE,united arab emirates,Arabic,AR,1.0
+Yemen,arabic,official,YE,yemen,Arabic,AR,1.0
+Iran,arabic,regional,IR,iran,Arabic,AR,2.0
+Afghanistan,arabic,regional/religious,AF,afghanistan,Arabic,AR,2.0
+Philippines,arabic,optional language along with spanish,PH,philippines,Arabic,AR,
+France,arabic,minority,FR,france,Arabic,AR,2.0
+Germany,arabic,minority,DE,germany,Arabic,AR,2.0
+Italy,arabic,minority,IT,italy,Arabic,AR,2.0
+Netherlands,arabic,minority,NL,netherlands,Arabic,AR,2.0
+Spain,arabic,minority,ES,spain,Arabic,AR,2.0
+Sweden,arabic,minority,SE,sweden,Arabic,AR,2.0
+Turkey,arabic,significant minority,TR,turkey,Arabic,AR,2.0
+United Kingdom,arabic,minority,GB,united kingdom,Arabic,AR,2.0
+Australia,arabic,minority,AU,australia,Arabic,AR,2.0
+United States,arabic,significant minority[3],US,united states,Arabic,AR,2.0
+Canada,arabic,minority,CA,canada,Arabic,AR,2.0
+Argentina,arabic,"minority, immigrants from lebanon",AR,argentina,Arabic,AR,2.0
+Brazil,arabic,"minority, see arab brazilian",BR,brazil,Arabic,AR,2.0
