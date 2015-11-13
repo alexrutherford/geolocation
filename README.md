@@ -4,6 +4,7 @@ Tools to create a geolocation API similar to [that offered by Google](https://de
 # High Level Logic
 
 1. Takes list of place names from [GeoNames](http://download.geonames.org/export/dump/)  
+2. Takes list of languages and prevalences by country from [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_spoken_languages)
 2. Parses and imports into MySQL DB  
 3. Sets up API with Flask  
 4. Responds to queries of text location strings with coordinates and country name  
@@ -27,8 +28,8 @@ There are four tables `iso`, `places`, `language` and `admin1`
 3. `iso` lists all countries and their ISO codes  
 
 | `name` | `iso2` | `iso3` |
-|--|--|--|
-| Afghanistan | AF | AFG |
+|-------|--|----|
+| Afghanistan | AF | AFG |  
 
 4. `language` lists countries and their languages along with ISO code  
 
@@ -37,6 +38,33 @@ There are four tables `iso`, `places`, `language` and `admin1`
 | Brunei Malay | brunei | BN | regional | NULL | 2
 
 `level` indicates importance of language in that country e.g. 'Significant minority' is level 2 while 'Official' is level 1
+
+# Feature Types
+
+Each feature has an associated type; referring to populated places, geographical features etc. The (partial) count of most common features are  
+
+| PPLA3   |   90397 | Seat of a 3rd order division  
+| PPLX    |   91773 | Section of a populated place  
+| HMSD    |   99105 | Homestead  
+| ADM3    |  108767 | 3rd level admin division  
+| RSTN    |  116788 | Railroad station  
+| LCTY    |  131307 | Locality (*a minor area or place of unspecified or mixed character and indefinite boundaries*)  
+| PPLA4   |  131855 | Seat of a 4th order division  
+| HTL     |  133210 | Hotel  
+| LK      |  161605 | Lake  
+| HLL     |  173397 | Hill  
+| STMI    |  194574 | Intermittent stream  
+| ADM4    |  206125 | 4th level admin division  
+| FRM     |  218814 | Farm  
+| ISL     |  220766 | Island  
+| MT      |  503068 | Mountain    
+| STM     |  593570 | Stream  
+| PPL     | 5812629 | Populated place
+
+# Optimisations  
+
+* Make `name` the primary key in the `places` table, this speeds up querys based on `where` statements  
+* Eliminate all feature types except PPL and any features with zero population  
 
 # API Call
 
@@ -59,7 +87,7 @@ Query DB for `location` with language hint with http://127.0.0.1:5000/loc=`locat
 * Uses ISO-2 code for [languages](http://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/)
 
 
-Error codes follow [W3 guidelines](http://www.w3.org/Protocols/HTTP/HTRESP.html)
+Error codes follow [W3 guidelines](http://www.w3.org/Protocols/HTTP/HTRESP.html), need to be updated to [Heroku spec](https://github.com/interagent/http-api-design)
 
 # Gotchas
 
@@ -84,3 +112,6 @@ Non-core Dependencies
 2. Add in fuzzy matching e.g. Al Raqqah/Al Raqah  
 3. Automatically query Google API and update DB  
 4. Add in admin level 2 as well as level 1  
+5. Add in Google [reverse geocoding](https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=YOUR_API_KEY) for placing lat.long coords
+6. Need to be updated to [Heroku spec](https://github.com/interagent/http-api-design)  
+7. Add in [urlparse](https://docs.python.org/2/library/urlparse.html#module-urlparse)
