@@ -86,6 +86,8 @@ Query DB for `location` with country hint with http://127.0.0.1:5000/loc=`locati
 Query DB for `location` with language hint with http://127.0.0.1:5000/loc=`location`&langs=`lang1,lang2...`
 * Uses ISO-2 code for [languages](http://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/)
 
+Query a large messy string e.g. an entire document with http://127.0.0.1:5000/raw/loc=`rawString` and narrowed down to a single country with http://127.0.0.1:5000/raw/loc=`rawString`&country=`XX`
+* Uses [NLTK](http://www.nltk.org) stopwords 
 
 Error codes follow [W3 guidelines](http://www.w3.org/Protocols/HTTP/HTRESP.html), need to be updated to [Heroku spec](https://github.com/interagent/http-api-design)
 
@@ -107,11 +109,10 @@ Non-core Dependencies
 
 # Todo
 
-0. Add in country names explicitly!  
+0. ~~Add in country names explicitly!~~
 1. Add in clues e.g. likely country, region, timezone or language  
 2. Add in fuzzy matching e.g. Al Raqqah/Al Raqah  
 3. Automatically query Google API and update DB  
 4. Add in admin level 2 as well as level 1  
 5. Add in Google [reverse geocoding](https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=YOUR_API_KEY) for placing lat.long coords
 6. Need to be updated to [Heroku spec](https://github.com/interagent/http-api-design)  
-7. Add in [urlparse](https://docs.python.org/2/library/urlparse.html#module-urlparse)
