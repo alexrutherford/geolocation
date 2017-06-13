@@ -10,12 +10,14 @@ import utils,nltk
 
 stopWords=nltk.corpus.stopwords.words('english')
 
-hdlr = logging.FileHandler('log.log')
+hdlr = logging.FileHandler('./log.log')
+hdlr.setLevel(logging.DEBUG)
+#logging.basicConfig(level=logging.DEBUG)
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 hdlr.setFormatter(formatter)
 
 app = Flask(__name__)
-app.debug=True
+app.debug=False
 app.logger.addHandler(hdlr)
 
 ######################
@@ -106,14 +108,16 @@ def search(locationString):
     '''
 
     locationString=handleLocationString(locationString)
-
+    
     conn = pymysql.connect(host='localhost',user='root',passwd=PW, db='geo',charset='utf8')
     cur = conn.cursor()
 
     query="""select * from places where name='%s'""" % locationString
 
     res=pd.read_sql_query(query,conn)
-    res=res.sort(columns=['pop'],ascending=False)
+    res=res.sort_values(['pop'],ascending=False)
+
+    app.logger.info('Found %d matching: %s' % (res.shape[0],locationString))
 
     conn.commit()
 
@@ -153,7 +157,7 @@ def searchRawCountry(locationString,countryString):
 
     res=pd.concat(tokenResults)
     res.drop_duplicates()
-    res=res.sort(columns=['pop'],ascending=False)
+    res=res.sort_values(['pop'],ascending=False)
 
     return (res.to_json(orient='records'),200)
 
@@ -188,7 +192,7 @@ def searchRaw(locationString):
 
     res=pd.concat(tokenResults)
     res.drop_duplicates()
-    res=res.sort(columns=['pop'],ascending=False)
+    res=res.sort_values(['pop'],ascending=False)
 
     return (res.to_json(orient='records'),200)
 ######################

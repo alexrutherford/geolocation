@@ -1,9 +1,13 @@
 import sys,os,re,csv,urllib2,glob
 sys.path.append('/usr/local/lib/python2.7/dist-packages/')
-import pymysql,logging
+import pymysql,logging,traceback
 import pandas as pd
 from secrets import *
-import BeautifulSoup as bs4
+import bs4
+
+hdlr = logging.FileHandler('log.log')
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+hdlr.setFormatter(formatter)
 
 names=[]
 names.append('id')
@@ -32,11 +36,11 @@ files=glob.glob('files/*txt')
 conn = pymysql.connect(host='localhost',user='root',passwd=PW, db='geo',charset='utf8')
 cur = conn.cursor()
 
-#res=cur.execute('create table places (name varchar(100) character set utf8,clean_name varchar(100) character set utf8, \
-#lat float,lon float,country varchar(2),pop int, elevation mediumint, admin_name varchar(10), feature varchar(10))',)
+res=cur.execute('create table places (name varchar(100) character set utf8,clean_name varchar(100) character set utf8, \
+lat float,lon float,country varchar(2),pop int, elevation mediumint, admin_name varchar(10), feature varchar(10))',)
 ## Create table
 
-#res=cur.execute('create index place_index on places(name)',)
+res=cur.execute('create index place_index on places(name)',)
 # Create index
 
 #################
@@ -47,13 +51,16 @@ def clean(s):
 def putFileInDB(f='files/AE.txt'):
 
     nError=0
-
+    
+    logging.info('Reading in %s' % f)
+        
     try:
         data=pd.read_csv(f,sep='\t',header=None,low_memory=False)
 
         data.columns=names
     except:
         print 'Error reading in %s' % f
+        logging.warning('Error reading in %s' % f)
         return
 
     cmd="INSERT INTO places (name,clean_name,lat,lon,country,pop,elevation,admin_name,feature) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"
@@ -76,6 +83,7 @@ def putFileInDB(f='files/AE.txt'):
             assert cur.rowcount==1
         except:
             nError+=1
+            print traceback.print_exc()
         ############################
         ## All alternate names
         if not pd.isnull(row[1]['alternate_names']):
@@ -90,21 +98,22 @@ def putFileInDB(f='files/AE.txt'):
                 nError+=1
                 pass
     print '%d errors, %d total' % (nError,data.shape[0])
+    logging.info('%d errors, %d total' % (nError,data.shape[0]))
 
 ########################
 def main():
     files=glob.glob('files/*txt')
     files.sort()
 
-    switch=False
+    switch=True
 
     for f in files:
         print f
 
-        if f=='files/SY.txt':
-            switch=True
+        #if f=='files/SY.txt':
+        #    switch=True
 
-        if switch:
+        if True:#f=='files/SY.txt':
             putFileInDB(f=f)
         else:
             print 'Skipping',f

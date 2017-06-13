@@ -116,3 +116,4 @@ Non-core Dependencies
 4. Add in admin level 2 as well as level 1  
 5. Add in Google [reverse geocoding](https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=YOUR_API_KEY) for placing lat.long coords
 6. Need to be updated to [Heroku spec](https://github.com/interagent/http-api-design)  
+7. Add sparse/verbose return option e.g. name and lat/lon
